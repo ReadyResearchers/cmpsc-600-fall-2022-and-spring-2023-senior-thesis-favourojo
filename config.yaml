@@ -2,11 +2,11 @@
 # https://maehr.github.io/academic-pandoc-template/
 
 # Project-specific values
-title: 'Senior Thesis'
-author: 'Student Name'
+title: 'CriticalJustice: Visualizing the Impact of Crime Prevention in Neighborhood Development'
+author: 'Favour Ojo'
 date: '22 July 2022'
-firstreader: 'First Reader'
-secondreader: 'Second Reader'
+firstreader: 'Douglas Luman'
+secondreader: 'Gregory M. Kapfhammer'
 logo: 'images/logo'
 
 # Template Values: DO NOT TOUCH
