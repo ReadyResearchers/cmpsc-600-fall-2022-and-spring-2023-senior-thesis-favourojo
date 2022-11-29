@@ -75,18 +75,13 @@ Direct any questions about issues to your first reader.
 
 # Introduction
 
-This chapter describes your completed senior thesis work,
-including the overall aims  and the background motivating your research. Whenever
-possible, you should use one or more concrete examples and technical diagrams.
-
-It is often useful and necessary to separate the introduction into multiple sections.
-Several possible sections are proposed below, you can use these or distribute your
-introductory text into sections in another way.
-
-The headings below propose _one way_ you might structure this section of the document.
-
 ## History of Pittsburgh Displacement
 Few places held as much promise for the huge numbers of African Americans fleeing the South in the years following the Civil War as the thriving city of Pittsburgh, Pennsylvania. Black people flocked to Pittsburgh, particularly to the Hill District, hoping to find work in the steel and railroad industries and escape the Jim Crow segregationist laws of the Reconstruction-era South. The Hill District was a neighborhood close to downtown but up against steep hills, making it an unattractive place for the city's upper classes to live. In the Hill District, a city-within-a-city that was acknowledged by the 1930s as the center of black culture and commerce, African Americans established close-knit communities. The Negro League Pittsburgh Crawfords, one of the best baseball teams in the country, played there at Greenlee Field, the first black-owned and black-build baseball stadium in America. It was also home to one of the most active jazz scenes in the nation. However, as the century went on, the neighborhood's decaying infrastructure cast a shadow over it. Regardless of whether the Lower Hill District's structures need restoration, the city decided to demolish them in 1956 to make room for the construction of the new Civic Arena. Over the subsequent five years, this resulted in the eviction of 8,000 inhabitants, further causing overcrowding in the Middle and Upper Hill areas. This led to the loss of much of the city's cultural vitality and significantly changed how the Hill is today. After these event, the city of Pittsburgh, as a whole, suffered through a period of economic decline as the city would start to lose their number of jobs and residents to the suburbs and to overseas. Though they faced hardship, the African-American population in Pittsburgh would continue to grow, reaching to about 12% in 1950. However, that would not stop the rampant unfair employment practices and barriers they would have to overcome to live where they wanted to live. Black unemployment was more than twice as high as white unemployment from the early 1950s to the early 1960s, and wealth disparities were pervasive. Even though the city passed a fair employment practices legislation in 1953, approximately 25% of all discrimination complaint cases across the states were filled with the Pittsburgh area office. 
+
+![Crit](images/trend1.png)
+
+## Police and Citizen Relationship
+The Pittsburgh Police Department's budget has risen from a budget of $74 million to $115 million from the years 2014 to 2021, an almost 60% in 7 years. One-fifth of the city's annual budget is represented by this figure. Because of this, many individuals in the Pittsburgh region conveyed the wish to cut the police budget by at least $40 million in order to invest the money elsewhere in the community. Inside the Pittsburgh City Paper, Lauryn Nania writes an article discussing the call for the decrease in police  funcding and an increase in community investment in Pittsburgh, Pennsylvania. In this article, she discusses comments made at a news conference conducted by the Coalition to Reimagine Public Safety. Nanaia recounts a statement Jasiti X, founder of 1Hood Media, made when examining the structural and institutionalized violence that minority groups experience and the fact that these problems frequently lead to violent crimes. The problem cannot be handled if these communities lack the necessary resources. Jarisi X exemplifies his point by saying, "Violence is far more than just crime. Violence is an experience that limits or diminishes people's capacity to survive. Unemployment, inadequate housing, lack of access to medical care, subpar public education systems, food insecurity, and racism are all violence." With this, individuals are concerned with the increase in police funding when problems within community investment continue to be neglected. 
 
 ## SQLite3 
 An SQL database engine that is compact, quick, self-contained, highly reliable, and full featured is implemented by the C-language library knows as SQLite. SQLite database files are frequently used as long-term data storage formats and as containers to move rich content between computers. The distinguishing characteristics of SQLite include self-contained, serverless, zero-configuration, and transactional. SQLite being a serverless database engine makes it differ from its counterparts who are client-server based, MySQL and PostgreSQL.
@@ -195,4 +190,15 @@ unresolved or special issues remain? What recommendations might you make?
 # References
 
 ::: {#refs}
+[Pittsburgh City Paper: Marginalization](https://www.pghcitypaper.com/pittsburgh/turnout-data-show-marginalized-communities-often-have-quietest-voice-in-allegheny-county-elections/Content?oid=22722946)
+
+[Gun Violence](https://www.wesa.fm/politics-government/2022-07-26/allegheny-county-homicide-report)
+
+[Pittsburgh Neighborhood Project](https://pittsburghneighborhoodproject.blog/2021/03/01/gentrification-and-displacement-in-pittsburgh/)
+
+[Pittsburgh History](https://www.marintheatre.org/productions/fences/fences-pittsburgh-1957)
+
+[Pittsburgh City Paper: Policing](https://www.pghcitypaper.com/pittsburgh/police-reform-activists-call-for-decrease-in-pittsburgh-police-funding-and-increase-in-community-investment/Content?oid=19705923)
+
+[Citizen Review Board Analysis](https://www.publicsource.org/who-polices-the-police-in-pittsburgh-and-allegheny-county-a-critical-crossroads-for-civilian-review/)
 :::
