@@ -86,10 +86,34 @@ introductory text into sections in another way.
 The headings below propose _one way_ you might structure this section of the document.
 
 ## Motivation
+The city of Pittsburgh had a metro area population of 1,738,057 in 2018, while the total 
+metro area population, including rural areas was 2,324,743., comprising of many different individuals
+from many different backgrounds. Statistically, the racial composition of Pittsburgh in the year of 
+2022 is 66.37% White, 22.98% Black or African American, 5.83% Asian, 0.19% Native American, and 0.95%
+of other races not listed. Within the semi-diverse community of Pittsburgh, there was a clear displacement
+between the neighborhoods, whether one was speaking about the suburban communities or the urban communities.
+In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. 
+Inside these primarily white communities, the black population percentage stands as 9.8%. 
+
+If one would compare these differing communities, the statistics would show how the black and brown communities are 
+economically disadvantage and more vulnerable to displacement because 
+
+
+
+
+I grew up in the city of Pittsburgh, PA in a suburban neighborhood called Whitehall, which is
+just 10-15 minutes out from the city. Within the community, I felt there was a clear displacement
+between the people in my specific neighborhood and the individuals I would attend my elementary through 
+high school schooling with. My neighborhood consisted of primarily black and brown immigrants while the 
+the neighborhoods that were near us, or near the schools in my district, the population was primarily 
+white. I was oblivious to why this was occurring until I realized this type of situation occurs all throughout
+the Pittsburgh region, whether it was suburban or in the city. I started noticing this once I started to visit
+family that lived in 
 
 ## Current State of the Art
 
 ## Goals of the Project
+The 
 
 ## Ethical Implications
 
