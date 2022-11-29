@@ -85,35 +85,29 @@ introductory text into sections in another way.
 
 The headings below propose _one way_ you might structure this section of the document.
 
+## History of Pittsburgh Displacement
+Few places held as much promise for the huge numbers of African Americans fleeing the South in the years following the Civil War as the thriving city of Pittsburgh, Pennsylvania. Black people flocked to Pittsburgh, particularly to the Hill District, hoping to find work in the steel and railroad industries and escape the Jim Crow segregationist laws of the Reconstruction-era South. The Hill District was a neighborhood close to downtown but up against steep hills, making it an unattractive place for the city's upper classes to live. In the Hill District, a city-within-a-city that was acknowledged by the 1930s as the center of black culture and commerce, African Americans established close-knit communities. The Negro League Pittsburgh Crawfords, one of the best baseball teams in the country, played there at Greenlee Field, the first black-owned and black-build baseball stadium in America. It was also home to one of the most active jazz scenes in the nation. However, as the century went on, the neighborhood's decaying infrastructure cast a shadow over it. Regardless of whether the Lower Hill District's structures need restoration, the city decided to demolish them in 1956 to make room for the construction of the new Civic Arena. Over the subsequent five years, this resulted in the eviction of 8,000 inhabitants, further causing overcrowding in the Middle and Upper Hill areas. This led to the loss of much of the city's cultural vitality and significantly changed how the Hill is today. After these event, the city of Pittsburgh, as a whole, suffered through a period of economic decline as the city would start to lose their number of jobs and residents to the suburbs and to overseas. Though they faced hardship, the African-American population in Pittsburgh would continue to grow, reaching to about 12% in 1950. However, that would not stop the rampant unfair employment practices and barriers they would have to overcome to live where they wanted to live. Black unemployment was more than twice as high as white unemployment from the early 1950s to the early 1960s, and wealth disparities were pervasive. Even though the city passed a fair employment practices legislation in 1953, approximately 25% of all discrimination complaint cases across the states were filled with the Pittsburgh area office. 
+
+## SQLite3 
+An SQL database engine that is compact, quick, self-contained, highly reliable, and full featured is implemented by the C-language library knows as SQLite. SQLite database files are frequently used as long-term data storage formats and as containers to move rich content between computers. The distinguishing characteristics of SQLite include self-contained, serverless, zero-configuration, and transactional. SQLite being a serverless database engine makes it differ from its counterparts who are client-server based, MySQL and PostgreSQL.
+
+## Data Analysis
+
+
+
 ## Motivation
-The city of Pittsburgh had a metro area population of 1,738,057 in 2018, while the total 
-metro area population, including rural areas was 2,324,743., comprising of many different individuals
-from many different backgrounds. Statistically, the racial composition of Pittsburgh in the year of 
-2022 is 66.37% White, 22.98% Black or African American, 5.83% Asian, 0.19% Native American, and 0.95%
-of other races not listed. Within the semi-diverse community of Pittsburgh, there was a clear displacement
-between the neighborhoods, whether one was speaking about the suburban communities or the urban communities.
-In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. 
-Inside these primarily white communities, the black population percentage stands as 9.8%. 
+In 2018, there were 1,738,057 people living in the Pittsburgh metro area, and there was 2,324,743 people living in the Pittsburgh metro region overall, including people living in rural areas. Statistically, the racial composition of Pittsburgh in the year of 2022 is 66.37% White, 22.98% Black or African American, 5.83% Asian, 0.19% Native American, and 0.95% of other races not listed. Within the semi- diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one 
+was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities,the black population percentage stands as 9.8%. 
 
-If one would compare these differing communities, the statistics would show how the black and brown communities are 
-economically disadvantage and more vulnerable to displacement because 
+If one would compare these differing communities, the statistics would show how the black and brown communities are economically disadvantaged and more vulnerable to displacement. According to the Pittsburgh Neighborhood Project, the poorest communities tend to be black and brown communities because of the intentional decisions at the federal, state, and local level that has starved these poor communities of investment. 
 
-
-
-
-I grew up in the city of Pittsburgh, PA in a suburban neighborhood called Whitehall, which is
-just 10-15 minutes out from the city. Within the community, I felt there was a clear displacement
-between the people in my specific neighborhood and the individuals I would attend my elementary through 
-high school schooling with. My neighborhood consisted of primarily black and brown immigrants while the 
-the neighborhoods that were near us, or near the schools in my district, the population was primarily 
-white. I was oblivious to why this was occurring until I realized this type of situation occurs all throughout
-the Pittsburgh region, whether it was suburban or in the city. I started noticing this once I started to visit
-family that lived in 
 
 ## Current State of the Art
 
+
 ## Goals of the Project
-The 
+The goal of this project is to shed light on the effect marginalization has had on the black and brown communities. By doing this, 
+
 
 ## Ethical Implications
 
