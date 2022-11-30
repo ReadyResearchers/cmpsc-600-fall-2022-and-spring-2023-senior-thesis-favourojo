@@ -78,25 +78,23 @@ Direct any questions about issues to your first reader.
 ## History of Pittsburgh Black Population
 Few places held as much promise for the huge numbers of African Americans fleeing the South in the years following the Civil War as the thriving city of Pittsburgh, Pennsylvania. Black people flocked to Pittsburgh, particularly to the Hill District, hoping to find work in the steel and railroad industries and escape the Jim Crow segregationist laws of the Reconstruction-era South. The Hill District was a neighborhood close to downtown but up against steep hills, making it an unattractive place for the city's upper classes to live. In the Hill District, a city-within-a-city that was acknowledged by the 1930s as the center of black culture and commerce, African Americans established close-knit communities. The Negro League Pittsburgh Crawfords, one of the best baseball teams in the country, played there at Greenlee Field, the first black-owned and black-build baseball stadium in America. It was also home to one of the most active jazz scenes in the nation. However, as the century went on, the neighborhood's decaying infrastructure cast a shadow over it. Regardless of whether the Lower Hill District's structures need restoration, the city decided to demolish them in 1956 to make room for the construction of the new Civic Arena. Over the subsequent five years, this resulted in the eviction of 8,000 inhabitants, further causing overcrowding in the Middle and Upper Hill areas. This led to the loss of much of the city's cultural vitality and significantly changed how the Hill is today. After these event, the city of Pittsburgh, as a whole, suffered through a period of economic decline as the city would start to lose their number of jobs and residents to the suburbs and to overseas. Though they faced hardship, the African-American population in Pittsburgh would continue to grow, reaching to about 12% in 1950. However, that would not stop the rampant unfair employment practices and barriers they would have to overcome to live where they wanted to live. Black unemployment was more than twice as high as white unemployment from the early 1950s to the early 1960s, and wealth disparities were pervasive. Even though the city passed a fair employment practices legislation in 1953, approximately 25% of all discrimination complaint cases across the states were filled with the Pittsburgh area office. 
 
-![Historical Trend in Metropolitan Pittsburgh's Population](images/trend1.png)
+## Policing in Pittsburgh
+The Pittsburgh Police Department's budget has risen from a budget of $74 million to $115 million from the years 2014 to 2021, an almost 60% in 7 years. One-fifth of the city's annual budget is represented by this figure. Because of this, many individuals in the Pittsburgh region conveyed the wish to cut the police budget by at least $40 million in order to invest the money elsewhere in the community. Inside the Pittsburgh City Paper, Lauryn Nania writes an article discussing the call for the decrease in police  funding and an increase in community investment in Pittsburgh, Pennsylvania. In this article, she discusses comments made at a news conference conducted by the Coalition to Reimagine Public Safety. Nanaia recounts a statement Jasiti X, founder of 1Hood Media, made when examining the structural and institutionalized violence that minority groups experience and the fact that these problems frequently lead to violent crimes. The problem cannot be handled if these communities lack the necessary resources. Jarisi X exemplifies his point by saying, "Violence is far more than just crime. Violence is an experience that limits or diminishes people's capacity to survive. Unemployment, inadequate housing, lack of access to medical care, subpar public education systems, food insecurity, and racism are all violence." [Pittsburgh City Paper: Policing] With this, individuals are concerned with the increase in police funding when problems within community investment continue to be neglected. According to a 2020 research by the Abolitionist Law Center, there were significant disparities in how Black and white were treated by police in Pittsburgh in 2019. This information was highlighted by the Coalition to Reimagine Public Safety in Lauryn Nania's article. The Abolitionist Law Center report states, "Black people made up only 23.2% of the Pittsburgh population, and yet they made up 43.6% of individuals involved in traffic stops, 71.4% of all frisks, 69% of individuals subject to warrantless search and seizures, and 63% of all arrests conducted by the Pittsburgh Police. When it comes to children, teh disparities were even more vast: Black children accounted for 83% of all warrantless search and seizures of individuals ages 11-18 and 100% of all warrantless search and seizures of children ages 10 and under." These statistics illustrates the effect of the increasing crime prevention rather than analyzing the aspects of what could displace a community. Even with these statistics, Mayor Bill Peduto has resisted calls to dramatically reduce the police budget, arguing that while it has grown, general crime has fallen. Individuals within the community believe with an uprising in interactions with police that end in death such as Antown Ross II and Bruce Kelly Jr., policing can be replaced with required and immediate alternatives. 
 
-The figure above illustrates the Census data of the population of Pittsburgh, Pennsylvania from 1900-2000. One can see the gradual increase in Pittsburgh's population from the early 1900s to 1950s. The slow gradual decrease starts to occur after the peak at the 1960s and continues until the 2000s.
-
-## Police and Citizen Relationship
-The Pittsburgh Police Department's budget has risen from a budget of $74 million to $115 million from the years 2014 to 2021, an almost 60% in 7 years. One-fifth of the city's annual budget is represented by this figure. Because of this, many individuals in the Pittsburgh region conveyed the wish to cut the police budget by at least $40 million in order to invest the money elsewhere in the community. Inside the Pittsburgh City Paper, Lauryn Nania writes an article discussing the call for the decrease in police  funding and an increase in community investment in Pittsburgh, Pennsylvania. In this article, she discusses comments made at a news conference conducted by the Coalition to Reimagine Public Safety. Nanaia recounts a statement Jasiti X, founder of 1Hood Media, made when examining the structural and institutionalized violence that minority groups experience and the fact that these problems frequently lead to violent crimes. The problem cannot be handled if these communities lack the necessary resources. Jarisi X exemplifies his point by saying, "Violence is far more than just crime. Violence is an experience that limits or diminishes people's capacity to survive. Unemployment, inadequate housing, lack of access to medical care, subpar public education systems, food insecurity, and racism are all violence." [Pittsburgh City Paper: Policing] With this, individuals are concerned with the increase in police funding when problems within community investment continue to be neglected. According to a 2020 research by the Abolitionist Law Center, there were significant disparities in how Black and white were treated by police in Pittsburgh in 2019. This information was highlighted by the Coalition to Reimagine Public Safety in Lauryn Nania's article. The Abolitionist Law Center report states, "Black people made up only 23.2% of the Pittsburgh population, and yet they made up 43.6% of individuals involved in traffic stops, 71.4% of all frisks, 69% of individuals subject to warrantless search and seizures, and 63% of all arrests conducted by the Pittsburgh Police. When it comes to children, teh disparities were even more vast: Black children accounted for 83% of all warrantless search and seizures of individuals ages 11-18 and 100% of all warrantless search and seizures of children ages 10 and under." These statistics illustrates the effect of the increasing crime prevention rather than analyzing the aspects of what could displace a community. Even with these statistics, Mayor Bill Peduto has resisted calls to dramatically reduce the police budget, arguing that while it has grown, general crime has fallen. Individuals within the community believe with an uprising in interactions with police that end in death such as Antown Ross II and Bruce Kelly Jr., policing can be replaced with required and immediate alternatives.  
-
-## SQLite3 
-An SQL database engine that is compact, quick, self-contained, highly reliable, and full featured is implemented by the C-language library knows as SQLite. SQLite database files are frequently used as long-term data storage formats and as containers to move rich content between computers. The distinguishing characteristics of SQLite include self-contained, serverless, zero-configuration, and transactional. SQLite being a serverless database engine makes it differ from its counterparts who are client-server based, MySQL and PostgreSQL.
-
-## Data Analysis
-
+## Gun Violence in Pittsburgh 
+According to recent study by county researchers, homicides in Allegheny County are disproportionately concentrated in a small number of high-need regions and disproportionately affect young Black men. Since 
+the beginning of the Coronavirus virus pandemic in 2020, Pittsburgh and Allegheny County's homicide rate has spiked since the initial decline.
 
 
 ## Motivation
-In 2018, there were 1,738,057 people living in the Pittsburgh metro area, and there was 2,324,743 people living in the Pittsburgh metro region overall, including people living in rural areas. Statistically, the racial composition of Pittsburgh in the year of 2022 is 66.37% White, 22.98% Black or African American, 5.83% Asian, 0.19% Native American, and 0.95% of other races not listed. Within the semi- diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one 
-was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities,the Black population percentage stands as 9.8%. 
+The current metro area population in 2022 is 1,699,000, a 0.06% decline from 2021. Statistically, the racial composition of Pittsburgh in the year of 2022 is 66.37% White, 22.98% Black or African American, 5.83% Asian, 0.19% Native American, and 0.95% of other races not listed. Within the semi- diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one 
+was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities, the Black population percentage stands as 9.8%. 
 
-If one would compare these differing communities, the statistics would show how the Black and brown communities are economically disadvantaged and more vulnerable to displacement. According to the Pittsburgh Neighborhood Project, the poorest communities tend to be Black and brown communities because of the intentional decisions at the federal, state, and local level that has starved these poor communities of investment. 
+![Trend in Pittsburgh's Metropolitan Population](images/trend3.png)
+
+The figure above illustrates a line plot of the city of Pittsburgh's historical population from the 1950s to the 2000s, while depicting a second plot of the annual change in Pittsburgh's population. This figure also shows the United Nation's projections of what the metro population of Pittsburgh will be in 2030. One can see how there is gradual increase around the 1950s, and then a clear decrease occurs around the 1990s. After these evident changes, the population of Pittsburgh around the 2000s stays stagnant.
+
+If one would compare these differing communities, the statistics would show how the Black and Brown communities are economically disadvantaged and more vulnerable to displacement. In actuality, issues within displacement represent the negative aspect of enduring poverty and segregation/exclusion. According to the Pittsburgh Neighborhood Project, due to deliberate actions taken at the federal, state, and municipal levels that deprived poor Black and Brown neighborhoods of investment, along with the consequences of white flight, outmigration, and de-industrialization, our poorest communities are as destitute as they are.
 
 
 ## Current State of the Art
@@ -108,18 +106,13 @@ The goal of this project is to shed light on the effect marginalization has had 
 
 ## Ethical Implications
 
-This document requires that you discuss the ethical implications of your work -- no
-matter how benign you consider the outcome of your project. As several major studies
-of ethical issues in computer science assert: _no project is completely value-neutral_.
-
-To assist you in elaborating on these issues, the following areas are topics you might
-consider addressing. You do not need to address all of them.
-
 * Information Privacy
 * Information Accuracy (e.g. can contain reliability)
 * Potential Misuse (e.g. computer crime, unintended consequences)
 * Second- or Third-Party Risk (e.g. safety)
 * Data Collection Issues (e.g. issues inherent in collecting data)
+  - The basis of this project primarily concerns data collection.
+  
 * Algorithmic or Data Bias
 * Potential Power Difference / Social Imbalance / Issues in Equity
 
@@ -192,11 +185,17 @@ unresolved or special issues remain? What recommendations might you make?
 # References
 
 ::: {#refs}
-[Pittsburgh City Paper: Marginalization](https://www.pghcitypaper.com/pittsburgh/turnout-data-show-marginalized-communities-often-have-quietest-voice-in-allegheny-county-elections/Content?oid=22722946)
+[1] Wolfson, Charlie, and Ladimir Garcia. “Turnout Data Show Marginalized Communities Often Have Quietest Voice in Allegheny County Elections.” Pittsburgh City Paper, Pittsburgh City Paper, 28 Nov. 2022, https://www.pghcitypaper.com/pittsburgh/turnout-data-show-marginalized-communities-often-have-quietest-voice-in-allegheny-county-elections/Content?oid=22722946. 
 
 [Gun Violence](https://www.wesa.fm/politics-government/2022-07-26/allegheny-county-homicide-report)
 
+[2] 
+
 [Pittsburgh Neighborhood Project](https://pittsburghneighborhoodproject.blog/2021/03/01/gentrification-and-displacement-in-pittsburgh/)
+
+[Figure 1](https://www.researchgate.net/publication/270051294_How_Migration_Flows_Shape_Elderly_Pop_in_Pittsburgh_10112004/figures?lo=1&utm_source=google&utm_medium=organic)
+
+[Figure 2](https://www.macrotrends.net/cities/23100/pittsburgh/population)
 
 [Pittsburgh History](https://www.marintheatre.org/productions/fences/fences-pittsburgh-1957)
 
