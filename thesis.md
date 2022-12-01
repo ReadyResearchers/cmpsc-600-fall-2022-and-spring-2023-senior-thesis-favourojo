@@ -83,10 +83,11 @@ The Pittsburgh Police Department's budget has risen from a budget of $74 million
 
 ## Gun Violence in Pittsburgh 
 According to recent study by county researchers, homicides in Allegheny County are disproportionately concentrated in a small number of high-need regions and disproportionately affect young Black men. Since 
-the beginning of the Coronavirus virus pandemic in 2020, Pittsburgh and Allegheny County's homicide rate has spiked since the initial decline. 
+the beginning of the Coronavirus pandemic in 2020, Pittsburgh and Allegheny County's homicide rate has spiked since the initial decline. The researchers who conducted the specific study spoke about the results, "All people, regardless of race or socio-economic status, deserve to live in neighborhoods that are safe and free of violence,...violence is heavily concentrated in just a small number of higher-need communities and overwhelmingly cuts short the lives of young Black men". The analysis made by the researchers shows the disadvantage higher-need communities have compared to other communities in Allegheny County, specifically the suburban communities, due to how violence has become normalized. Though there is evidence that gun violence has become assimilated into predominantly Black communities, there still exists a lack of action towards addressing the gun violence issue and lessening the homicide rate. The eastern city neighborhoods of East Hills, Homewood, Larimer, and Lincoln-Lemington, along with a few more on the upper North Side, Hill District, South Hilltop, and West End, as well as Wilkinsburg, a part of Penn Hills, villages in the Mon Valley, are where most homicides occur. Homicides occur in a very small percentage of Allegheny County's census blocks, and 79% of those blocks are located in regions with moderate to severe levels of "community need", which the researchers gauge by looking at statistics on poverty and other factors
 
-![Homicide Hot Spots in Allegheny County](images/GVmap.png)
+![Homicide Hot Spots in Allegheny County](images/violence.png)
 
+The map above visualizes six years of homicides that have taken place in Allegheny County, additionally non-fatal shootings in Pittsburgh. 
 
 ## Motivation
 The current metro area population in 2022 is 1,699,000, a 0.06% decline from 2021. Statistically, the racial composition of Pittsburgh in the year of 2022 is 66.37% White, 22.98% Black or African American, 5.83% Asian, 0.19% Native American, and 0.95% of other races not listed. Within the semi- diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one 
@@ -94,7 +95,6 @@ was speaking about the suburban communities or the urban communities. In both th
 
 ![Trend in Pittsburgh's Metropolitan Population](images/trend3.png)
 
-<img src ="trend3.png" alt="draw" width="100"/>
 
 The figure above illustrates a line plot of the city of Pittsburgh's historical population from the 1950s to the 2000s, while depicting a second plot of the annual change in Pittsburgh's population. This figure also shows the United Nation's projections of what the metro population of Pittsburgh will be in 2030. One can see how there is gradual increase around the 1950s, and then a clear decrease occurs around the 1990s. After these evident changes, the population of Pittsburgh around the 2000s stays stagnant.
 
