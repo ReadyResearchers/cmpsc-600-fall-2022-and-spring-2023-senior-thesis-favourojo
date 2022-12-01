@@ -83,7 +83,9 @@ The Pittsburgh Police Department's budget has risen from a budget of $74 million
 
 ## Gun Violence in Pittsburgh 
 According to recent study by county researchers, homicides in Allegheny County are disproportionately concentrated in a small number of high-need regions and disproportionately affect young Black men. Since 
-the beginning of the Coronavirus virus pandemic in 2020, Pittsburgh and Allegheny County's homicide rate has spiked since the initial decline.
+the beginning of the Coronavirus virus pandemic in 2020, Pittsburgh and Allegheny County's homicide rate has spiked since the initial decline. 
+
+![Homicide Hot Spots in Allegheny County](images/GVmap.png)
 
 
 ## Motivation
@@ -91,6 +93,8 @@ The current metro area population in 2022 is 1,699,000, a 0.06% decline from 202
 was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities, the Black population percentage stands as 9.8%. 
 
 ![Trend in Pittsburgh's Metropolitan Population](images/trend3.png)
+
+<img src ="trend3.png" alt="draw" width="100"/>
 
 The figure above illustrates a line plot of the city of Pittsburgh's historical population from the 1950s to the 2000s, while depicting a second plot of the annual change in Pittsburgh's population. This figure also shows the United Nation's projections of what the metro population of Pittsburgh will be in 2030. One can see how there is gradual increase around the 1950s, and then a clear decrease occurs around the 1990s. After these evident changes, the population of Pittsburgh around the 2000s stays stagnant.
 
@@ -101,7 +105,7 @@ If one would compare these differing communities, the statistics would show how 
 
 
 ## Goals of the Project
-The goal of this project is to shed light on the effect marginalization has had on the Black and brown communities. By doing this, 
+There are marginalized communities almost everywhere. They are persons who are excluded from participating in popular economic, political, cultural, and social activities for a variety of reasons. The goal of this project is to shed light on the effect marginalization has had on these Black and Brown communities. Though there is not a clear solution for marginalization at the moment, there can be steps made to acknowledge the affected individuals, and thus aid in their need for community investment. In fact, there are several benefits to tackling marginalization for the United States of America's economy. The economic prosperity of communities and the entire nation might be significantly increased bu marginalized groups, such as ex-offenders and low-income communities, but they require support from the commercial, public, and social sectors. Concerning those who were previously incarcerated, more opportunities for newly released prisoners to enter the workforce are required. Thus, it opens up avenues for these individuals to re-build their lives and start providing for themselves and also the economy. While also providing opportunities for ex-convicts, individuals should also focus their attention on delivering services to those who most need them. People who are having a hard time financially need assistance, but they are frequently too overburdened by work, family, and other commitments to ask for it. 
 
 
 ## Ethical Implications
@@ -112,7 +116,7 @@ The goal of this project is to shed light on the effect marginalization has had 
 * Second- or Third-Party Risk (e.g. safety)
 * Data Collection Issues (e.g. issues inherent in collecting data)
   - The basis of this project primarily concerns data collection.
-  
+
 * Algorithmic or Data Bias
 * Potential Power Difference / Social Imbalance / Issues in Equity
 
@@ -198,6 +202,8 @@ unresolved or special issues remain? What recommendations might you make?
 [Figure 2](https://www.macrotrends.net/cities/23100/pittsburgh/population)
 
 [Pittsburgh History](https://www.marintheatre.org/productions/fences/fences-pittsburgh-1957)
+
+[Marginalization Solution](https://www.urban.org/urban-wire/keys-americas-economic-growth-are-low-income-and-marginalized-communities)
 
 [Pittsburgh City Paper: Policing](https://www.pghcitypaper.com/pittsburgh/police-reform-activists-call-for-decrease-in-pittsburgh-police-funding-and-increase-in-community-investment/Content?oid=19705923)
 
