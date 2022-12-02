@@ -1,9 +1,4 @@
 # Abstract
 
-Throughout history, marginalization has affected society by making it a less equal, stable, and enjoyable place to live in, whether it be economic, social, or political
-marginalization. Marginalization is the treatment of a person, group, or concept as insignificant or peripheral. It can exist in multiple forms, and can 
-occur against many groups of people. An aspect of marginalization individuals are not aware of is how it drives the crime rate in communities. With the combination 
-of marginalization and crime in a society, the need for crime prevention differs between primarily black communities and primarily white communities. In primarily 
-black communities, there is an excess need for neighborhood development, but it is overshadowed by the assumption that crime prevention should be the focus because 
-of the high number of police dispatches in these communities compared to primarily white communities. The tool, CriticalJustice, will visualize several factors in 
-crime prevention and marginalization that either positively or negatively affect neighborhood development. 
+The tool, CriticalJustice, will visualize several factors in crime prevention and marginalization that either positively or negatively affect neighborhood development.  history, marginalization has affected society by making it a less equal, stable, and enjoyable place to live in, whether it be economic, social, or political marginalization. Marginalization is the treatment of a person, group, or concept as insignificant or peripheral. It can exist in multiple forms, and can 
+occur against many groups of people. An aspect of marginalization individuals are not aware of is how it drives the crime rate in communities. With the combination of marginalization and crime in a society, the need for crime prevention differs between primarily black communities and primarily white communities. In primarily black communities, there is an excess need for neighborhood development, but it is overshadowed by the assumption that crime prevention should be the focus because of the high number of police dispatches in these communities compared to primarily white communities. 
