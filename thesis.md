@@ -31,7 +31,9 @@ When it comes to children, the disparities were even more vast: Black children a
 
 ## Relationship between Citizens and Police
 
-George Floyd's death and other instances of police brutality have sparked national calls for police reform and elevaed public oversight of law enforcement to the top of the agenda in legislative discussions. Because of these instances, residents are starting feel frigtful when around the presence of law enforcement, rather than protected. Local eleveted authorities are moving to establish and broaden civilian supervision, including a recent proposal for referendum to improve Pittsburgh's Citizen Police Review Board (CRPB) and renewed efforts to establish a county wide boad. 
+George Floyd's death and other instances of police brutality have sparked national calls for police reform and elevaed public oversight of law enforcement to the top of the agenda in legislative discussions. Because of these instances, residents are starting feel frightful when around the presence of law enforcement, rather than protected. Local eleceted authorities are moving to establish and broaden civilian supervision, including a recent proposal for referendum to improve Pittsburgh's Citizen Police Review Board (CRPB) and renewed efforts to establish a county wide boad. 
+
+However, some residents are hesistant to a Citizen Police Review Board primarily because they believe it was not be successful towards the pursuit of police reform. 
 
 ## Gun Violence in Pittsburgh 
 
