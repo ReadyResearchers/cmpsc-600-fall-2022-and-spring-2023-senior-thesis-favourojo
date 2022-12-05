@@ -19,6 +19,10 @@ After these events, the city of Pittsburgh, as a whole, suffered through a perio
 
 The Pittsburgh Police Department's budget has risen from a budget of $74 million to $115 million from the years 2014 to 2021, an almost 60% in 7 years. One-fifth of the city's annual budget is represented by this figure. Because of this, many individuals in the Pittsburgh region conveyed the wish to cut the police budget by at least $40 million in order to invest the money elsewhere in the community. 
 
+![Pittsburgh Police Budget Graph](images/budget.png)
+
+The figure visualizes the statistic of the police bureau receiving one-fifth of Pittsburgh's operating budget, which is the largest percentage in over six years. Within this image, one can see how the police budget steadily increases by every year, no sign of decrease. 
+
 
 Inside the Pittsburgh City Paper, Lauryn Nania writes an article discussing the call for the decrease in police  funding and an increase in community investment in Pittsburgh, Pennsylvania. In this article, she discusses comments made at a news conference conducted by the Coalition to Reimagine Public Safety. Nanaia recounts a statement Jasiti X, founder of 1Hood Media, made when examining the structural and institutionalized violence that minority groups experience and the fact that these problems frequently lead to violent crimes. The problem cannot be handled if these communities lack the necessary resources. Jarisi X exemplifies his point by saying, "Violence is far more than just crime. Violence is an experience that limits or diminishes people's capacity to survive. Unemployment, inadequate housing, lack of access to medical care, subpar public education systems, food insecurity, and racism are all violence." [7] 
 
@@ -33,7 +37,7 @@ When it comes to children, the disparities were even more vast: Black children a
 
 George Floyd's death and other instances of police brutality have sparked national calls for police reform and elevaed public oversight of law enforcement to the top of the agenda in legislative discussions. Because of these instances, residents are starting feel frightful when around the presence of law enforcement, rather than protected. Local eleceted authorities are moving to establish and broaden civilian supervision, including a recent proposal for referendum to improve Pittsburgh's Citizen Police Review Board (CRPB) and renewed efforts to establish a county wide boad. 
 
-However, some residents are hesistant to a Citizen Police Review Board primarily because they believe it was not be successful towards the pursuit of police reform. 
+However, some residents are hesistant to a citizen police review board primarily because they believe it was not be successful towards the pursuit of police reform. The varying opinions about citizen review boards by residents of Pittsburgh ranges from individuals believing that the boards can lessen prejudice in officer investigations and increase public trust in the police to boards frequently fail to conduct full investigations and impose discipline. Juliette Rihl and Mitra Nourbakhsh, the authors of "Who polices the police? In Pittsburgh and Allegheny County, a critical crossroads for civilian review", use stastics to assess the effectiveness of a citizen police review board in Pittsburgh, "Between 1998 and 2017, 3% of the more than 3,000 complaints CPRP received resulted in public hearings, one of the final stages of the board's process...Across that time period, Pittsburgh's police chiefs fully rejected many of CPRB's recommendations" [11]. This stat highlights the disconnect between the police department in Pittsburgh and their citizens. Though citizens are voicing their opinions on how policing in conducted in their city, the police department refuses to properly address these issues. They chose to classify them as a non-essential matter. 
 
 ## Gun Violence in Pittsburgh 
 
@@ -63,7 +67,7 @@ The current metro area population in 2022 stands as 1,699,000.[4] Statistically,
 The graph illustrates the different races in Pittsburgh per the percentage in total population. The figure shows that the majority of the population in Pittsburg identify as white compared to the other races present. 
 
 
-Within the semi- diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one 
+Within the semi-diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one 
 was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities, the Black population percentage stands as 9.8%.
 
 ![Trend in Pittsburgh's Metropolitan Population](images/population.png)
@@ -72,7 +76,7 @@ was speaking about the suburban communities or the urban communities. In both th
 The figure above illustrates a line plot of the city of Pittsburgh's historical population from the 1950s to the 2000s, while depicting a second plot of the annual change in Pittsburgh's population. This figure also shows the United Nation's projections of what the metro population of Pittsburgh will be in 2030. One can see how there is gradual increase around the 1950s, and then a clear decrease occurs around the 1990s. After these evident changes, the population of Pittsburgh around the 2000s stays stagnant.
 
 
-If one would compare these differing communities, the statistics would show how the Black and Brown communities are economically disadvantaged and more vulnerable to displacement. In actuality, issues within displacement represent the negative aspect of enduring poverty and segregation/exclusion. According to the Pittsburgh Neighborhood Project, due to deliberate actions taken at the federal, state, and municipal levels that deprived poor Black and Brown neighborhoods of investment, along with the consequences of white flight, outmigration, and de-industrialization, our poorest communities are as destitute as they are.
+If one would compare these differing communities, the statistics would show how the Black and Brown communities are economically disadvantaged and more vulnerable to displacement. In actuality, issues within displacement represent the negative aspect of enduring poverty and segregation/exclusion. According to the Pittsburgh Neighborhood Project, due to deliberate actions taken at the federal, state, and municipal levels that deprived poor Black and Brown neighborhoods of investment, along with the consequences of white flight, outmigration, and de-industrialization, our poorest communities are as destitute as they are. [3]
 
 ![Economic disparties between Black and white communities](images/poverty.png)
 
@@ -89,7 +93,7 @@ Currently, there have been several kinds of actions taken to control housing dev
 For instance, the Pittsburgh Housing Development Corporation (PHDC) was founded with the intention of initating, planning, financing, devloping, and managing Pittsburgh's housing construction. After realizing that neither the private development market nor neighborhood community development corporations were adequately serving significant portions of the city and county, the Urban Redevelopment Authority of Pittsburgh (URA) established the Pittsburgh Housing Development Corporation (PHDC) in 1994. The goal of PHDC was to promote the expansion of, and never supplant, organization that can create both inexpensive and/or market-rate housing. With an organization like the PHDC, there is more attention directed to the neighborhoods that require investment and/or development. Since its founding, PHDC has been involved in the creation of almsot 350 units across the city, including market-rate new construction, affordable single family for sale new construction, single family rehabilitation projects, and multifamily rental complexes. 
 
 
-Another example is the Neighborhood Community Development Fund, which was formerly knows as the "Northside Community Devlopment Fund". They are a more than 20-year old, neighborhood-focused community loan fund based in Pittsburgh's Northside. Their mission is to assure that the neighborhoods who need it will receive the economic opportunits and community revitalization to thrive. While also providing resources, they aid disadvantaged neighborhoods by creating affordable housing and leading the redevelopment of the neighborhoods in Allegheny County. Specifically, these ventures should include opportunies of for all the members of the community, women, people of color, and people of different ancestries. According to the Neighborhood Community Development Fund website, since their founding, they have been able to accomplish 399 loans funded, 1,336 jobs created, and 70 affordable houses financed. 
+Another example is the Neighborhood Community Development Fund, which was formerly knows as the "Northside Community Devlopment Fund". They are a more than 20-year old, neighborhood-focused community loan fund based in Pittsburgh's Northside. Their mission is to assure that the neighborhoods who need it will receive the economic opportunits and community revitalization to thrive. While also providing resources, they aid disadvantaged neighborhoods by creating affordable housing and leading the redevelopment of the neighborhoods in Allegheny County. Specifically, these ventures should include opportunies of for all the members of the community, women, people of color, and people of different ancestries. According to the Neighborhood Community Development Fund website, since their founding, they have been able to accomplish 399 loans funded, 1,336 jobs created, and 70 affordable houses financed. [9]
 
 
 ## Goals of the Project
@@ -210,6 +214,7 @@ unresolved or special issues remain? What recommendations might you make?
 [7] Nania, Lauryn. “Police-Reform Activists Call for Decrease in Pittsburgh Police Funding and Increase in Community Investment.” Pittsburgh City Paper, Pittsburgh City Paper, 1 Dec. 2022, https://www.pghcitypaper.com/pittsburgh/police-reform-activists-call-for-decrease-in-pittsburgh-police-funding-and-increase-in-community-investment/Content?oid=19705923. 
 
 
+
 [8] “Let's Talk about Race: Data Page.” PublicSource, https://projects.publicsource.org/pittsburgh-race/data.html.
 
 
@@ -222,5 +227,8 @@ unresolved or special issues remain? What recommendations might you make?
 
 
 
-[Citizen Review Board Analysis](https://www.publicsource.org/who-polices-the-police-in-pittsburgh-and-allegheny-county-a-critical-crossroads-for-civilian-review/)
+[11] Juliette Rihl, Mitra Nourbakhsh. “Who Polices the Police? in Pittsburgh and Allegheny County, A Critical Crossroads for Civilian Review.” PublicSource, 13 Aug. 2020, https://www.publicsource.org/who-polices-the-police-in-pittsburgh-and-allegheny-county-a-critical-crossroads-for-civilian-review/. 
+
+
+
 :::
