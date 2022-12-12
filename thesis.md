@@ -6,7 +6,7 @@
 Few places held as much promise for the huge numbers of African Americans fleeing the South in the years following the Civil War as the thriving city of Pittsburgh, Pennsylvania. Black people flocked to Pittsburgh, particularly to the Hill District, hoping to find work in the steel and railroad industries and escape the Jim Crow segregationist laws of the Reconstruction-era South. This was during the time period when Pittsburgh had a very booming steel manufacturing industry. 
 
 
-The Hill District was a neighborhood close to downtown but up against steep hills, making it an unattractive place for the city's upper classes to live. In the Hill District, a city-within-a-city that was acknowledged by the 1930s as the center of black culture and commerce, African Americans established close-knit communities. The Negro League Pittsburgh Crawfords, one of the best baseball teams in the country, played in the comunnity at Greenlee Field, the first black-owned and black-build baseball stadium in America. It was also home to one of the most active jazz scenes in the nation. 
+The Hill District was a neighborhood close to downtown but up against steep hills, making it an unattractive place for the city's upper classes to live. In the Hill District, a city-within-a-city that was acknowledged by the 1930s as the center of black culture and commerce, African Americans established close-knit communities. The Negro League Pittsburgh Crawfords, one of the best baseball teams in the country, played in the comunnity at Greenlee Field, the first black-owned and black-build baseball stadium in America. It was also home to one of the most active jazz scenes in the nation.
   
 
 However, as the century went on, the neighborhood's decaying infrastructure cast a shadow over it. Regardless of whether the Lower Hill District's structures need restoration, the city decided to demolish them in 1956 to make room for the construction of the new Civic Arena. Over the subsequent five years, this resulted in the eviction of 8,000 inhabitants, further causing overcrowding in the Middle and Upper Hill areas. This led to the loss of much of the city's cultural vitality and significantly changed how the Hill is today.
@@ -35,9 +35,9 @@ When it comes to children, the disparities were even more vast: Black children a
 
 ## Relationship between Citizens and Police
 
-George Floyd's death and other instances of police brutality have sparked national calls for police reform and elevaed public oversight of law enforcement to the top of the agenda in legislative discussions. Because of these instances, residents are starting feel frightful when around the presence of law enforcement, rather than protected. Local eleceted authorities are moving to establish and broaden civilian supervision, including a recent proposal for referendum to improve Pittsburgh's Citizen Police Review Board (CRPB) and renewed efforts to establish a county wide boad. 
+George Floyd's death and other instances of police brutality have sparked national calls for police reform and elevaed public oversight of law enforcement to the top of the agenda in legislative discussions. Because of these instances, residents are starting feel frightful when around the presence of law enforcement, rather than protected. Local eleceted authorities are moving to establish and broaden civilian supervision, including a recent proposal for referendum to improve Pittsburgh's Citizen Police Review Board (CRPB) and renewed efforts to establish a county wide board. 
 
-However, some residents are hesistant to a citizen police review board primarily because they believe it was not be successful towards the pursuit of police reform. The varying opinions about citizen review boards by residents of Pittsburgh ranges from individuals believing that the boards can lessen prejudice in officer investigations and increase public trust in the police to boards frequently fail to conduct full investigations and impose discipline. Juliette Rihl and Mitra Nourbakhsh, the authors of "Who polices the police? In Pittsburgh and Allegheny County, a critical crossroads for civilian review", use stastics to assess the effectiveness of a citizen police review board in Pittsburgh, "Between 1998 and 2017, 3% of the more than 3,000 complaints CPRP received resulted in public hearings, one of the final stages of the board's process...Across that time period, Pittsburgh's police chiefs fully rejected many of CPRB's recommendations" [11]. This stat highlights the disconnect between the police department in Pittsburgh and their citizens. Though citizens are voicing their opinions on how policing in conducted in their city, the police department refuses to properly address these issues. They chose to classify them as a non-essential matter. 
+However, some residents are hesitant to a citizen police review board primarily because they believe it was not be successful towards the pursuit of police reform. The varying opinions about citizen review boards by residents of Pittsburgh ranges from individuals believing that the boards can lessen prejudice in officer investigations and increase public trust in the police to boards frequently fail to conduct full investigations and impose discipline. Juliette Rihl and Mitra Nourbakhsh, the authors of "Who polices the police? In Pittsburgh and Allegheny County, a critical crossroads for civilian review", use stastics to assess the effectiveness of a citizen police review board in Pittsburgh, "Between 1998 and 2017, 3% of the more than 3,000 complaints CPRP received resulted in public hearings, one of the final stages of the board's process...Across that time period, Pittsburgh's police chiefs fully rejected many of CPRB's recommendations" [11]. This stat highlights the disconnect between the police department in Pittsburgh and their citizens. Though citizens are voicing their opinions on how policing in conducted in their city, the police department refuses to properly address these issues. They chose to classify them as a non-essential matter. 
 
 ## Gun Violence in Pittsburgh 
 
@@ -84,13 +84,12 @@ If one would compare these differing communities, the statistics would show how 
 The figure here shows the percentage of poor white and black residents living in high or extreme poverty neighborhoods in Pittsburgh according to the 2017 American Community survey estimates. Evidently, there is a higher percentage of Black resident living in high or extreme poverty. 
 
 
-
 ## Current State of the Art
 
 Currently, there have been several kinds of actions taken to control housing development throughout Pittsburgh. Since the early 1990s, organizations and/or corporations have started to notice the neighborhood development crisis continue to worsen in Pittsburgh, and city officials continuing to leave  this plight unnoticed. Each of these organizations thrive to see the displacement of different Pittsburgh neighbrhoods be eradicted in the upcoming years. 
 
 
-For instance, the Pittsburgh Housing Development Corporation (PHDC) was founded with the intention of initating, planning, financing, devloping, and managing Pittsburgh's housing construction. After realizing that neither the private development market nor neighborhood community development corporations were adequately serving significant portions of the city and county, the Urban Redevelopment Authority of Pittsburgh (URA) established the Pittsburgh Housing Development Corporation (PHDC) in 1994. The goal of PHDC was to promote the expansion of, and never supplant, organization that can create both inexpensive and/or market-rate housing. With an organization like the PHDC, there is more attention directed to the neighborhoods that require investment and/or development. Since its founding, PHDC has been involved in the creation of almsot 350 units across the city, including market-rate new construction, affordable single family for sale new construction, single family rehabilitation projects, and multifamily rental complexes. 
+For instance, the Pittsburgh Housing Development Corporation (PHDC) was founded with the intention of initating, planning, financing, devloping, and managing Pittsburgh's housing construction. After realizing that neither the private development market nor neighborhood community development corporations were adequately serving significant portions of the city and county, the Urban Redevelopment Authority of Pittsburgh (URA) established the Pittsburgh Housing Development Corporation (PHDC) in 1994. The goal of PHDC was to promote the expansion of, and never supplant, organization that can create both inexpensive and/or market-rate housing. With an organization like the PHDC, there is more attention directed to the neighborhoods that require investment and/or development. Since its founding, PHDC has been involved in the creation of almost 350 units across the city, including market-rate new construction, affordable single family for sale new construction, single family rehabilitation projects, and multifamily rental complexes. 
 
 
 Another example is the Neighborhood Community Development Fund, which was formerly knows as the "Northside Community Devlopment Fund". They are a more than 20-year old, neighborhood-focused community loan fund based in Pittsburgh's Northside. Their mission is to assure that the neighborhoods who need it will receive the economic opportunits and community revitalization to thrive. While also providing resources, they aid disadvantaged neighborhoods by creating affordable housing and leading the redevelopment of the neighborhoods in Allegheny County. Specifically, these ventures should include opportunies of for all the members of the community, women, people of color, and people of different ancestries. According to the Neighborhood Community Development Fund website, since their founding, they have been able to accomplish 399 loans funded, 1,336 jobs created, and 70 affordable houses financed. [9]
@@ -109,24 +108,44 @@ While also providing opportunities for ex-convicts, individuals should also focu
 
 ## Ethical Implications
 
-Regarding data science, there are pre-cautions individuals should take when completing projects take require data collection. The ability to access enormous amounts of data has profound effects on society. The human population has the potential to solve more problems and do more than ever before due to technology breakthroughs. However, it is crucial to keep in mind that law, ethics, and the concepts of privacy, trust, and security are all intertwined. 
+Regarding data science, there are pre-cautions individuals should take when completing projects take require data collection. The ability to access enormous amounts of data has profound effects on society. The human population has the potential to solve more problems and do more than ever before due to technology breakthroughs. However, it is crucial to keep in mind that law, ethics, and the concepts of privacy, trust, and security are all intertwined.
 
 
-Data collection, in general, mandataes several ethical considerations to be taken. For example, acquiring permission to use or share data, receiving clear and informed consent, and securely keeping data. Since this project relies heavily on data, there is a concern about information accuracy. To mitigate this harm, I have been carefully processing through the data sets I have acquired to ensure the data collected was not tampered with / has incorrect data. 
+Data collection, in general, mandates several ethical considerations to be taken. For example, acquiring permission to use or share data, receiving clear and informed consent, and securely keeping data. Since this project relies heavily on data, there is a concern about information accuracy. To mitigate this harm, I have been carefully processing through the data sets I have acquired to ensure the data collected was not tampered with / has incorrect data.
 
-It is crucial to have defined procedures for data sharing in addition to having clear processes in palce for data collection.
+It is crucial to have defined procedures for data sharing in addition to having clear processes in place for data collection.
 
 
 # Related work
 
-This chapter includes a broad and detailed review of relevant existing work.
-The literature review should provide background and context for the thesis work.
-The subsections may be organized in whatever manner seems best suited to the material--
-chronological, or by topic, or according to some other criteria
-(e.g., primary versus secondary resources).
+## Pittsburgh Neighborhood Project
 
-If ethical issues are central to this work, you should also address historical and
-contemporary issues or efforts made to address them.
+The 90 communities in the city of Pittsburgh are examined street by street in the Pittsburgh Neighborhood Project. The truth of enduring racial and economic segregation is reveled by this project as each neighborhood's beauty and individuality are also investigated. The mission of this project is to inform Pittsburgh residents about the origins, effects, and ongoing racial and economic segregation in Pittsburgh's neighborhood. The project also hopes to draw attention to the areas and the people who live there who desperately need long-term, equitable, all-encompassing investment.  
+
+Similar to the project CriticalJustice, the Pittsburgh Neighborhood Project focus on indicators of why a specific community requires a higher level of need than other communities. In contrast, the Pittsburgh Neighborhood Project focuses on how poverty affects the citizens of the community, compared to how CriticalJustice will focus on how lack of infrastructure and over-policing affect a community. Similary, both of the projects focus on the idea that everyone, regardless of their color or social standing, deserves to live in areas that are secure and free from violence.
+
+The Pittsburgh Neighborhood Project emphasizes the idea that because race matters, place matters (i.e., our neighborhoods were segregated by design). Particularly, from the early 1900s on, municipal land use control was employed to primarily favor White property owners at the expense of Black and poor people.
+
+
+
+## Infrastructure and Policing Research  
+
+In the project CriticalJustice, the aim is to visualize how factors such as lack of infrastructure and over-policing disproportionately affect the neighborhood development in Black communities compared to white communities. Within several aspects of infrastructure, Black communities continually face some type of disadvantage. For instance, in Jesus M. Barajas' article, "Biking where Black: Connecting transportation planning and infrastructure to disproportionate policing", he examines whether excessive policing is related to transit limitations while using the example of cycling in Chicago. He would then report his findings, "Tickets were issued 8 times more often per capita in majority Black tracts and 3 times more often in majority Latino tracts compared to majority white tracts. More tickets were issued on major streets, but up to 85% fewer were issued when those streets had bike facilities, which was less prevalent in Black and Latino neighborhoods." From these statistics, one can conclude that the impacts of racially biased policing are exacerbated in the context of transportation safety tactics by infrastructure imbalances.
+
+
+Black, Latino, and low-income neighborhoods in Chicago are more likely to be labeled as "dangerous" places for cyclists, but this exists due to historical underinvestment and failure to build sufficient infrastructure. Because of the element of danger in these communities, Barajas states how, "...safety advocates have called for an overhaul of the traditional 3 E's approach to safety focused on engineering, education, and enforcement to one that mitigates the impacts of crashes through a safe systems approach." This would soon become labeled as  Vision Zero, an approach that puts a lot greater focus on using data to target and create the best roadside countermeasures possible in order to completely eradicate traffic fatalities. With an approach like this, there will be a demand for a component of traffic enforcement to stop the riskiest driving practices. However, if police are continually being sent into areas with this goal, a trend will arise of stops unrelated to immediate safety increasing. Because of the impacts of policing on communities of color that are disproportionate, advocates have started to question the significance of policing in comprehensive safety methods like Vision Zero.
+
+
+
+
+## Neighborhood Investment and Crime
+
+With the aim of enhancing community conditions, service access, and ultimately the wellbeing of people, there is growing interest in rejuvenating urban neighborhoods that have historically experienced disinvestment. However, place-based affordable housing is frequently opposed by locals who claim that it will increase crime and drive down poverty values. In the article, "Do investments in low-income neighborhoods produce objective change in health-realted neighborhood conditions", the authors Researchers have noticed that there is a necessity to evaluate to what extent may the revival of troubled, low-income urban-districts be triggered by strategic allocation or processes associated to development implementation. In other words, there is not enough evidence to declare that community investment really affect characteristics that may have a direct impact on inhabitants' capacity to live comfortably, such as crime incidence reports and walkability that has been objectively analyzed.
+
+In addition to this article's findings, the article, "Residential crimes and neighbourhood build environment: Assessng the effectiveness of crime prevention through environmental design (CPTED)", evaluates the relationship between residential crime and the built environment that adheres to the CPTED principles at the neighborhood level. In this article, the author, Dong-Wook Sohn, highlights the claim that criminologists make about how demographic and socioeconomic conditions are highly linked to crime in urban neighborhoods. However, when it comes to the perspective of environmental psychology, crime is thought to be a behavior that is influenced by the physical aspects of the environment. Sohn references the a book called, "The Death and Life of Great American Cities'", which is made by Jane Jacobs to introduce her claim that, "the continual use of public areas promoted by the creation of open, permeable environment with mixed land uses was the most effective way of ensuring informal surveillance." In this claim, Jacobs stresses how if there was more emphasizes on the the public areas of the environment, especially with mixed land uses, informal surveillance would be ensured. Thus, such arguments are founded on the premise that increased opportunities for informal monitoring present themselves as the number of people on the streets increases, discouraging criminal action.
+
+
+
 
 # Method of approach
 
@@ -193,7 +212,7 @@ unresolved or special issues remain? What recommendations might you make?
 
 
 
-[3] The Pittsburgh Neighborhood Project. “Gentrification and Displacement in Pittsburgh.” The Pittsburgh Neighborhood Project, 19 Nov. 2022, https://pittsburghneighborhoodproject.blog/2021/03/01/gentrification-and-displacement-in-pittsburgh/.
+[3] The Pittsburgh Neighborhood Project. The Pittsburgh Neighborhood Project, 19 Nov. 2022, https://pittsburghneighborhoodproject.blog/.
 
 
 
@@ -227,8 +246,16 @@ unresolved or special issues remain? What recommendations might you make?
 
 
 
-[11] Juliette Rihl, Mitra Nourbakhsh. “Who Polices the Police? in Pittsburgh and Allegheny County, A Critical Crossroads for Civilian Review.” PublicSource, 13 Aug. 2020, https://www.publicsource.org/who-polices-the-police-in-pittsburgh-and-allegheny-county-a-critical-crossroads-for-civilian-review/. 
+[11] Juliette Rihl, Mitra Nourbakhsh. “Who Polices the Police? in Pittsburgh and Allegheny County, A Critical Crossroads for Civilian Review.” PublicSource, 13 Aug. 2020, https://www.publicsource.org/who-polices-the-police-in-pittsburgh-and-allegheny-county-a-critical-crossroads-for-civilian-review/.
 
+
+[12] Barajas, Jesus M., et al. “Biking Where Black: Connecting Transportation Planning and Infrastructure to Disproportionate Policing.” Transportation Research Part D: Transport and Environment, Pergamon, 3 Sept. 2021, https://www.sciencedirect.com/science/article/pii/S1361920921003254?via%3Dihub.
+
+[13] Holliday, Stephanie Brooks, et al. “Do Investments in Low-Income Neighborhoods Produce Objective Change in Health-Related Neighborhood Conditions?” Health &amp; Place, Pergamon, 15 June 2020, https://www.sciencedirect.com/science/article/pii/S1353829220300666?via%3Dihub.
+
+[14] Dong-Wook Sohn,"Residential crimes and neighbourhood built environment: Assessing the effectiveness of crime prevention through environmental design (CPTED)", Cities, Volume 52, 2016, Pages 86-93, ISSN 0264-2751,
+https://doi.org/10.1016/j.cities.2015.11.023.
+(https://www.sciencedirect.com/science/article/pii/S0264275115300159)
 
 
 :::
