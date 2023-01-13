@@ -1,6 +1,11 @@
 # Introduction
 
-## History of Pittsburgh Black Population
+## Infrastructure 
+
+
+
+
+## History of 
 
 
 Few places held as much promise for the huge numbers of African Americans fleeing the South in the years following the Civil War as the thriving city of Pittsburgh, Pennsylvania. Black people flocked to Pittsburgh, particularly to the Hill District, hoping to find work in the steel and railroad industries and escape the Jim Crow segregationist laws of the Reconstruction-era South. This was during the time period when Pittsburgh had a very booming steel manufacturing industry.
