@@ -9,7 +9,7 @@ jobs:
     steps:
       - name: Install FUSE
         run: sudo apt install fuse
-        name: Install pandoc
+      - name: Install pandoc
         uses: nikeee/setup-pandoc@v1
       - name: Install pandoc-citeproc
         run:  sudo apt-get -qq update && sudo apt-get install -y pandoc-citeproc
