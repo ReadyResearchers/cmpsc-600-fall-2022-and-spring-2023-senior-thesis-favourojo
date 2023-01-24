@@ -6,24 +6,23 @@ There are several reasons crime occurs in a certain community. These could range
 
 In order for individuals to understand the impact of factors in the determinants of crime and the relationship with infrastructure that affect neighborhood development, one has to understand the conditions of the Black population in Pittsburgh, PA.
 
-According to the U.S. Census, 7,000 persons of color left Pittsburgh between 2014 and 2018-as recently as May 2021. According to a news report on WPXI-TV, Pittsgburgh's news source, by Michele Newell, the wholesale eviction of Black inhabitants from Pittsburgh is the primary cause of the outmigration. Newell reports that Black and Brown people in the city of Pittsburgh believe that they aren't given tools to create and preserve affordable housing. Black and Brown people in the city of Pittsburgh were able to voice their concerns about mass displacement of Black residents in Pittsburgh during the City Council's public hearing. A woman exclaims during the hearing that, "Pittsburgh fails Black women and their families terribly! Unemployment and housing!"
+According to the U.S. Census, 7,000 persons of color left Pittsburgh between 2014 and 2018-as recently as May 2021. According to a news report on WPXI-TV, Pittsgburgh's news source, by Michele Newell, the wholesale eviction of Black inhabitants from Pittsburgh is the primary cause of the outmigration. Newell reports that Black and Brown people in the city of Pittsburgh believe that they aren't given tools to create and preserve affordable housing. Black and Brown people in the city of Pittsburgh were able to voice their concerns about mass displacement of Black residents in Pittsburgh during the City Council's public hearing. A woman exclaims during the hearing that, "Pittsburgh fails Black women and their families terribly! Unemployment and housing!" [@newell_2021]
 
 It is clear from the above testimony and the facts provided by the news reporter that Black and Brown individuals are dissatisfied with quality of life in Pittsburgh.
 
-According to an article titled, "Pitt report: Quality of life for black residents worse in Pittsburgh than in other cities", Emily Wolfe reports that the former Mayor Bill Peduto's Gender Equity Commission released a report that investigates racial and gender disparity in the City. According to the report conducted by a team of Pitt researchers, "while Pittsburgh ranks in the middle 50% of American cities when it comes to health, employment, income and education for its white residents, those same factors rank much lower for black residents."
+According to an article titled, "Pitt report: Quality of life for black residents worse in Pittsburgh than in other cities", Emily Wolfe reports that the former Mayor Bill Peduto's Gender Equity Commission released a report that investigates racial and gender disparity in the City. According to the report conducted by a team of Pitt researchers, "while Pittsburgh ranks in the middle 50% of American cities when it comes to health, employment, income and education for its white residents, those same factors rank much lower for black residents." [@wolfe_2019]
 
-The above factors, health, employment, income, and education, are essential for neighborhood development, and predominantly Black communities suffer because they do not have access to these elements compared to their white counterparts. 
+The above factors, health, employment, income, and education, are essential for neighborhood development, and predominantly Black communities suffer because they do not have access to these elements compared to their white counterparts.
 
 ## "Hot Spot" Policing
 
 On top of the lack of resources that could be a catalyst for  neighborhood development, the aspect of "Hot Spot" policing could potentially damage the community it targets because of the overly aggressive and indiscriminating police. There are certain unfavorable outcomes, including increasing hostility against and fear of the police and, more significantly, a failure to adequately address the roots of crime.
 
-A method of lowering crime is called "Hot Spot" policing. In this method, resources and activities in hot spots are targeted. "Hot spots" are defined as places where crime and chaos are persistently high. Usually, these hot spots tend to have a high population of Black residents. The plan with "hot spot" policing is predicted on the nation that in communities, crime and disorder are often concentrated in a few small areas rather than being distributed uniformly and crime issues can be resolved more effectively by focusing resources on areas with a persistently high crime rate.
+A method of lowering crime is called "Hot Spot" policing. In this method, resources and activities in hot spots are targeted. "Hot spots" are defined as places where crime and chaos are persistently high. Usually, these hot spots tend to have a high population of Black residents. The plan with "hot spot" policing is predicted on the nation that in communities, crime and disorder are often concentrated in a few small areas rather than being distributed uniformly and crime issues can be resolved more effectively by focusing resources on areas with a persistently high crime rate. [@college_of_policing]
 
 A mechanism that has been used for "Hot Spot" policing has been the gunshot detection system ShotSpotter. ShotSpotter consistently detects and precisely locates gunshots using a set of acoustic sensors that are wirelessly linked to a centralized, cloud-based application. According to the ShotSpotter data collected, the equipment had a 97% accuracy rate and a 0.5 false positive rate.
 
-Even with the reported positive results, several individuals still question the gunshot detection company and its technology. For instance, the city of Chicago's Inspector General issued a critical report on the ShotSpotter gunshot detection company which indicated there are deep problems with ShotSpotter and its technology and how it impacts communities of color and their relationship with law enforcement. Inside the critical report, it questions the technology's "operational value" and discovered that it makes police officers use stop and frisk procedures more frequently in specific neighborhoods. The Northwestern School of Law's MacArthur Justice Center also made a similar critical report and legal filing that addresses how Shot Spotter is "deployed overwhelmingly in communities of color, which already disproportionately bear the brunt of a heavy police presence"
-There are various issues with the police's claim that they choose neighborhoods for deployment depending on where shootings occur. For example, the MacArthur Justice Center highlights that because sensors are placed in some neighborhoods but not others, the police will be able to identify more incidents—real or fake—in those areas. This could skew data on gunfire and produce a statistical basis for excessive policing in neighborhoods of color.
+Even with the reported positive results, several individuals still question the gunshot detection company and its technology. For instance, the city of Chicago's Inspector General issued a critical report on the ShotSpotter gunshot detection company which indicated there are deep problems with ShotSpotter and its technology and how it impacts communities of color and their relationship with law enforcement. Inside the critical report, it questions the technology's "operational value" and discovered that it makes police officers use stop and frisk procedures more frequently in specific neighborhoods. The Northwestern School of Law's MacArthur Justice Center also made a similar critical report and legal filing that addresses how Shot Spotter is "deployed overwhelmingly in communities of color, which already disproportionately bear the brunt of a heavy police presence". There are various issues with the police's claim that they choose neighborhoods for deployment depending on where shootings occur. For example, the MacArthur Justice Center highlights that because sensors are placed in some neighborhoods but not others, the police will be able to identify more incidents—real or fake—in those areas. This could skew data on gunfire and produce a statistical basis for excessive policing in neighborhoods of color. [@stanley_2021]
 
 ## Relationship between Citizens and Police
 
@@ -124,9 +123,9 @@ In the project CriticalJustice, the aim is to visualize how factors such as lack
 
 Barajas' brings a different aspect when it pertains to infrastructure that individuals usually do not think about. Inside this article, a connecting thread exists between the harm caused by racially biased police and the compounding injustices of poor bike infrastructure and disproportionately high levels of policing in Chicago's Black neighborhoods.
 
-Black, Latino, and low-income neighborhoods in Chicago are more likely to be labeled as "dangerous" places for cyclists, but this exists due to historical underinvestment and failure to build sufficient infrastructure. Because of the element of danger in these communities, Barajas states how, "...safety advocates have called for an overhaul of the traditional 3 E's approach to safety focused on engineering, education, and enforcement to one that mitigates the impacts of crashes through a safe systems approach." This would soon become labeled as Vision Zero, an approach that puts a lot greater focus on using data to target and create the best roadside countermeasures possible in order to completely eradicate traffic fatalities. 
+Black, Latino, and low-income neighborhoods in Chicago are more likely to be labeled as "dangerous" places for cyclists, but this exists due to historical underinvestment and failure to build sufficient infrastructure. Because of the element of danger in these communities, Barajas states how, "...safety advocates have called for an overhaul of the traditional 3 E's approach to safety focused on engineering, education, and enforcement to one that mitigates the impacts of crashes through a safe systems approach." This would soon become labeled as Vision Zero, an approach that puts a lot greater focus on using data to target and create the best roadside countermeasures possible in order to completely eradicate traffic fatalities.
 
-Vision Zero has similar technology to ShotSpotter when it relates to utilizing data to 
+Vision Zero has similar technology to ShotSpotter when it relates to predictive policing, which is the practice of using computational models to predict where crime will occur before it happens. 
 
 Since there is a present racial bias in policing, validated through documentation, infrastructure alone cannot eliminate racial prejudice in law enforcement, and discrepancies are likely to persist even after taking infrastructure into consideration. There is evidence of discrepancies at the neighborhood level in addition to racially biased enforcement at the person level. The patterns of traffic stops frequently reveal a policing approach that aims to impose order on "disorganized" communities. According to the article, researchers discovered that in an unnamed city in the Southwest of the United States, more traffic citations were issued in areas with lower residential stability, higher poverty rates, and higher proportions of Black and Latino residents, regardless of the race, gender, or resident status of the drivers. This re-occurring discrimination start to effect Black and brown communities more mentally and emotionally, rather than physically.
 
@@ -218,59 +217,5 @@ unresolved or special issues remain? What recommendations might you make?
 # References
 
 ::: {#refs}
-
-[1] Wolfson, Charlie, and Ladimir Garcia. “Turnout Data Show Marginalized Communities Often Have Quietest Voice in Allegheny County Elections.” Pittsburgh City Paper, Pittsburgh City Paper, 28 Nov. 2022, https://www.pghcitypaper.com/pittsburgh/turnout-data-show-marginalized-communities-often-have-quietest-voice-in-allegheny-county-elections/Content?oid=22722946. 
-
-
-
-[2] 90.5 WESA | By Kate Giammarise. “Allegheny County Homicide Rate Driven by Gun Violence, Report Finds.” 90.5 WESA, 27 July 2022, https://www.wesa.fm/politics-government/2022-07-26/allegheny-county-homicide-report.
-
-
-
-[3] The Pittsburgh Neighborhood Project. The Pittsburgh Neighborhood Project, 19 Nov. 2022, https://pittsburghneighborhoodproject.blog/.
-
-
-
-
-[4] “Pittsburgh Metro Area Population 1950-2022.” MacroTrends, https://www.macrotrends.net/cities/23100/pittsburgh/population. 
-
-
-
-[5] “Pittsburgh, 1957: A Mecca of Black Culture and Business Destroyed (from the Playbill).” Marin Theatre Company, https://www.marintheatre.org/productions/fences/fences-pittsburgh-1957. 
-
-
-
-
-[6] “The Keys to America's Economic Growth Are in Low-Income and Marginalized Communities.” Urban Institute, 22 Nov. 2017, https://www.urban.org/urban-wire/keys-americas-economic-growth-are-low-income-and-marginalized-communities. 
-
-
-
-[7] Nania, Lauryn. “Police-Reform Activists Call for Decrease in Pittsburgh Police Funding and Increase in Community Investment.” Pittsburgh City Paper, Pittsburgh City Paper, 1 Dec. 2022, https://www.pghcitypaper.com/pittsburgh/police-reform-activists-call-for-decrease-in-pittsburgh-police-funding-and-increase-in-community-investment/Content?oid=19705923. 
-
-
-
-[8] “Let's Talk about Race: Data Page.” PublicSource, https://projects.publicsource.org/pittsburgh-race/data.html.
-
-
-
-[9] “Neighborhood Community Development Fund.” Neighborhood Community Development Fund, 9 Aug. 2022, https://www.ncd-fund.org/about-us/. 
-
-
-
-[10] Cotter, First-person essay by Nick. “Disparities between Pittsburgh Neighborhoods Persist. This Project Tries to Understand Why.” PublicSource, 5 Nov. 2021, https://www.publicsource.org/disparities-between-pittsburgh-neighborhoods-persist-this-project-tries-to-understand-why/. 
-
-
-
-[11] Juliette Rihl, Mitra Nourbakhsh. “Who Polices the Police? in Pittsburgh and Allegheny County, A Critical Crossroads for Civilian Review.” PublicSource, 13 Aug. 2020, https://www.publicsource.org/who-polices-the-police-in-pittsburgh-and-allegheny-county-a-critical-crossroads-for-civilian-review/.
-
-
-[12] Barajas, Jesus M., et al. “Biking Where Black: Connecting Transportation Planning and Infrastructure to Disproportionate Policing.” Transportation Research Part D: Transport and Environment, Pergamon, 3 Sept. 2021, https://www.sciencedirect.com/science/article/pii/S1361920921003254?via%3Dihub.
-
-[13] Holliday, Stephanie Brooks, et al. “Do Investments in Low-Income Neighborhoods Produce Objective Change in Health-Related Neighborhood Conditions?” Health &amp; Place, Pergamon, 15 June 2020, https://www.sciencedirect.com/science/article/pii/S1353829220300666?via%3Dihub.
-
-[14] Dong-Wook Sohn,"Residential crimes and neighbourhood built environment: Assessing the effectiveness of crime prevention through environmental design (CPTED)", Cities, Volume 52, 2016, Pages 86-93, ISSN 0264-2751,
-https://doi.org/10.1016/j.cities.2015.11.023.
-(https://www.sciencedirect.com/science/article/pii/S0264275115300159)
-
 
 :::
