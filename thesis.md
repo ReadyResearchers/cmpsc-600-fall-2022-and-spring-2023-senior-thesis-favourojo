@@ -28,6 +28,8 @@ Even with the reported positive results, several individuals still question the 
 
 ## Fire Instances in Pittsburgh, PA
 
+Pittsburgh has unfortunately seen several infrastructure fails in the past couple years. In September of 2016, a building fire came dangerously close to destroying the Liberty Bridge. It took firefighters nearly 30 minutes to put out the fire, which had a temperature of more than 1,200 degrees. 
+
 ## Relationship between Citizens and Police
 
 Pittsburgh's recent city operating budget has created an uproar among their citizens due to the large amount of money allocated to the Pittsburgh Police Department. Andrew Bankson and Brian Gonnella in their article titled, "Pittsburgh's city budget works for the police but not for the people", discuss the specifics of the budget and display which  organizations suffered when it pertains to funding. Pittsburgh's city operating budget for 2021 increased spending more than $30 million from the previous year. That totals a staggering $608 million, including a 5.45 percent rise in the budget for police personnel, which rose to over $68 million. [@bankson_gonnella_2021]
@@ -182,22 +184,43 @@ There has been research conducted already that evidently shows that a neighborho
 
 # Method of approach
 
-This chapter answers the "how" question - how did you complete your project,
-including the overall design of your study, details of the algorithms and tools you
-have used, etc.  Use technical diagrams, equations, algorithms, and paragraphs of text
-to describe the research that you have completed. Be sure to number all figures and
-tables and to explicitly refer to them in your text.
+- Why I made the map and How
+- Flow diagram / UML diagram with data analysis
+- Code segment showing where map is created  
+- Tie-ing demographic issues
+- Policing, community development, under-investment
+- Same length as other chapters
 
-This should contain:
+## Reasoning Behind Method
 
-* lists
-* with points
-* and more points
-  * possibly subpoints
+After reviewing all the topics I could research for the senior thesis project, I decided that I would primarily focus on the topic of data analysis. Originally, I wanted to center my thesis on the idea of crime in the United States and the different categories of crime. I had downloaded a dataset that contained every county in the United States's crime rate while also depicting the amount of instances of different kinds of crime. Though this was a very informative dataset,I felt I was going towards a more broad approach rather than concretely identifying an idea. After consulting with advisors, I realized I need to be more specific in my research idea. Then, after much deliberation, I decided to concentrate my thesis on the concept of the under-investment of communities particularly neighborhoods in Pittsburgh, PA. Another aspect of my previous thesis idea that I felt was not sufficient was that the best way to visualize this data was just a simple bar and plot graphs. Because of the research I conducted, I felt that type of visualization was redundant and I wished for my project to have uniqueness. Therefore, I explored several types of data visualization until I was able to discover critical cartography.
 
-For those projects whose implications address social or moral issues (i.e. ethical
-standards, causes, effects), you will want to use this section to describe how you
-actively mitigated or considered these issues.
+Since critical cartography focuses on reflecting and maintaining power relations, frequently serving the needs of dominant groups, I pursued mapping as the form of visualization for my project. After determining that, I examined what kind of data would be most helpful in portraying my argument that predominately Black communities in Pittsburgh, PA suffer from underinvestment due to the focus of over-policing to individuals.
+
+## Data Collection and Analysis
+
+Once the idea for my thesis was definite, the next step was to collect data that related to the argument that I am attempting to portray. After much research, I was able to download several datasets whose information correlated with my research idea. I was able to download all of the datasets as CSV files. For instance, I was able to download a dataset that I named ***Neighborhood.csv***. In this dataset, there is details about every neighborhood in Pittsburgh, Pennsylvania. These details range from the total population and also different demographics population, but I am mostly  concerned with the Black population of each community, to the average dispatches for shots fired per five hundred which
+connects with the idea of over-policing in communities.
+
+I also was able to download a dataset from the Western Pennsylvania Regional Data Center. This data was called the Allegheny County 911 Dispatches - EMS and Fire. According to the website, this dataset contains dispatched EMS and Fire events from a computer aided dispatch system and also includes information about the nature of the emergency. [@catalog_2023] I chose this dataset because I wanted to research if there was bias concerning how police were dispatched in different Pittsburgh neighborhoods. Also, this dataset also contains information about fire instances in different neighborhoods. These range from simple cooking fires to building fires. I believe this data will showcase how necessary infrastructure investment is for certain communities by the disproportionate amount of instances of building fires predominantly Black neighborhoods.
+
+
+## Level of Need Indicator
+
+The Allegheny County Community Need Index was created by the Allegheny County Department of Human Services (DHS) to the identify the locations that require more help and have more socioeconomic obstacles to overcome than other areas. According to the Allegheny County Analytics, the Community Need Index will be ranking neighborhoods by looking at the percentage of families who live below the poverty line, the percentage of unemployed males, the resident education levels, the percentage of single mothers, and the number of 911 dispatches for gun shots fired. From this site, I was able to download the specific neighborhood dataset that showcased attributes about each Pittsburgh neighborhood. According to the Community Need Index report, the takeaways are that levels of need amount Allegheny County census tracts have stayed mostly consistent with the previous analysis 5 years ago. Also, 89% of tracts that were high or extreme need within 2009 to 2013 (5-year estimate) were still high or extreme need in the latest report. [@acanalyticswebdev_2022_2]
+
+The community index report has been utilized to inform a variety of DHS strategic planning and resource allocation choices, including those on the placement of new after-school programs or Family Centers. For the sake of my study, this index will be used to rank Pittsburgh neighborhoods according to which ones require greater infrastructure investment based on the previously listed characteristics.
+
+![Community Index Scale](images/need.png)
+
+The figure illustrates the spectrum of community need in Pittsburgh, Pennsylvania. The levels range from a very modest demand to an enormous need, as one can observe. The figure also displays the ranking criteria, such as the percentage of men without a job and the number of shooting per 500 residents. 
+
+According to the neighborhood dataset and the community need index, Pittsburgh's high-need areas include parts of the West End, the Upper Northside as whole, the Hill District, and East End communities including Garfield, Homewood, Larimer, East Hills, and Lincoln-Lemington. High and extreme need clusters can be found outisde of Pittsbugh in the Monongahela River valley, parts of Wilkinsburg and Penn Hills, stretches of the Ohio River Valley like McKees Rocks and Stowe Township, and parts of Harrison Township in the county's far northeast. [@person_2021]
+
+# Technical Diagram
+
+# Code Segment
+
 
 # Experiments
 
