@@ -184,13 +184,6 @@ There has been research conducted already that evidently shows that a neighborho
 
 # Method of approach
 
-- Why I made the map and How
-- Flow diagram / UML diagram with data analysis
-- Code segment showing where map is created  
-- Tie-ing demographic issues
-- Policing, community development, under-investment
-- Same length as other chapters
-
 ## Reasoning Behind Method
 
 After reviewing all the topics I could research for the senior thesis project, I decided that I would primarily focus on the topic of data analysis. Originally, I wanted to center my thesis on the idea of crime in the United States and the different categories of crime. I had downloaded a dataset that contained every county in the United States's crime rate while also depicting the amount of instances of different kinds of crime. Though this was a very informative dataset,I felt I was going towards a more broad approach rather than concretely identifying an idea. After consulting with advisors, I realized I need to be more specific in my research idea. Then, after much deliberation, I decided to concentrate my thesis on the concept of the under-investment of communities particularly neighborhoods in Pittsburgh, PA. Another aspect of my previous thesis idea that I felt was not sufficient was that the best way to visualize this data was just a simple bar and plot graphs. Because of the research I conducted, I felt that type of visualization was redundant and I wished for my project to have uniqueness. Therefore, I explored several types of data visualization until I was able to discover critical cartography.
@@ -202,7 +195,10 @@ Since critical cartography focuses on reflecting and maintaining power relations
 Once the idea for my thesis was definite, the next step was to collect data that related to the argument that I am attempting to portray. After much research, I was able to download several datasets whose information correlated with my research idea. I was able to download all of the datasets as CSV files. For instance, I was able to download a dataset that I named ***Neighborhood.csv***. In this dataset, there is details about every neighborhood in Pittsburgh, Pennsylvania. These details range from the total population and also different demographics population, but I am mostly  concerned with the Black population of each community, to the average dispatches for shots fired per five hundred which
 connects with the idea of over-policing in communities.
 
-I also was able to download a dataset from the Western Pennsylvania Regional Data Center. This data was called the Allegheny County 911 Dispatches - EMS and Fire. According to the website, this dataset contains dispatched EMS and Fire events from a computer aided dispatch system and also includes information about the nature of the emergency. [@catalog_2023] I chose this dataset because I wanted to research if there was bias concerning how police were dispatched in different Pittsburgh neighborhoods. Also, this dataset also contains information about fire instances in different neighborhoods. These range from simple cooking fires to building fires. I believe this data will showcase how necessary infrastructure investment is for certain communities by the disproportionate amount of instances of building fires predominantly Black neighborhoods.
+I also was able to download a dataset from the Western Pennsylvania Regional Data Center. This data was called the Allegheny County 911 Dispatches - EMS and Fire. According to the website, this dataset contains dispatched EMS and Fire events from a computer aided dispatch system and also includes information about the nature of the emergency. [@catalog_2023] I chose this dataset because I wanted to research if there was bias concerning how police were dispatched in different Pittsburgh neighborhoods. Also, this dataset also contains information about fire instances in different neighborhoods. These range from simple cooking fires to building fires. By highlighting the disproportionate number of building fires that occur in predominately Black neighborhoods, I think these statistics will demonstrate how important infrastructure investment is for some communities. 
+
+In relation to the subject of gun violence, I was able to download a dataset that contains information from ShotSpotter data in Pittsburgh, Pennsylvania. Each instance in this dataset contains the longitude and latitude coordinates, allowing users to determine the precise place where the shot was fired. Additionally, it specifies the incident type of the specific shot fired; these incident types include single gunshot, multiple gunshots, and probable fire, which denotes a very high probability that a shot was fired.
+
 
 
 ## Level of Need Indicator
@@ -213,15 +209,49 @@ The community index report has been utilized to inform a variety of DHS strategi
 
 ![Community Index Scale](images/need.png)
 
-The figure illustrates the spectrum of community need in Pittsburgh, Pennsylvania. The levels range from a very modest demand to an enormous need, as one can observe. The figure also displays the ranking criteria, such as the percentage of men without a job and the number of shooting per 500 residents. 
+The figure illustrates the spectrum of community need in Pittsburgh, Pennsylvania. The levels range from a very modest demand to an enormous need, as one can observe. The figure also displays the ranking criteria, such as the percentage of men without a job and the number of shooting per 500 residents.
 
 According to the neighborhood dataset and the community need index, Pittsburgh's high-need areas include parts of the West End, the Upper Northside as whole, the Hill District, and East End communities including Garfield, Homewood, Larimer, East Hills, and Lincoln-Lemington. High and extreme need clusters can be found outisde of Pittsbugh in the Monongahela River valley, parts of Wilkinsburg and Penn Hills, stretches of the Ohio River Valley like McKees Rocks and Stowe Township, and parts of Harrison Township in the county's far northeast. [@person_2021]
 
 # Technical Diagram
 
+![UML Diagram](images/UML.png)
+
+This UML diagram shows how each of the datasets interact with each other and the certain columns that were essential in creating the Python script `vector.py`.
+
 # Code Segment
 
+I completed the data collection process, at which I started creating the interactive map of Pittsburgh, Pennsylvania. Despite the face that I had access to satellite maps on which to overlay the data, each Pittsburgh neighborhood needed to be accurately shown. I realized the best way to properly show the outlines of the neighborhoods is by implementing a shape file. 
 
+![Pittsburgh Neighborhood Shapefile](images/shape.png)
+
+This figure shows how each Pittsburgh neighborhood is delineated, allowing one to pinpoint exactly where a certain aspect of community need is located and how frequently each incidence occurs.
+
+After being to able to find a shapefile that properly defined the Pittsburgh neighborhood, I then began constructing the Python script that would create the interactive map.
+
+![Import Statement from Python Script](images/code.png)
+
+With each individual `import` statement, I will be utilizing a Python package, which is a directory with Python files that also contains an `__init__ .py` file, which sets a package apart from a directory that is meant to hold several Python scripts. Each package served a different purpose in the development of the interactive map:
+
+- ***pandas**: When working with "relational or "labeled data, the pandas Python library offers quick, adaptable, and expressive data structures that are simple to use. I utilized the Python package `pandas` to read into CSV files, which are the datasets I was able to download. Also, with `pandas`, I was able handle any missing data, these can be represented as Nan, NA, or NaT, that was present throughout any of the downloaded datasets. [@pypi]
+
+- ***dataset/validate**: The python package `dataset` makes database data reading and writing as easy as reading and writing JSON files. The dataset module is compatible with the major database SQLite, that I utilized to create tables for the multiple CSV files. Also, from the dataset module, I imported the `validate` library to validate the specific dataset I wanted to read into did not contain any NaN values. 
+
+- ***geopandas**: The Python package `geopandas` enables a user to work with geospatial data with Python. It is an extension of the package `pandas` to enable geometric types to do spatial operations.  `Geopandas` combines the power of `pandas` with another Python package `shapely` by giving `shapely` a high-level interface to several geometries and `pandas` geographic operations. I was able to utilize `geopandas` to read a shapefile and convert it to a GeoJson, so I couple properly create a `choropleth` map visualizations.
+
+- ***folium**: The Python package `folium` allows user to view Python-manipulated data on an interactive leaflet map. With the `folium` package, I created a Leaflet map by combine the data manipulation capabilities of the Python ecosystem and the mapping capabilities of the leaflet.js library. I was also able to utilize `folium` plugins and features that helped to enhance the interactive map even more.
+
+    - ***Choropleth**: In connection to a numerical variable, a `choropleth` map shows split geographic areas or regions that are colored. I added this feature to the interactive map to visualize the Black population rate in Pittsburgh, PA.
+
+    - ***Marker**: With the `Marker` feature in `folium`, I was able to plot points from the download CSV files. For instance, the `shots.csv` data file included the longitude and latitude coordinates of each shots fired in Pittsburgh, PA. With these two columns, I was able plot the points of th shots fired. I was also able to do this feature with the `Fireincident.csv` dataset as well.
+
+    - ***GeoJsonToolTip**: The `GeoJsonTooltip` class of the `folium.features` package enables a user to create tooltip that utilizes data from a `GeoJSON` file. I was able to utilize this specific feature to create tooltips on the GeoJson file I downloaded, so individuals have a better understanding on the markers I made.
+
+    - ***MarkerCluster**: The`MarkerCluster` plugin in `folium` is utilized to condense data that slows down the performance of the interactive map. I utilized this feature for the `shots.csv` and `FireIncident.csv` datasets, so that the large points were contained in clusters. 
+
+
+
+- 
 # Experiments
 
 This chapter describes your experimental set up and evaluation. It should also
@@ -259,5 +289,4 @@ unresolved or special issues remain? What recommendations might you make?
 # References
 
 ::: {#refs}
-
 :::
