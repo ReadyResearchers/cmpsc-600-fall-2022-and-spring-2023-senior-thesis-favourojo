@@ -337,7 +337,9 @@ These two `for` loops demonstrate how data points from the `shots.csv` file and 
 
 # Experiments
 
-I will cover both the basics of mapping and the problems that emerge when using mapping and data sets in this chapter. Creating arguments and producing analyses to support those arguments may both benefit greatly from data collecting. Yet, there is a chance for problems to occur in the data gathering process if the proper procedure is not followed, especially if it involves community data collection.
+I will cover both the basics of mapping and the problems that emerge when using mapping and data sets in this chapter. Creating arguments and producing analyses to support  arguments both benefit greatly from data collecting. Yet, there is a chance for problems to occur in the data gathering process if the proper procedure is not followed, especially if it involves community data collection.
+
+Normally, for the argument to be more persuasive, visualization may be employed to help people grasp the reasoning and see connections and patterns within the facts. The data has more significance when it is visualized. Data has been visualized with the help of mapping, particularly data pertaining to social concerns. However, there is criteria needed to be followed for a map ot be considered 
 
 ## Purpose of Project  
 
@@ -351,13 +353,13 @@ Although community data collecting may be used to a community's advantage, there
 
 More specifically, there has been a social problem with Census data under-counting that is both historical and current. In the project **CriticalJustice**, I utilize Census data about Pittsburgh, Pennsylvania that was contained in a dataset. The dataset included information about the total population of each community in Pittsburgh while also showing the demographics of each of the neighborhoods. This dataset will be utilized to further my argument about how Black communities are disproportionally affected by lack of infrastructure investment. With the use of aggregate information on births, deaths, immigration, emigration, and previous censuses, demographic analysis gives estimates of the overall U.S. population and its constituent parts by race, age, and sex. A measure of census coverage is produced by comparing the estimated value to the corresponding census numbers. [@westfein1990]
 
-However, when it pertains to census community data collection, there are certain population who suffers from the census under-count. There are some populations, nevertheless, that are under-counted in the census when it comes to gathering community statistics. Because of the large number of homeless people living in urban neighborhoods, these communities are typically the ones to experience these instances. In a study sent to the Secretary of the Department of Housing and Urban Development in 1984, the first shot was fired in the "numbers debate" surrounding homelessness. [@wright1992counting]. The Housing and Urban Development assessment estimated that there were between 250,000 to 350,000 homeless people in the country, an order of magnitude fewer than the 2-3 million figure htat was  then popular in advocacy circles. This estimate was based on educated judgment and shelter capacity in many significant cities. Many people instantly discounted the HUD estimate as a flismy attempt by a conservative government to downplay the severity of the homelessness issue. 
+However, when it pertains to census community data collection, there are certain population who suffers from the census under-count. There are some populations, nevertheless, that are under-counted in the census when it comes to gathering community statistics. Because of the large number of homeless people living in urban neighborhoods, these communities are typically the ones to experience these instances. In a study sent to the Secretary of the Department of Housing and Urban Development in 1984, the first shot was fired in the "numbers debate" surrounding homelessness. [@wright1992counting]. The Housing and Urban Development assessment estimated that there were between 250,000 to 350,000 homeless people in the country, an order of magnitude fewer than the 2-3 million figure htat was  then popular in advocacy circles. This estimate was based on educated judgment and shelter capacity in many significant cities. Many people instantly discounted the HUD estimate as a flismy attempt by a conservative government to downplay the severity of the homelessness issue.
 
 ### Bias with Data Collection
 
 The effectiveness of our conclusions is impacted by the data gathering techniques we use. This is especially true for human rights and violence researchers on the ground. These researchers have a higher risk of methodological errors and the resulting weaknesses in their results and policy recommendations since they operate in high-risk, low information environments. Selection bias is defined in greater detail below and happens when a researcher purposefully excludes a certain class of subjects from their data collection. 
 
-## Principles of Map Analysis
+## Design Principles of Mapping
 
 There are many design principles that are taken in to consideration when compiling maps. Legibility, visual contrast, figure-ground, hierarchical order, and balance are five of the major design concepts. These factors work together to provide a framework for identifying and comprehending the relative relevance of the information on the page and in the map. Together, they aid cartographers in producing maps that effectively convey geographic information. [@buckley2011]
 
@@ -384,12 +386,28 @@ The layout of the map and other website components contributes to balance. An im
 
 These five design tenets work well together to significantly influence your map. Map readers will be attracted ot deterred depending on how you employ them. You can ensure that your maps are ones that people will want to look at by carefully considering how to build them utilizing these concepts. 
 
+
 ## Experimental Design
 
-Especially as it pertains to responisble computing, if conducting experiments or
-evaluations that involve particular ethical considerations, detail those issues here.
-
 ## Evaluation
+
+I will be undertaking evaluations of many mapping examples, including my own project's interactive map, in this chapter's portion. This assessment system is going to be built using map criteria that have been gathered from many sources. 
+
+### Map Criteria
+
+Alongside design principles, there are a number of questions needed to be asked pertaining to map criteria before crafting an interactive map. The data visualization must fulfill certain requirements in order to be understood. Who uses the map would be an example of a question. The person drawing up the map is prompted with this question to specify their goal. This will demonstrate how consistent and audience-specific the mapping is. 
+
+### Evaluation of **CriticalJustice** Map
+
+![CriticalJustice Interactive Map](images/critical.png)
+
+### Evaluation of **Mapping Inequality** Map
+
+![Mapping Inequality](images/map2.png)
+
+### Evaluation of **Native Land ** Map
+
+![Native Land](images/map3.png)
 
 ## Threats to Validity
 
