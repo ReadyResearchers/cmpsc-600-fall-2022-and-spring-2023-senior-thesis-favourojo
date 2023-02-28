@@ -339,11 +339,12 @@ These two `for` loops demonstrate how data points from the `shots.csv` file and 
 
 I will cover both the basics of mapping and the problems that emerge when using mapping and data sets in this chapter. Creating arguments and producing analyses to support  arguments both benefit greatly from data collecting. Yet, there is a chance for problems to occur in the data gathering process if the proper procedure is not followed, especially if it involves community data collection.
 
-Normally, for the argument to be more persuasive, visualization may be employed to help people grasp the reasoning and see connections and patterns within the facts. The data has more significance when it is visualized. Data has been visualized with the help of mapping, particularly data pertaining to social concerns. However, there is criteria needed to be followed for a map ot be considered 
+Normally, for the argument to be more persuasive, visualization may be employed to help people grasp the reasoning and see connections and patterns within the facts. The data has more significance when it is visualized. Data has been visualized with the help of mapping, particularly data pertaining to social concerns. A map must however, meet certain requirements in order to be accepted as legitimate.
+I'll be assessing a variety of maps, including the interactive map in **CriticalJustice**, to evaluate which standards they adhere to and which ones they do not.
 
 ## Purpose of Project  
 
-With the project **CriticalJustice**, I hope to shed light on how the lack of infrastructure investment in a effects a neighborhood and its citizens' quality of life. Because it continues to be a problem in the majority of areas today, I believe this matter deserves attention. Furthermore, I believe that a lot of these under-invested communities-both financially and in terms of services-also see an excessive amount of police in their local areas. This belief also comes from the personal experience I have from growing up in a low-income neighborhood. I've done a lot of study on this subject, and when I apply it to myself, I realize how crucial a tool like this is since it represents actual experience. When addressing how causes of crime like excessive police or a lack of infrastructure investment influence a community, this project helps those who live in low-income areas or "dangerous" places feel more represented and understood.
+With the project **CriticalJustice**, I hope to shed light on how the lack of infrastructure investment effects a neighborhood and its citizens' quality of life. Because it continues to be a problem in the majority of areas today, I believe this matter deserves attention. Furthermore, I believe that a lot of these under-invested communities-both financially and in terms of services-also see an excessive amount of police in their local areas. This belief also comes from the personal experience I have from growing up in a low-income neighborhood. I've done a lot of study on this subject, and when I apply it to myself, I realize how crucial a tool like this is since it represents actual experience. When addressing how causes of crime like excessive police or a lack of infrastructure investment influence a community, this project helps those who live in low-income areas or "dangerous" places feel more represented and understood.
 
 ## Issues with Community Data Collection
 
@@ -357,7 +358,7 @@ However, when it pertains to census community data collection, there are certain
 
 ### Bias with Data Collection
 
-The effectiveness of our conclusions is impacted by the data gathering techniques we use. This is especially true for human rights and violence researchers on the ground. These researchers have a higher risk of methodological errors and the resulting weaknesses in their results and policy recommendations since they operate in high-risk, low information environments. Selection bias is defined in greater detail below and happens when a researcher purposefully excludes a certain class of subjects from their data collection. 
+The effectiveness of our conclusions is impacted by the data gathering techniques we use. This is especially true for human rights and violence researchers on the ground. These researchers have a higher risk of methodological errors and the resulting weaknesses in their results and policy recommendations since they operate in high-risk, low information environments. Selection bias is defined in greater detail below and happens when a researcher purposefully excludes a certain class of subjects from their data collection.
 
 ## Design Principles of Mapping
 
@@ -391,23 +392,111 @@ These five design tenets work well together to significantly influence your map.
 
 ## Evaluation
 
-I will be undertaking evaluations of many mapping examples, including my own project's interactive map, in this chapter's portion. This assessment system is going to be built using map criteria that have been gathered from many sources. 
+I will be undertaking evaluations of three mapping examples, including my own project's interactive map, in this chapter's portion. This assessment system is going to be built using map criteria that have been gathered from many sources.
 
 ### Map Criteria
 
-Alongside design principles, there are a number of questions needed to be asked pertaining to map criteria before crafting an interactive map. The data visualization must fulfill certain requirements in order to be understood. Who uses the map would be an example of a question. The person drawing up the map is prompted with this question to specify their goal. This will demonstrate how consistent and audience-specific the mapping is. 
+Alongside design principles, there are a number of questions needed to be asked pertaining to map criteria before crafting an interactive map. The data visualization must fulfill certain requirements in order to be understood. According to the website **opendatasoft**, who uses the map would be an example of a question. The person drawing up the map is prompted with this question to specify their goal. This will demonstrate how consistent and audience-specific the mapping is. [@chouikri2023]
 
-### Evaluation of **CriticalJustice** Map
+In a course called, ***Computer Cartography***, at Western Washington University, Bach and Freelan introduced criteria on ***WHAT ALL GOOD MAPS SHOULD HAVE***, or, the "Golden Rules of Cartography". The writers of this essay outline the components that a cartographer needs in order to produce a high-quality map:
+
+- **Title**: According to the authors, the map's title should be in a prominent typeface that is clear to read and include language that describes the map's location and function.
+
+- **Scale Indicator**: A scale of the map is usually represented by a graph bar scale, according to the author's criteria. The link between a unit of measure on a map and a unit of measure in the actual world must be discernible to the reader.
+
+- **Orientation**: As per the authors, a map should show which direction is north (and sometimes also south, east, and west). Often, a compass rose or north arrow is used for this. Grid marking or graticules can also be used to indicate orientation (e.g. lines of latitude and longitude)
+
+- **Border(s)**: A map border, which should be near to the margins of the mapped region, indicates precisely where the mapped area ends. The border of the map should be the same distance from all sides (balanced). The entire page or map layout should also have a border (enclosing and grouping the title, legend, text boxes, etc.).
+
+- **Legend**: If the map utilizes symbols or colors, the legend is necessary (including shapes of gray and patterns). Maps (including specific map features) do not require legends if the symbology is widely use or straightforward enough for the reader to comprehend. Yet, it must be obvious what each type, weight, and pattern of marking or line denotes.
+
+- **Map Credits**: The name of teh cartographer who developed the map, the date of the map's production or publishing, as well as the date of the map data, would all be included in the map's credits. Even if it is optional, the map's projection may be required for small-scale maps.
+
+- **Locator Map (Inset)**:  If the region of the map is vast scale or difficult to recognize, an inset Locator map is required. It is also possible to utilize inset detail map(s) to illustrate a specific section of the map in more detail (larger scale).
+
+- **Effective Graphical Design**: Effective sentence structure and layout design are equally crucial to written material. The planning and decision-making processes that go into the visual representation of geographic data are referred to as design.
+
+- **Visual Hierarchy**: It is best to employ a hierarchy of symbols for typography, line weights, and shading. Less significant or background information should be smaller and lighter, whereas more prominent aspects are often bigger and/or darker.
+
+- **Purpose**: Every aspect of the map, including the layout, is influenced by the map's function. the audience (those who will use the map) and the client (for whom the map is being made) should both be kept in mind by the cartographer as they formulate the purpose of their map.
+
+### Evaluation of ***CriticalJustice*** Map
 
 ![CriticalJustice Interactive Map](images/critical.png)
 
-### Evaluation of **Mapping Inequality** Map
+This figure shows the interactive map that I created for the **CriticalJustice** project. This map depicts the neighborhoods of Pittsburgh, Pennsylvania utilized a CSV file that included information about each Pittsburgh community. The first question I would ask to evaluate this map would be is there a title that describes the purpose of the map. From this figure, there is a title at the top-middle of the interactive map that states **CriticalJustice** in clear and readable font for the users to see.
+
+Second, there should be a scale indicator that links a unit of measure on the map to another unit of measure in the real world. On this map, there is a scale based on the level of need in a certain community in Pittsburgh, Pennsylvania. This scale is represented by a graphic scale that showcases how a lighter red to show a very low level of need and a darker red to show to a very extreme level of need.
+
+Third, a map ought to be able to show which direction is north, south, east, and west. A compass rose or a north arrow can be used for this. So, the next question I would ask for this map is is there any evidence of orientation In the interactive map **CriticalJustice**, there is not any indication of orientation.
+
+Fourth, a map border will be able to properly identify  where the mapping area begins and stops. Also, the entire page or map layout should also have a border. There are borders and outlines surrounding the shapefile on the interactive map **CriticalJustice**, indicating that this is the area of the map that should be concentrated.
+
+Fifth, if the interactive map makes use of any symbols or colors, including shading or patterns, a legend would be necessary. In the interactive map **CriticalJustice**, there are two different icons that represent the `Shots Fired` data and also the `Fire Incident` data. There is a legend located at the bottom left corner that indicates which color represents which data point. For example, a red icon represents the fire incidents data points while the blue icon represents the shots fired data points.
+
+Sixth, there should be map credits displayed on the interactive that shows the source of the data, name of the cartographer, the data of the map creation / publication and the data of the map data.
+
+Seventh, an inset Locator map would be necessary if the map;s region is difficult to distinguish or has a vast scale. An inset **Detail** map of Pittsburgh is actually included on the interactive map **CriticalJustice** and displays the city in incredible depth.
+
+Eighth, an effective graphical design refers to the planning and decision-making processes that go into the visual representation of geographic data. Achieving balance within the map is one method to make the design work. More specifically, a map with an effective graphical design will be produced if the map and all of its components are tidy, obvious, and symmetrically balanced. In **CriticalJustice**, each of the map elements are separated such as the legend, the scale indicator, the layer control, and the map itself, are separated evenly on the page so there is balance. The only cluster visible would be with the data points, and that is because of the large amount of data that was collected for the interactive map.
+
+Next, the typography, line weights, and shading should follow a hierarchy of symbolism. Generally, more significant characteristics are larger and or darker, while less significant or background information should be smaller and/or lighter. The interactive map **CriticalJustice** follows a hierarchy of symbolism for the shading of the Pittsburgh community. The shading represents the level of need adn the darker the shading, the more need a neighborhood requires. 
+
+Finally, all maps have a purpose, which affects every component and layout of the map. Like it was mentioned before,**CriticalJustice**'s purpose is to seek to shed light on how a neighborhood's and it residents' quality of life is impacted by a lack of infrastructure investment. This issue needs to be addressed because it is still a problem in most places today in the United States. 
+
+### Evaluation of ***Mapping Inequality*** Map
 
 ![Mapping Inequality](images/map2.png)
 
-### Evaluation of **Native Land ** Map
+This figure depicts the interactive map created for the project **Mapping Inequality**. This map showcases how neighborhood were graded by the Home Owners' Loan Corporation graded based on which community should receive loans from banks and which areas in the city were safe investments. The first way I would evaluate this map would be to see if there is a noticeable title located on this map. In this figure, there is a title at the top left corner of the map that states, ***Mapping Inequality: Redlining in America*** that is readable for users.
+
+Second, there should be a scale indicator that showcases a link between a unit of measure in the map and in the real world. According to the legend, the size of each circle represents the area that in that city that the Home Owners' Loan Corporation graded, each hue indicating the percentage of the city that has been graded and colored. The scale reads from green, which is labeled as a "A" grade and means "Best", to pink, which labeled as a "D", which means "Hazardous."
+
+Third, the next question that needs to be asked concerning cartography should be if there is a way to indicate orientation on an interactive map. In the project **Mapping Inequality**, there is not a a compass rose or arrow pointing north visible on the interactive map.
+
+Fourth, a map should be able to distinctively outline the borders of the specific location that is being map. Since **Mapping Inequality** focuses on the United States as a whole, there is not prominent borders and outlines around specific areas. So, there is not visible borders present. 
+
+Fifth, a legend is useful for individual to be able to indicate what the symbols and coloring mean according to the interactive map. The legend, which doubles as a scale indication, may be found in the lower left corner of the interactive map **Mapping Inequality**.
+
+Sixth, the source of teh data, the name of the cartographer, the data of the map creation / publishing, and the data of the map data should all be listed in the interactive's map credits.
+
+Seventh, if the region of map is vast scale or difficult to recognize, an inset Locator map is required. The interactive map **Mapping Inequality** focuses on every region in the United States, however when the map is zoomed in, there is a more zoomed in map that depicts the coloring of the legend.
+
+![Inset Locator](images/inset.png)
+
+This figure depicts an inset Locator map that describes a more specified version of the interactive map.
+
+Eighth, The planning and decision-making procedures that go into the visual representation of geographic data are referred to as an effective graphical design. One way to make the map useful is to achieve equilibrium within it. In the interactive map, **Mapping Inequality**, each element is hidden until the user engages it to display the information, which contributes to the map's neatness. Similar to the **CriticalJustice** interactive map, the only cluster is within the data points. 
+
+Next, line weights, shading, and typography have to all adhere to a hierarchy of symbolism. Typically, larger and/or darker traits denote greater significance, whereas smaller and/or lighter qualities denote less significance or background information. In the **Mapping Inequality** interactive map, each circle's diameter reflects how the Home Owner's Loan Corporation assessed the region in that city. Each circle's size represents how prominent that specific region was pertaining to investment.  
+
+Finally, for a map to be pronounced efficient, there needs to be a purpose to its creation. **Mapping Inequality** graphically demonstrates the interaction between racism, organizational culture, economics, and the physical environment by providing a digital library of the state's participation in housing construction. 
+
+### Evaluation of ***Native Land*** Map
 
 ![Native Land](images/map3.png)
+
+The figure above shows the interactive map developed for the project **Native Land**. This map depicts the Indigenous territories, languages, and treaties that are present in every region in the entire world. The first way that I would evaluate this map would be to see if there is a title that is present for the readers to see. In the top left corner of the map, there is a title that states, **Native Land Digital**, that is readable for users.
+
+Second, there should be scale indicator that represents a link between a unit of measure in the map and in the real world. There is no scale indicator visible in the interactive map, though, because this kind of interactive map serves a more educational function.
+
+Third, there should be some type of clue as to orientation on a map for it to meet the right criteria. In the **Native Land** map, there is a north arrow that is pointing to the north. With this north arrow, there is clear evidence of orientation located in the map.
+
+Fourth, a person will be able to clearly identify the regions that are the major emphasis in an interactive map by using a map border. Although, there are distinct regions visible, they are often grouped together to demonstrate the huge quantity in each region rather than having a clear map boundary around them. The world's continents are divided by the sole boundary that exists.
+
+Fifth, with a legend, the user has a better understanding of the coloring and symbology in the interactive map. Currently on the **Native Land** interactive map, there is not an evident legend located in this specific map. However, there is a search bar that allows the user to search a specific territory, language, and treaty. The coloration in the mapping corresponds to this feature.
+
+Sixth, the source of the data, the identity of the cartographer, the information about the production and publishing of the map, and the information about the map data should all be presented on the interactive.
+
+Seventh, an inset Locator map is necessary if the map's territory is large or challenging to identify. The **Native Land** interactive map depicts Indigenous culture and history in every region in the world. Despite the fact that the data is concentrated in a single area, an inset Locator map that identifies a specific location is not readily apparent. 
+
+Eighth, effective graphical design refers to the planning and decision-making processes that go into the visual display of geographic data. To create balance within the map is one method of making it useful. The map **Native Land** strikes a balance between the elements of its orientation, the interactive map itself, and the search tool.
+
+Next, a hierarchy of symbolism must be observed in the use of line weights, shading, and typography. Larger and/or darker characteristics often indicate higher relevance, whereas smaller and/or lighter characteristics typically indicate less significance or background information. However, the shading in the **Native Land** map only represents the different territories, languages, and treaties present rather than relevance.
+
+Finally, a map must have a goal in mind if it is to be considered effective. Dedicated to provide a free online resource for those interested in learning more about the Indigenous history of the land they live on and visit, **Native Land** is an Indigenous-led initiative.
+
+
 
 ## Threats to Validity
 
