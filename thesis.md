@@ -18,7 +18,7 @@ The above factors, health, employment, income, and education, are essential for 
 
 A new initiative called **Black Pittsburgh Matters** is the City of Pittsburgh's approach to develop Black neighborhoods and enhance the quality of life for Black people. Their principles are Black Communities Matter, reviving traditional Black communities; Black Lives Matter, ensuring the health and safety of Black People; and Black Wealth Matters, fostering Black enterprise and employment. R. Daniel Lavelle and Rev. Ricky Burgess, councilmen from Pittsburgh, Pennsylvania, continue to draft laws that would improve the quality of life for the city's Black residents. [@thecityofpittsburgh]
 
-Initiatives like these create hope for individuals living in low-income Black communities.  
+Initiatives like these create hope for individuals living in low-income Black communities n Pittsburgh, Pennsylvania.  
 
 ## "Hot Spot" Policing
 
@@ -30,11 +30,14 @@ A mechanism that has been used for "Hot Spot" policing has been the gunshot dete
 
 Even with the reported positive results, several individuals still question the gunshot detection company and its technology. For instance, the city of Chicago's Inspector General issued a critical report on the ShotSpotter gunshot detection company which indicated there are deep problems with ShotSpotter and its technology and how it impacts communities of color and their relationship with law enforcement. Inside the critical report, it questions the technology's "operational value" and discovered that it makes police officers use stop and frisk procedures more frequently in specific neighborhoods. The Northwestern School of Law's MacArthur Justice Center also made a similar critical report and legal filing that addresses how Shot Spotter is "deployed overwhelmingly in communities of color, which already disproportionately bear the brunt of a heavy police presence". There are various issues with the police's claim that they choose neighborhoods for deployment depending on where shootings occur. For example, the MacArthur Justice Center highlights that because sensors are placed in some neighborhoods but not others, the police will be able to identify more incidents—real or fake—in those areas. This could skew data on gunfire and produce a statistical basis for excessive policing in neighborhoods of color. [@stanley2021]
 
-## Fire Instances in Pittsburgh, PA
+## Fire Instances and Infrastructure in Pittsburgh, PA
 
 Pittsburgh has unfortunately seen several infrastructure fails in the past couple years. In September of 2016, a building fire came dangerously close to destroying the Liberty Bridge. It took firefighters nearly 30 minutes to put out the fire, which had a temperature of more than 1,200 degrees. [@folts2022] With an incident like this occurring, there was a need for an investigative report on fire inspections in Pittsburgh, PA.
 
-Fortunately, Carnegie Mellon University conducted a Metro21 research project that assesses fire risk prediction models to decide which property fire inspections to prioritize. Their motivation for this research project address the issue with the approach towards fire inspections and how they could be significantly advanced in the city of Pittsburgh. The argument made here is that the use of risk-based data-driven systems for the identification, selection, and prioritization of new properties to check could greatly improve current approaches to fire inspection. This data 
+Fortunately, Carnegie Mellon University conducted a Metro21 research project that assesses fire risk prediction models to decide which property fire inspections to prioritize. Their motivation for this research project address the issue with the approach towards fire inspections and how they could be significantly advanced in the city of Pittsburgh. The argument made here is that the use of risk-based data-driven systems for the identification, selection, and prioritization of new properties to check could greatly improve current approaches to fire inspection.
+
+In order to develop their model, researchers make use of information from past fire incidents from 2009 to 2017, data on property assessments and valuations from Allegheny County, and information on non-fire inspections and violations (such as noise and sanitation) from the Department of Permits, Licenses, and Inspections of the City of Pittsburgh. They combine this data at the address level, and by "training" the model on the first 7.5 years worth of historical fire incidence data and assessing the model on a test set that was not used for training, researchers are able to estimate the chance of a fire for a particular address over a 6-month span.
+
 
 ## Relationship between Citizens and Police
 
@@ -69,7 +72,6 @@ Though several individuals in America believe investing more money in the commun
 Jacobs heavily criticizes those who are in charge of city planning by stating how they, "...are guided instead by principles derived from the behavior and appearance of towns, suburbs, tuberculosis sanatoria, fairs, and imaginary dream cities-from anything but cities themselves". [@jacobs1993] This statement by Jacobs references back to the idea that there is becoming a removal of culture from cities nowadays. Instead of focusing on the revival of the so-called "slums", both practitioners and educators in this field continue to attempt to replicate their view of a "balanced community", where aspects of commercialization and struggle are both present.
 
 In her book, Jacobs discusses how planning for a city or a community may not always result in improvements to the inhabitants' standard of living. The first consideration for city planners when deciding whether to develop a community is if the proposed project will improve the lives of the residents or do more harm to their neighborhood. 
-
 
 ## Motivation
 
@@ -132,7 +134,7 @@ When it comes to neighborhood development, more funding for struggling areas is 
 
 Also, there are several examples of some sort of police surveillance that impacted the infrastructure of a certain community that exists in not just the Pittsburgh region, but other cities that are more populated than Pittsburgh. However, these cities share similar demographics to the city of Pittsburgh and face the same issues when it pertains to community investment.
 
-In this section, I will offer critiques of the articles that discuss the value of community investment and the effects of excessive police presence in various neighborhoods. In order to illustrate the many functionalities used and how they are similar to CriticalJustice, I will also be looking at critical cartography initiatives which address inequality.
+In this section, I will offer critiques of the articles that discuss the value of community investment and the effects of excessive police presence in various neighborhoods. In order to illustrate the many functionalities used and how they are similar to CriticalJustice, I will also be looking at critical cartography initiatives which address inequality  and marginalized communities.
 
 ## Critical Cartography
 
@@ -205,8 +207,6 @@ There has been research conducted already that evidently shows that a neighborho
 
 
 # Method of approach
-
-## Reasoning Behind Method
 
 After reviewing all the topics I could research for the senior thesis project, I decided that I would primarily focus on the topic of data analysis. Originally, I wanted to center my thesis on the idea of crime in the United States and the different categories of crime. I had downloaded a dataset that contained every county in the United States's crime rate while also depicting the amount of instances of different kinds of crime. Though this was a very informative dataset,I felt I was going towards a more broad approach rather than concretely identifying an idea. After consulting with advisors, I realized I need to be more specific in my research idea. Then, after much deliberation, I decided to concentrate my thesis on the concept of the under-investment of communities particularly neighborhoods in Pittsburgh, PA. Another aspect of my previous thesis idea that I felt was not sufficient was that the best way to visualize this data was just a simple bar and plot graphs. Because of the research I conducted, I felt that type of visualization was redundant and I wished for my project to have uniqueness. Therefore, I explored several types of data visualization until I was able to discover critical cartography.
 
@@ -431,17 +431,25 @@ In a course called, ***Computer Cartography***, at Western Washington University
 
 ### Evaluation of ***CriticalJustice*** Map
 
-![CriticalJustice Interactive Map](images/critical.png)
+![CriticalJustice Interactive Map](images/critical1.png)
 
-This figure shows the interactive map that I created for the **CriticalJustice** project. This map depicts the neighborhoods of Pittsburgh, Pennsylvania utilized a CSV file that included information about each Pittsburgh community. The first question I would ask to evaluate this map would be is there a title that describes the purpose of the map. From this figure, there is a title at the top-middle of the interactive map that states **CriticalJustice** in clear and readable font for the users to see.
+This figure shows the interactive map that I created for the **CriticalJustice** project. This map depicts the neighborhoods of Pittsburgh, Pennsylvania utilized a CSV file that included information about each Pittsburgh community. 
+
+The first question I would ask to evaluate this map would be is there a title that describes the purpose of the map. From this figure, there is not a title at the top-middle of the interactive map that states **CriticalJustice** in clear and readable font for the users to see. So, utilizing HTML, I was able to add a title to the top of the interactive map. 
+
+![CriticalJustice With Title](images/critical2.png)
 
 Second, there should be a scale indicator that links a unit of measure on the map to another unit of measure in the real world. On this map, there is a scale based on the level of need in a certain community in Pittsburgh, Pennsylvania. This scale is represented by a graphic scale that showcases how a lighter red to show a very low level of need and a darker red to show to a very extreme level of need.
 
-Third, a map ought to be able to show which direction is north, south, east, and west. A compass rose or a north arrow can be used for this. So, the next question I would ask for this map is is there any evidence of orientation In the interactive map **CriticalJustice**, there is not any indication of orientation.
+Third, a map ought to be able to show which direction is north, south, east, and west. A compass rose or a north arrow can be used for this. So, the next question I would ask for this map is is there any evidence of orientation In the interactive map **CriticalJustice**, there is not any indication of orientation. So, similar to the implementation of the title of the map, I imported a compass rose at the top left corner, so there will be an indication of orientation on the interactive map **CriticalJustice**
 
-Fourth, a map border will be able to properly identify  where the mapping area begins and stops. Also, the entire page or map layout should also have a border. There are borders and outlines surrounding the shapefile on the interactive map **CriticalJustice**, indicating that this is the area of the map that should be concentrated.
+![CriticalJustice With Compass](images/critical3.png)
 
-Fifth, if the interactive map makes use of any symbols or colors, including shading or patterns, a legend would be necessary. In the interactive map **CriticalJustice**, there are two different icons that represent the `Shots Fired` data and also the `Fire Incident` data. There is a legend located at the bottom left corner that indicates which color represents which data point. For example, a red icon represents the fire incidents data points while the blue icon represents the shots fired data points.
+Fourth, a map border will be able to properly identify where the mapping area begins and stops. Also, the entire page or map layout should also have a border. There are borders and outlines surrounding the shapefile on the interactive map **CriticalJustice**, indicating that this is the area of the map that should be concentrated.
+
+Fifth, if the interactive map makes use of any symbols or colors, including shading or patterns, a legend would be necessary. In the interactive map **CriticalJustice**, there are two different icons that represent the `Shots Fired` data and also the `Fire Incident` data of each Pittsburgh community. A legend has been implemented on the map and is located at the bottom left corner that indicates which color represents which data point. For example, a red icon represents the fire incidents data points while the blue icon represents the shots fired data points.
+
+![CriticalJustice With Legend](images/critical4.png)
 
 Sixth, there should be map credits displayed on the interactive that shows the source of the data, name of the cartographer, the data of the map creation / publication and the data of the map data.
 
@@ -449,7 +457,7 @@ Seventh, an inset Locator map would be necessary if the map;s region is difficul
 
 Eighth, an effective graphical design refers to the planning and decision-making processes that go into the visual representation of geographic data. Achieving balance within the map is one method to make the design work. More specifically, a map with an effective graphical design will be produced if the map and all of its components are tidy, obvious, and symmetrically balanced. In **CriticalJustice**, each of the map elements are separated such as the legend, the scale indicator, the layer control, and the map itself, are separated evenly on the page so there is balance. The only cluster visible would be with the data points, and that is because of the large amount of data that was collected for the interactive map.
 
-Next, the typography, line weights, and shading should follow a hierarchy of symbolism. Generally, more significant characteristics are larger and or darker, while less significant or background information should be smaller and/or lighter. The interactive map **CriticalJustice** follows a hierarchy of symbolism for the shading of the Pittsburgh community. The shading represents the level of need adn the darker the shading, the more need a neighborhood requires. 
+Next, the typography, line weights, and shading should follow a hierarchy of symbolism. Generally, more significant characteristics are larger and or darker, while less significant or background information should be smaller and/or lighter. The interactive map **CriticalJustice** follows a hierarchy of symbolism for the shading of the Pittsburgh community. The shading represents the level of need adn the darker the shading, the more need a neighborhood requires.
 
 Finally, all maps have a purpose, which affects every component and layout of the map. Like it was mentioned before,**CriticalJustice**'s purpose is to seek to shed light on how a neighborhood's and it residents' quality of life is impacted by a lack of infrastructure investment. This issue needs to be addressed because it is still a problem in most places today in the United States. 
 
