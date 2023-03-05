@@ -2,6 +2,8 @@
 
 There are several reasons crime occurs in a certain community. These could range from the economic determinants, which as acquired greater relevance in the past couple years, such as educational attainment, wage income, income inequality, and public expenditure on police. The theory that police presence or public funding in protection actually causes more crime may seem contradictory, but there has been data that show that communities who have a higher percentage of police dispatches tend to have a higher crime rate.
 
+Additionally, lack of investment in a community can lead to a higher crime rate in a community. One must consider the long-standing connection between violence and geography in order to comprehend the causes of-and potential remedies for- violence in the United States. According to decades of study, violence is spatially concentrated in America, happening disproportionately in a small number of streets. Also, the concentration of structural disadvantage indicators (such as poverty, poor educational attainment, and high unemployment) and the greatest percentage of persons of color may be found in these areas.
+
 ## Black Population Currently in Pittsburgh, PA
 
 In order for individuals to understand the impact of factors in the determinants of crime and the relationship with infrastructure that affect neighborhood development, one has to understand the conditions of the Black population in Pittsburgh, PA.
@@ -13,6 +15,10 @@ It is clear from the above testimony and the facts provided by the news reporter
 According to an article titled, "Pitt report: Quality of life for black residents worse in Pittsburgh than in other cities", Emily Wolfe reports that the former Mayor Bill Peduto's Gender Equity Commission released a report that investigates racial and gender disparity in the City. According to the report conducted by a team of Pitt researchers, "while Pittsburgh ranks in the middle 50% of American cities when it comes to health, employment, income and education for its white residents, those same factors rank much lower for black residents." [@wolfe2019]
 
 The above factors, health, employment, income, and education, are essential for neighborhood development, and predominantly Black communities suffer because they do not have access to these elements compared to their white counterparts.
+
+A new initiative called **Black Pittsburgh Matters** is the City of Pittsburgh's approach to develop Black neighborhoods and enhance the quality of life for Black people. Their principles are Black Communities Matter, reviving traditional Black communities; Black Lives Matter, ensuring the health and safety of Black People; and Black Wealth Matters, fostering Black enterprise and employment. R. Daniel Lavelle and Rev. Ricky Burgess, councilmen from Pittsburgh, Pennsylvania, continue to draft laws that would improve the quality of life for the city's Black residents. [@thecityofpittsburgh]
+
+Initiatives like these create hope for individuals living in low-income Black communities.  
 
 ## "Hot Spot" Policing
 
@@ -250,10 +256,11 @@ After being to able to find a shapefile that properly defined the Pittsburgh nei
 ```python
 import pandas as pd
 from datatest import validate
-import numpy as np 
+import branca
 import geopandas as gpd
 import folium
 from folium import Choropleth, Marker
+from folium.plugins import FloatImage
 from folium.features import GeoJsonTooltip
 from folium.plugins import MarkerCluster
 ```
@@ -262,7 +269,9 @@ With each individual `import` statement, I will be utilizing a Python package, w
 
 - ***pandas**: When working with "relational or "labeled data, the pandas Python library offers quick, adaptable, and expressive data structures that are simple to use. I utilized the Python package `pandas` to read into CSV files, which are the datasets I was able to download. Also, with `pandas`, I was able handle any missing data, these can be represented as Nan, NA, or NaT, that was present throughout any of the downloaded datasets. [@pypi]
 
-- ***dataset/validate**: The python package `dataset` makes database data reading and writing as easy as reading and writing JSON files. The dataset module is compatible with the major database SQLite, that I utilized to create tables for the multiple CSV files. Also, from the dataset module, I imported the `validate` library to validate the specific dataset I wanted to read into did not contain any NaN values. 
+- ***dataset/validate**: The python package `dataset` makes database data reading and writing as easy as reading and writing JSON files. The dataset module is compatible with the major database SQLite, that I utilized to create tables for the multiple CSV files. Also, from the dataset module, I imported the `validate` library to validate the specific dataset I wanted to read into did not contain any NaN values.
+
+- ***branca**: Folium has a spin-off called `branca`. It has the ability to produce `HTML` and `JavaScript`. Its foundation is Jinja2. I was able to utilize this package to produce `HTML` code on the interactive map. For instance, I was able to produce a title at the top of the page displaying the name of the interactive map **CriticalJustice**. I also utilized the `branca` package and `HTML` to create a legend at the bottom left-hand corner of the map. 
 
 - ***geopandas**: The Python package `geopandas` enables a user to work with geospatial data with Python. It is an extension of the package `pandas` to enable geometric types to do spatial operations.  `Geopandas` combines the power of `pandas` with another Python package `shapely` by giving `shapely` a high-level interface to several geometries and `pandas` geographic operations. I was able to utilize `geopandas` to read a shapefile and convert it to a GeoJson, so I couple properly create a `choropleth` map visualizations.
 
@@ -436,7 +445,7 @@ Fifth, if the interactive map makes use of any symbols or colors, including shad
 
 Sixth, there should be map credits displayed on the interactive that shows the source of the data, name of the cartographer, the data of the map creation / publication and the data of the map data.
 
-Seventh, an inset Locator map would be necessary if the map;s region is difficult to distinguish or has a vast scale. An inset **Detail** map of Pittsburgh is actually included on the interactive map **CriticalJustice** and displays the city in incredible depth.
+Seventh, an inset Locator map would be necessary if the map;s region is difficult to distinguish or has a vast scale. An inset **Detail** map of Pittsburgh is actually included on the interactive map **CriticalJustice** and displays the city in incredible depth. Th
 
 Eighth, an effective graphical design refers to the planning and decision-making processes that go into the visual representation of geographic data. Achieving balance within the map is one method to make the design work. More specifically, a map with an effective graphical design will be produced if the map and all of its components are tidy, obvious, and symmetrically balanced. In **CriticalJustice**, each of the map elements are separated such as the legend, the scale indicator, the layer control, and the map itself, are separated evenly on the page so there is balance. The only cluster visible would be with the data points, and that is because of the large amount of data that was collected for the interactive map.
 
@@ -496,10 +505,9 @@ Next, a hierarchy of symbolism must be observed in the use of line weights, shad
 
 Finally, a map must have a goal in mind if it is to be considered effective. Dedicated to provide a free online resource for those interested in learning more about the Indigenous history of the land they live on and visit, **Native Land** is an Indigenous-led initiative.
 
-
-
 ## Threats to Validity
 
+Concerning threats to validity, 
 # Conclusion
 
 Traditionally, this chapter addresses the areas proposed below as sections, although
