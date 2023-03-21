@@ -30,13 +30,21 @@ A mechanism that has been used for "Hot Spot" policing has been the gunshot dete
 
 Even with the reported positive results, several individuals still question the gunshot detection company and its technology. For instance, the city of Chicago's Inspector General issued a critical report on the ShotSpotter gunshot detection company which indicated there are deep problems with ShotSpotter and its technology and how it impacts communities of color and their relationship with law enforcement. Inside the critical report, it questions the technology's "operational value" and discovered that it makes police officers use stop and frisk procedures more frequently in specific neighborhoods. The Northwestern School of Law's MacArthur Justice Center also made a similar critical report and legal filing that addresses how Shot Spotter is "deployed overwhelmingly in communities of color, which already disproportionately bear the brunt of a heavy police presence". There are various issues with the police's claim that they choose neighborhoods for deployment depending on where shootings occur. For example, the MacArthur Justice Center highlights that because sensors are placed in some neighborhoods but not others, the police will be able to identify more incidents—real or fake—in those areas. This could skew data on gunfire and produce a statistical basis for excessive policing in neighborhoods of color. [@stanley2021]
 
-## Fire Instances and Infrastructure in Pittsburgh, PA
+## Fire Instances and Infrastructure
 
 Pittsburgh has unfortunately seen several infrastructure fails in the past couple years. In September of 2016, a building fire came dangerously close to destroying the Liberty Bridge. It took firefighters nearly 30 minutes to put out the fire, which had a temperature of more than 1,200 degrees. [@folts2022] With an incident like this occurring, there was a need for an investigative report on fire inspections in Pittsburgh, PA.
 
-Fortunately, Carnegie Mellon University conducted a Metro21 research project that assesses fire risk prediction models to decide which property fire inspections to prioritize. Their motivation for this research project address the issue with the approach towards fire inspections and how they could be significantly advanced in the city of Pittsburgh. The argument made here is that the use of risk-based data-driven systems for the identification, selection, and prioritization of new properties to check could greatly improve current approaches to fire inspection.
+Fortunately, Carnegie Mellon University conducted a Metro21 research project that assesses fire risk prediction models to decide which property fire inspections to prioritize. Their motivation for this research project address the issue with the approach towards fire inspections and how they could be significantly advanced in the city of Pittsburgh. The argument made here is that the use of risk-based data-driven systems for the identification, selection, and prioritization of new properties to check could greatly improve current approaches to fire inspection. [@carneige]
 
 In order to develop their model, researchers make use of information from past fire incidents from 2009 to 2017, data on property assessments and valuations from Allegheny County, and information on non-fire inspections and violations (such as noise and sanitation) from the Department of Permits, Licenses, and Inspections of the City of Pittsburgh. They combine this data at the address level, and by "training" the model on the first 7.5 years worth of historical fire incidence data and assessing the model on a test set that was not used for training, researchers are able to estimate the chance of a fire for a particular address over a 6-month span.
+
+As this model can anticipate property fires that take place in various communities, it may prove valuable for the city of Pittsburgh. Whether an alarm or smoke detector was activated at the address in question before the fire incident was one significant predictive characteristic that our model was able to identify. This enables the researchers to determine whether fire incidents were a regular occurrence in this specific location. Measures of the lot area, assessed value, and sale price at the address were additional significant predictive variables. The age of the building might be inferred from these data, which may indicate that there hasn't been much infrastructural development.
+
+The researchers next conducted study on the buildings that earned high fire risk scores, as indicated by the model output as of this writing, after presenting the predictive characteristics on the model.
+
+![Fire Model](images/model.png)
+
+The most high-risk property kinds are shown in the aforementioned graphic. According to this presentation, apartments with 40 or more units are the ones with the greatest number of high-risk addresses and apartment with 5-19 units had the second greatest number of high-risk addresses. These apartments often serve as low-income housing for individuals, and as a result, they typically have worse conditions than other apartment buildings.
 
 
 ## Relationship between Citizens and Police
@@ -208,7 +216,9 @@ There has been research conducted already that evidently shows that a neighborho
 
 # Method of approach
 
-After reviewing all the topics I could research for the senior thesis project, I decided that I would primarily focus on the topic of data analysis. Originally, I wanted to center my thesis on the idea of crime in the United States and the different categories of crime. I had downloaded a dataset that contained every county in the United States's crime rate while also depicting the amount of instances of different kinds of crime. Though this was a very informative dataset,I felt I was going towards a more broad approach rather than concretely identifying an idea. After consulting with advisors, I realized I need to be more specific in my research idea. Then, after much deliberation, I decided to concentrate my thesis on the concept of the under-investment of communities particularly neighborhoods in Pittsburgh, PA. Another aspect of my previous thesis idea that I felt was not sufficient was that the best way to visualize this data was just a simple bar and plot graphs. Because of the research I conducted, I felt that type of visualization was redundant and I wished for my project to have uniqueness. Therefore, I explored several types of data visualization until I was able to discover critical cartography.
+After reviewing all the topics I could research for the senior thesis project, I decided that I would primarily focus on the topic of data analysis. Originally, I wanted to center my thesis on the idea of crime in the United States and the different categories of crime. I had downloaded a dataset that contained every county in the United States's crime rate while also depicting the amount of instances of different kinds of crime. Though this was a very informative dataset,I felt I was going towards a more broad approach rather than concretely identifying an idea.
+
+After consulting with advisors, I realized I need to be more specific in my research idea. Then, after much deliberation, I decided to concentrate my thesis on the concept of the under-investment of communities particularly neighborhoods in Pittsburgh, PA. Another aspect of my previous thesis idea that I felt was not sufficient was that the best way to visualize this data was just a simple bar and plot graphs. Because of the research I conducted, I felt that type of visualization was redundant and I wished for my project to have uniqueness. Therefore, I explored several types of data visualization until I was able to discover critical cartography.
 
 Since critical cartography focuses on reflecting and maintaining power relations, frequently serving the needs of dominant groups, I pursued mapping as the form of visualization for my project. After determining that, I examined what kind of data would be most helpful in portraying my argument that predominately Black communities in Pittsburgh, PA suffer from underinvestment in their communities due to the focus of over-policing.
 
@@ -221,17 +231,23 @@ I also was able to download a dataset from the Western Pennsylvania Regional Dat
 
 In relation to the subject of gun violence, I was able to download a dataset that contains information from ShotSpotter data in Pittsburgh, Pennsylvania. Each instance in this dataset contains the longitude and latitude coordinates, allowing users to determine the precise place where the shot was fired. Additionally, it specifies the incident type of the specific shot fired; these incident types include single gunshot, multiple gunshots, and probable fire, which denotes a very high probability that a shot was fired.
 
-## SQL Results
+## SQL Analysis
 
 After collecting the datasets, I started brainstorming ways to make correlations between the community data. I made the decision that I wanted to show how each town is unique depending on a number of elements, whether they are social or economic. After conducting research, I realized utilizing a common programming language for managing relational databases and carrying out different operations on the data they contain. The use of the SQLite programming language follows this criteria.
 
+With the programming language SQLite, I was able to divide each of the downloaded datasets into tables and separate the included data into columns. I primarily utilized the CSV files that concentrated on police dispatches with shots fired data, neighborhood data, and fire incident data. This information can be located in the `Fireincident.csv`, `Shots.csv`, and `Neighborhood.csv`. With the SQLite platform, I was able to create queries that related to how infrastructure investment varied between different communities.
 
-With the programming language SQLite, I was able to divide each of the downloaded datasets into tables and separate the included data into columns. I primarily utilized the CSV files that concentrated on police dispatches with shots fired data, neighborhood data, and fire incident data. This information can be located in the `Fireincident.csv`, `shots.csv`, and `Neighborhood.csv`. With the SQLite platform, I was able to create queries that related to how infrastructure investment varied between different communities. 
+For instance, if I wanted to see community data about the municipality of Wilkinsburg, the query would look like this:
 
+![Wilkinsburg Query](images/query.png)
+
+This approach to data analysis helped me both in formulating the claim I was attempting to support and in connecting the dots among the data that was included in the three datasets mentioned.
 
 ## Level of Need Indicator
 
-The Allegheny County Community Need Index was created by the Allegheny County Department of Human Services (DHS) to the identify the locations that require more help and have more socioeconomic obstacles to overcome than other areas. According to the Allegheny County Analytics, the Community Need Index will be ranking neighborhoods by looking at the percentage of families who live below the poverty line, the percentage of unemployed males, the resident education levels, the percentage of single mothers, and the number of 911 dispatches for gun shots fired. From this site, I was able to download the specific neighborhood dataset that showcased attributes about each Pittsburgh neighborhood. According to the Community Need Index report, the takeaways are that levels of need amount Allegheny County census tracts have stayed mostly consistent with the previous analysis 5 years ago. Also, 89% of tracts that were high or extreme need within 2009 to 2013 (5-year estimate) were still high or extreme need in the latest report. [@acanalyticswebdev2]
+The Allegheny County Community Need Index was created by the Allegheny County Department of Human Services (DHS) to the identify the locations that require more help and have more socioeconomic obstacles to overcome than other areas. According to the Allegheny County Analytics, the Community Need Index will be ranking neighborhoods by looking at the percentage of families who live below the poverty line, the percentage of unemployed males, the resident education levels, the percentage of single mothers, and the number of 911 dispatches for gun shots fired.
+
+From this site, I was able to download the specific neighborhood dataset that showcased attributes about each Pittsburgh neighborhood. According to the Community Need Index report, the takeaways are that levels of need amount Allegheny County census tracts have stayed mostly consistent with the previous analysis 5 years ago. Also, 89% of tracts that were high or extreme need within 2009 to 2013 (5-year estimate) were still high or extreme need in the latest report. [@acanalyticswebdev2]
 
 The community index report has been utilized to inform a variety of DHS strategic planning and resource allocation choices, including those on the placement of new after-school programs or Family Centers. For the sake of my study, this index will be used to rank Pittsburgh neighborhoods according to which ones require greater infrastructure investment based on the previously listed characteristics.
 
@@ -247,9 +263,9 @@ According to the neighborhood dataset and the community need index, Pittsburgh's
 
 This UML diagram shows how each of the datasets interact with each other and the certain columns that were essential in creating the Python script `vector.py`.  In the top upmost table, I stated the columns I would be utilizing in the `Neighborhood.csv` dataset. I utilized the `Pittsburgh_Neighborhood` column to display each of the Pittsburgh neighborhoods' names, so individuals would know where each community was located. The `Level_of_Need` and `Level_of_Need_Scale` columns coincide together to visualize the metric of the level of need in neighborhood by transforming the scale to a decimal format.
 
-Concerning the `shots.csv` file, by using both the `Longitude` and `Latitude` columns, data points that had neighborhood's exact location were able to be plotted on the interactive map. Additionally, the `IncidentType` column was put to use to display the kind of incident was occurring at the exact location.
+Concerning the `Shots.csv` file, by using both the `Longitude` and `Latitude` columns, data points that had neighborhood's exact location were able to be plotted on the interactive map. Additionally, the `IncidentType` column was put to use to display the kind of incident was occurring at the exact location.
 
-Similar to the `shots.csv` file, the columns `latitude` and `longitude` were employed to create data points that show different kinds of fire incidents that have occurred in the certain community. The `incident_type` column gives a description of the certain fire incident that occurred in that particular neighborhood. This can range from a simple cooking fire to a building fire.
+Similar to the `Shots.csv` file, the columns `latitude` and `longitude` were employed to create data points that show different kinds of fire incidents that have occurred in the certain community. The `incident_type` column gives a description of the certain fire incident that occurred in that particular neighborhood. This can range from a simple cooking fire to a building fire.
 
 ## Code Segment
 
@@ -287,11 +303,11 @@ With each individual `import` statement, I will be utilizing a Python package, w
 
     - ***Choropleth**: In connection to a numerical variable, a `choropleth` map shows split geographic areas or regions that are colored. I added this feature to the interactive map to visualize the Black population rate in Pittsburgh, PA.
 
-    - ***Marker**: With the `Marker` feature in `folium`, I was able to plot points from the download CSV files. For instance, the `shots.csv` data file included the longitude and latitude coordinates of each shots fired in Pittsburgh, PA. With these two columns, I was able plot the points of th shots fired. I was also able to do this feature with the `Fireincident.csv` dataset as well.
+    - ***Marker**: With the `Marker` feature in `folium`, I was able to plot points from the download CSV files. For instance, the `Shots.csv` data file included the longitude and latitude coordinates of each shots fired in Pittsburgh, PA. With these two columns, I was able plot the points of th shots fired. I was also able to do this feature with the `Fireincident.csv` dataset as well.
 
     - ***GeoJsonToolTip**: The `GeoJsonTooltip` class of the `folium.features` package enables a user to create tooltip that utilizes data from a `GeoJSON` file. I was able to utilize this specific feature to create tooltips on the GeoJson file I downloaded, so individuals have a better understanding on the markers I made.
 
-    - ***MarkerCluster**: The`MarkerCluster` plugin in `folium` is utilized to condense data that slows down the performance of the interactive map. I utilized this feature for the `shots.csv` and `FireIncident.csv` datasets, so that the large points were contained in clusters.
+    - ***MarkerCluster**: The`MarkerCluster` plugin in `folium` is utilized to condense data that slows down the performance of the interactive map. I utilized this feature for the `Shots.csv` and `FireIncident.csv` datasets, so that the large points were contained in clusters.
 
 ![Folium Map Creation](images/pitt.png)
 
@@ -302,7 +318,7 @@ folium.GeoJson('https://raw.githubusercontent.com/datasets/geo-admin1-us/master/
 
 counties_gdf = gpd.read_file(r"C:\Users\favou\Documents\COMP\CriticalJustice\src\Neighborhood_SNAP.shp")
 
-base_df = pd.read_csv(r'C:\Users\favou\Documents\COMP\CriticalJustice\data\shots.csv')
+base_df = pd.read_csv(r'C:\Users\favou\Documents\COMP\CriticalJustice\data\Shots.csv')
 
 neighbor = pd.read_csv(r"C:\Users\favou\Documents\COMP\CriticalJustice\data\Neighborhood.csv")
 neighbor = neighbor[["Pittsburgh_Neighborhood", "Level_of_Need_Scale"]]
@@ -315,7 +331,7 @@ fire_data = fire_data.dropna(subset=['latitude', 'longitude'])
 
 For this code segment, I use the  `folium.GeoJson` plugin to change the downloaded shapefile into a `GeoJson` file . I made this choice to make the in-lines stand out sufficiently to demonstrate how Pittsburgh's communities are divided.
 
-Each of the downloaded datasets may be read into by using the `pandas` and `geopandas` tools. The shapefile that is now in `GeoJSON` format may be used for the initial shape of teh interactive map of Pittsburgh, Pennsylvania, thanks to the `geopandas` package and `read_file` function. The `shots.csv`, `FireIncident.csv` and `Neighborhood.csv` files were similarly given alternative values using the `pandas` package and `read_csv` function so that the data within could be used for modification.
+Each of the downloaded datasets may be read into by using the `pandas` and `geopandas` tools. The shapefile that is now in `GeoJSON` format may be used for the initial shape of teh interactive map of Pittsburgh, Pennsylvania, thanks to the `geopandas` package and `read_file` function. The `Shots.csv`, `FireIncident.csv` and `Neighborhood.csv` files were similarly given alternative values using the `pandas` package and `read_csv` function so that the data within could be used for modification.
 
 The `FireIncident.csv` dataset, however, contained `NaN` values, which Python cannot recognize as data. In order to remove any `NaN` values from the `latitude` and `longitude` columns, I utilized the `datatest` package and import the `validate` library to validate the dataset. 
 
@@ -350,7 +366,7 @@ for i, r in fire_data.iterrows():
                 icon=folium.Icon(color="red", icon="fire", prefix='fa')).add_to(marker_cluster_1), 
 ```
 
-These two `for` loops demonstrate how data points from the `shots.csv` file and `FireIncident.csv` are plotted. Both employ `Latitude` and `Longitude` coordinates to depict the locations of the two distinct occurrences. I was able to add creative icons to the data points and incorporate a `tooltip` that identifies the incident type thanks to several `folium` capabilities. To prevent the performance of the interactive map from being slowed down and to maintain the aesthetic appeal, these points will likewise be enclosed in a `MarkerCluster`.
+These two `for` loops demonstrate how data points from the `Shots.csv` file and `FireIncident.csv` are plotted. Both employ `Latitude` and `Longitude` coordinates to depict the locations of the two distinct occurrences. I was able to add creative icons to the data points and incorporate a `tooltip` that identifies the incident type thanks to several `folium` capabilities. To prevent the performance of the interactive map from being slowed down and to maintain the aesthetic appeal, these points will likewise be enclosed in a `MarkerCluster`.
 
 # Experiments
 
@@ -359,7 +375,6 @@ I will cover both the basics of mapping and the problems that emerge when using 
 Normally, for the argument to be more persuasive, visualization may be employed to help people grasp the reasoning and see connections and patterns within the facts. The data has more significance when it is visualized. Data has been visualized with the help of mapping, particularly data pertaining to social concerns. A map must however, meet certain requirements in order to be accepted as legitimate.
 I'll be assessing a variety of maps, including the interactive map in **CriticalJustice**, to evaluate which standards they adhere to and which ones they do not.
 
-- adding SQL results 
 ## Purpose of Project  
 
 With the project **CriticalJustice**, I hope to shed light on how the lack of infrastructure investment effects a neighborhood and its citizens' quality of life. Because it continues to be a problem in the majority of areas today, I believe this matter deserves attention. Furthermore, I believe that a lot of these under-invested communities-both financially and in terms of services-also see an excessive amount of police in their local areas. This belief also comes from the personal experience I have from growing up in a low-income neighborhood. I've done a lot of study on this subject, and when I apply it to myself, I realize how crucial a tool like this is since it represents actual experience. When addressing how causes of crime like excessive police or a lack of infrastructure investment influence a community, this project helps those who live in low-income areas or "dangerous" places feel more represented and understood.
@@ -372,11 +387,11 @@ Although community data collecting may be used to a community's advantage, there
 
 More specifically, there has been a social problem with Census data under-counting that is both historical and current. In the project **CriticalJustice**, I utilize Census data about Pittsburgh, Pennsylvania that was contained in a dataset. The dataset included information about the total population of each community in Pittsburgh while also showing the demographics of each of the neighborhoods. This dataset will be utilized to further my argument about how Black communities are disproportionally affected by lack of infrastructure investment. With the use of aggregate information on births, deaths, immigration, emigration, and previous censuses, demographic analysis gives estimates of the overall U.S. population and its constituent parts by race, age, and sex. A measure of census coverage is produced by comparing the estimated value to the corresponding census numbers. [@westfein1990]
 
-However, when it pertains to census community data collection, there are certain population who suffers from the census under-count. There are some populations, nevertheless, that are under-counted in the census when it comes to gathering community statistics. Because of the large number of homeless people living in urban neighborhoods, these communities are typically the ones to experience these instances. In a study sent to the Secretary of the Department of Housing and Urban Development in 1984, the first shot was fired in the "numbers debate" surrounding homelessness. [@wright1992counting]. The Housing and Urban Development assessment estimated that there were between 250,000 to 350,000 homeless people in the country, an order of magnitude fewer than the 2-3 million figure htat was  then popular in advocacy circles. This estimate was based on educated judgment and shelter capacity in many significant cities. Many people instantly discounted the HUD estimate as a flismy attempt by a conservative government to downplay the severity of the homelessness issue.
+However, when it pertains to census community data collection, there are certain population who suffers from the census under-count. There are some populations, nevertheless, that are under-counted in the census when it comes to gathering community statistics. Because of the large number of homeless people living in urban neighborhoods, these communities are typically the ones to experience these instances. In a study sent to the Secretary of the Department of Housing and Urban Development in 1984, the first shot was fired in the "numbers debate" surrounding homelessness. [@wright1992counting]. The Housing and Urban Development assessment estimated that there were between 250,000 to 350,000 homeless people in the country, an order of magnitude fewer than the 2-3 million figure that was then popular in advocacy circles. This estimate was based on educated judgment and shelter capacity in many significant cities. Many people instantly discounted the HUD estimate as a weak attempt by a conservative government to downplay the severity of the homelessness issue.
 
 ### Bias with Data Collection
 
-The effectiveness of our conclusions is impacted by the data gathering techniques we use. This is especially true for human rights and violence researchers on the ground. These researchers have a higher risk of methodological errors and the resulting weaknesses in their results and policy recommendations since they operate in high-risk, low information environments. Selection bias is defined in greater detail below and happens when a researcher purposefully excludes a certain class of subjects from their data collection.
+The effectiveness of our conclusions is impacted by the data gathering techniques we use. This is especially true for human rights and violence researchers on the ground. These researchers have a higher risk of methodological errors and the resulting weaknesses in their results and policy recommendations since they operate in high-risk, low information environments. Selection bias happens when a researcher purposefully excludes a certain class of subjects from their data collection.
 
 ## Design Principles of Mapping
 
@@ -639,12 +654,32 @@ Finally, I was able to develop an interactive map that displays data points rela
 
 ![Final Product of Map](images/final.png)
 
-By developing a visual of the data collected, I was also able to visualize the connections I made between the data that was collected. Specifically, I was able to make connections between elements of the `Neighborhood.csv` file with the instances present in the `shots.csv` file and the `FireIncident.csv` file.
+By developing a visual of the data collected, I was also able to visualize the connections I made between the data that was collected. Specifically, I was able to make connections between elements of the `Neighborhood.csv` file with the instances present in the `Shots.csv` file and the `FireIncident.csv` file.
 
-- show screenshot of map 
-- talk about connections made with the data points
+### Data Conclusions
+
+Data on the demographics of each Pittsburgh municipality and neighborhood may be found in the `Neighborhood.csv` file. There is additional information available on income and other aspects of that region's economic health. For instance, there is information concerning the family poverty rate and also the median gross rent and the median home value in a community. This dataset was really useful in the development of the thesis since the statistics allowed me to conclude that some of these factors may be related to the causes of both crime and community disinvestment.
+
+In the `FireIncident.csv` file, the information in the dataset is based on the fire incidents that occur in the city of Pittsburgh. This information ranges from the type of fire incident based on fire codes, ex. 111 implicates a building fire has occurred, the exact address of the incident, the neighborhood of the incident, and the exact longitude and latitude coordinates of the incident. I was able to tie this dataset to the part of my thesis that dealt with infrastructure development. In places with a higher degree of need from the previous dataset, I found a frequency of 111 fire codes after running queries over the datasets. As a result, I was better equipped to analyze the assertion that areas with high levels of need suffer from a lack of community investment and excessive police.
+
+In the `Shots.csv` file, this dataset contained information the exact date, time, and longitude and latitude coordinates of a specific gunshot fire utilizing the ShotSpotter gunfire detection technology. The incident type, this can range from multiple gunshots to a single gunshot or probable gunfire is also included in the dataset. This dataset allowed me to visualize show how severe gun violence is in certain communities in Pittsburgh. After visualizing this data utilizing the interactive map, there was noticeably more gun activity in the eastern region of Pittsburgh. This region contains communities like Wilkinsburg, Garfield, Homewood North and South, all communities with high levels of need and high Black population. After collecting this information, there was now an added element of gun violence to the thesis claim of there is a lack of community investment in Black communities.
+
+After gathering these datasets, I used SQLite to run queries on the data and draw linkages that would be useful for my arguments. Within the queries, I was noticing a notable difference between the community data of predominantly Black and white communities.
+For instance, I ran queries to highlight certain characteristics of two Pittsburgh neighborhoods—one with a high Black population and the other with a high white population. The communities will be Homewood (North and South) and Upper St. Clair Township.
+
+![Homewood Query](images/wood.png)
+
+![Upper St. Clair Township Query](images/upper.png)
+
+There is a result from the query that was used for the particular community that was selected in the condition in both of these photos. The variables that were considered for the query were the white and Black population rates, the average dispatches for shots fired per five hundred, the median home value in the neighborhood, and the level of need of that current neighborhood. Aspects of community development and excessive policing are made up of these several components. These two communities have clear differences when it pertains to how often there are police dispatches and how high their degree of need is. When it comes to having modern infrastructure and frequent appearances by the police, it appears that largely Black areas struggle more than white communities.  
 
 ## Future Work
+
+Regarding the aesthetics of the interactive map and the constraints of the study undertaken, there are still a number of improvements that need to be made to the project **CriticalJustice**. The initiative does, in my opinion, a good job of illustrating the role that crime prevention plays in the growth of a community. However, there are other aspects that could have been implementated to make the argument even stronger. For instance, one of the biggest barriers to success that a specific person encounters is their level of schooling. Because there isn't as much investment in the local educational system in some regions, there are less opportunities for residents to pursue higher education. 
+
+### Map Criteria 
+
+After analyzing the **CriticalJustice** interactive map, there was criteria that the map did not pass for it be considered a well-constructed map. More specifically, it was criteria that was focal to the map's identity.
 
 - following map criteria more specifically
 - other cities to demonstrate tactic
