@@ -49,7 +49,7 @@ The most high-risk property kinds are shown in the aforementioned graphic. Accor
 
 ## Relationship between Citizens and Police
 
-Pittsburgh's recent city operating budget has created an uproar among their citizens due to the large amount of money allocated to the Pittsburgh Police Department. Andrew Bankson and Brian Gonnella in their article titled, "Pittsburgh's city budget works for the police but not for the people", discuss the specifics of the budget and display which  organizations suffered when it pertains to funding. Pittsburgh's city operating budget for 2021 increased spending more than $30 million from the previous year. That totals a staggering $608 million, including a 5.45 percent rise in the budget for police personnel, which rose to over $68 million. [@banksongonnella]
+Pittsburgh's recent city operating budget has created an uproar among their citizens due to the large amount of money allocated to the Pittsburgh Police Department. Andrew Bankson and Brian Gonnella in their article titled, "Pittsburgh's city budget works for the police but not for the people", discuss the specifics of the budget and display which  organizations suffered when it pertains to funding. Pittsburgh's city operating budget for 2021 increased spending more than $30 million from the previous year. That totals a staggering $608 million, including a 5.45 percent rise in the budget for police personnel, which rose to over $68 million. [@banksongonnella2021]
 
 Because of this diversion of money, public-sector workers must bear the burden and government positions must "stay unfilled". This creates even more fracture to communities because for EMS personnel, firefighters, laborers, truck drivers, and several other city employees who have put their lives in danger to keep the city operating during the crises our community has experienced, the budget asks for a general cut in pay. These cuts to city employees severely affects almost all city employees, with the exception of the pay and benefits of the uninformed police officers who intimidate the Black population of the city. The city budget is still managing to slash salaries for the Office of Public Works staff by am astounding 23.64 percent, while also reducing the number of truck drivers from 44 to 38 and laborers from 118 to 106. This is in a city known for its deteriorating infrastructure, potholes, and lead-tainted pipes.
 
@@ -59,7 +59,7 @@ Unfortunately, these are the not the only programs who have seen cuts when it pe
 
 There are many factors that has been speculated that lead to violence. Research that has been conducted identifies numerous root causes and danger signs for societal violence. It can range from individual risk factor, relationship risk factors, and community risk factors. More prevalently, community risk factors such as social disorganization  or limited community participation; poverty; crime; and community blight. Despite significant intervention and prevention efforts made by public officials, researchers, law enforcement personnel, and community-based individuals are organizations, community violence has persisted as a public health issue throughout the United States, and particularly within urban underprivileged communities of color.
 
-For an individual to understand why community violence occurs so frequently, one must recognize the many elements that contribute to community violence. The Allegheny County Department of Human Services is especially interested in community violence because of how it disproportionately impacts families in communities and vulnerable population groups. In a report prepared by Erin Dalton, Michael Yonas, Latoya Warren, and Emily Sturman titled, "Violence in Allegheny County and Pittsburgh", the authors attempt to produce a profile of community violence in Allegheny County to more fully comprehend how DHS clients and consumers feel about violence.  
+For an individual to understand why community violence occurs so frequently, one must recognize the many elements that contribute to community violence. The Allegheny County Department of Human Services is especially interested in community violence because of how it disproportionately impacts families in communities and vulnerable population groups. In a report prepared by Erin Dalton, Michael Yonas, Latoya Warren, and Emily Sturman titled, "Violence in Allegheny County and Pittsburgh", the authors attempt to produce a profile of community violence in Allegheny County to more fully comprehend how DHS clients and consumers feel about violence. [@acanalyticswebdev] 
 
 In addition to intergroup violence, Pittsburgh has had a number of incidents of gun violence in its urban neighborhoods. Even though they frequently make the news, killings and drive-by shootings are much less common than aggravated assaults with weapons. In Pittsburgh, shootings (defined as aggravated assaults with a firearm that cause injury) are six times as prevalent as killings, while aggravated assaults with firearms are ten times more frequent than homicides. According to the report, "Pittsburgh's murder rate (4.8 per 100,000 in 2005) is lower than the national average and that of many benchmark cities like Detroit, St. Louis, Baltimore, and Richmond. However, examination of violence trends among different demographic groups shows that, in particular, Pittsburgh's young black men are at acute risk of homicide victimization; the homicide rate for this group was 284.2 per 100,00-60 times the city-wide average and more than 50 times the national average". This information exposes the demographic that actively is affected by gun violence in Pittsburgh which is the Black male community. This violence was strongly concentrated in particular Pittsburgh areas as well as in nearby but outlying communities including Penn Hills, Wilkinsburgh, West Mifflin, and Mckeesport. The report indicated that African Americans and those living in poverty are more prevalent than usual in almost all communities with high homicide rates.
 
@@ -255,7 +255,7 @@ The community index report has been utilized to inform a variety of DHS strategi
 
 The figure illustrates the spectrum of community need in Pittsburgh, Pennsylvania. The levels range from a very modest demand to an enormous need, as one can observe. The figure also displays the ranking criteria, such as the percentage of men without a job and the number of shooting per 500 residents.
 
-According to the neighborhood dataset and the community need index, Pittsburgh's high-need areas include parts of the West End, the Upper Northside as whole, the Hill District, and East End communities including Garfield, Homewood, Larimer, East Hills, and Lincoln-Lemington. High and extreme need clusters can be found outisde of Pittsbugh in the Monongahela River valley, parts of Wilkinsburg and Penn Hills, stretches of the Ohio River Valley like McKees Rocks and Stowe Township, and parts of Harrison Township in the county's far northeast. [@person2021]
+According to the neighborhood dataset and the community need index, Pittsburgh's high-need areas include parts of the West End, the Upper Northside as whole, the Hill District, and East End communities including Garfield, Homewood, Larimer, East Hills, and Lincoln-Lemington. High and extreme need clusters can be found outisde of Pittsbugh in the Monongahela River valley, parts of Wilkinsburg and Penn Hills, stretches of the Ohio River Valley like McKees Rocks and Stowe Township, and parts of Harrison Township in the county's far northeast. [@cotter21]
 
 ## Technical Diagram
 
@@ -291,15 +291,15 @@ from folium.plugins import MarkerCluster
 
 With each individual `import` statement, I will be utilizing a Python package, which is a directory with Python files that also contains an `__init__ .py` file, which sets a package apart from a directory that is meant to hold several Python scripts. Each package served a different purpose in the development of the interactive map:
 
-- ***pandas**: When working with "relational or "labeled data, the pandas Python library offers quick, adaptable, and expressive data structures that are simple to use. I utilized the Python package `pandas` to read into CSV files, which are the datasets I was able to download. Also, with `pandas`, I was able handle any missing data, these can be represented as Nan, NA, or NaT, that was present throughout any of the downloaded datasets. [@pypi]
+- ***pandas**: When working with "relational or "labeled data, the pandas Python library offers quick, adaptable, and expressive data structures that are simple to use. I utilized the Python package `pandas` to read into CSV files, which are the datasets I was able to download. Also, with `pandas`, I was able handle any missing data, these can be represented as Nan, NA, or NaT, that was present throughout any of the downloaded datasets. [@pypi2008]
 
 - ***dataset/validate**: The python package `dataset` makes database data reading and writing as easy as reading and writing JSON files. The dataset module is compatible with the major database SQLite, that I utilized to create tables for the multiple CSV files. Also, from the dataset module, I imported the `validate` library to validate the specific dataset I wanted to read into did not contain any NaN values.
 
-- ***branca**: Folium has a spin-off called `branca`. It has the ability to produce `HTML` and `JavaScript`. Its foundation is Jinja2. I was able to utilize this package to produce `HTML` code on the interactive map. For instance, I was able to produce a title at the top of the page displaying the name of the interactive map **CriticalJustice**. I also utilized the `branca` package and `HTML` to create a legend at the bottom left-hand corner of the map. 
+- ***branca**: Folium has a spin-off called `branca`. It has the ability to produce `HTML` and `JavaScript`. Its foundation is Jinja2. I was able to utilize this package to produce `HTML` code on the interactive map. For instance, I was able to produce a title at the top of the page displaying the name of the interactive map **CriticalJustice**. I also utilized the `branca` package and `HTML` to create a legend at the bottom left-hand corner of the map.
 
-- ***geopandas**: The Python package `geopandas` enables a user to work with geospatial data with Python. It is an extension of the package `pandas` to enable geometric types to do spatial operations.  `Geopandas` combines the power of `pandas` with another Python package `shapely` by giving `shapely` a high-level interface to several geometries and `pandas` geographic operations. I was able to utilize `geopandas` to read a shapefile and convert it to a GeoJson, so I couple properly create a `choropleth` map visualizations.
+- ***geopandas**: The Python package `geopandas` enables a user to work with geospatial data with Python. It is an extension of the package `pandas` to enable geometric types to do spatial operations.  `Geopandas` combines the power of `pandas` with another Python package `shapely` by giving `shapely` a high-level interface to several geometries and `pandas` geographic operations. I was able to utilize `geopandas` to read a shapefile and convert it to a GeoJson, so I couple properly create a `choropleth` map visualizations. [@geopandas]
 
-- ***folium**: The Python package `folium` allows user to view Python-manipulated data on an interactive leaflet map. With the `folium` package, I created a Leaflet map by combine the data manipulation capabilities of the Python ecosystem and the mapping capabilities of the leaflet.js library. I was also able to utilize `folium` plugins and features that helped to enhance the interactive map even more.
+- ***folium**: The Python package `folium` allows user to view Python-manipulated data on an interactive leaflet map. With the `folium` package, I created a Leaflet map by combine the data manipulation capabilities of the Python ecosystem and the mapping capabilities of the leaflet.js library. I was also able to utilize `folium` plugins and features that helped to enhance the interactive map even more. [@folium]
 
     - ***Choropleth**: In connection to a numerical variable, a `choropleth` map shows split geographic areas or regions that are colored. I added this feature to the interactive map to visualize the Black population rate in Pittsburgh, PA.
 
@@ -314,7 +314,8 @@ With each individual `import` statement, I will be utilizing a Python package, w
 This code syntax represents the creation of the Folium map and assigning it as `pitt_map`. This also creates a default Folium with no features added until the user prompts it with additional code.
 
 ```python
-folium.GeoJson('https://raw.githubusercontent.com/datasets/geo-admin1-us/master/data/admin1-us.geojson').add_to(pitt_map)
+folium.GeoJson
+('https://raw.githubusercontent.com/datasets/geo-admin1-us/master/data/admin1-us.geojson').add_to(pitt_map)
 
 counties_gdf = gpd.read_file(r"C:\Users\favou\Documents\COMP\CriticalJustice\src\Neighborhood_SNAP.shp")
 
@@ -363,10 +364,14 @@ for i, r in fire_data.iterrows():
     folium.Marker(location1, 
                 tooltip1=tooltip1, 
                 popup=r["type_description"], 
-                icon=folium.Icon(color="red", icon="fire", prefix='fa')).add_to(marker_cluster_1), 
+                icon=folium.Icon
+                (color="red", icon="fire", prefix='fa'))
+                .add_to(marker_cluster_1), 
 ```
 
 These two `for` loops demonstrate how data points from the `Shots.csv` file and `FireIncident.csv` are plotted. Both employ `Latitude` and `Longitude` coordinates to depict the locations of the two distinct occurrences. I was able to add creative icons to the data points and incorporate a `tooltip` that identifies the incident type thanks to several `folium` capabilities. To prevent the performance of the interactive map from being slowed down and to maintain the aesthetic appeal, these points will likewise be enclosed in a `MarkerCluster`.
+
+To conclude, the implementation shown in this chapter represent that process I went through to create the technical aspect of the project **CriticalJustice**.
 
 # Experiments
 
@@ -660,12 +665,23 @@ By developing a visual of the data collected, I was also able to visualize the c
 
 Data on the demographics of each Pittsburgh municipality and neighborhood may be found in the `Neighborhood.csv` file. There is additional information available on income and other aspects of that region's economic health. For instance, there is information concerning the family poverty rate and also the median gross rent and the median home value in a community. This dataset was really useful in the development of the thesis since the statistics allowed me to conclude that some of these factors may be related to the causes of both crime and community disinvestment.
 
+![Neighborhood Table](images/conclude1.png)
+
+This figure utilizes Sqlite3 to display all the variables that are included in the `Neighborhood.csv` file.
+
 In the `FireIncident.csv` file, the information in the dataset is based on the fire incidents that occur in the city of Pittsburgh. This information ranges from the type of fire incident based on fire codes, ex. 111 implicates a building fire has occurred, the exact address of the incident, the neighborhood of the incident, and the exact longitude and latitude coordinates of the incident. I was able to tie this dataset to the part of my thesis that dealt with infrastructure development. In places with a higher degree of need from the previous dataset, I found a frequency of 111 fire codes after running queries over the datasets. As a result, I was better equipped to analyze the assertion that areas with high levels of need suffer from a lack of community investment and excessive police.
+
+![FireIncident Table](images/conclude2.png)
+
+All the variables from the "FireIncident.csv" file are shown in this picture using Sqlite3.
 
 In the `Shots.csv` file, this dataset contained information the exact date, time, and longitude and latitude coordinates of a specific gunshot fire utilizing the ShotSpotter gunfire detection technology. The incident type, this can range from multiple gunshots to a single gunshot or probable gunfire is also included in the dataset. This dataset allowed me to visualize show how severe gun violence is in certain communities in Pittsburgh. After visualizing this data utilizing the interactive map, there was noticeably more gun activity in the eastern region of Pittsburgh. This region contains communities like Wilkinsburg, Garfield, Homewood North and South, all communities with high levels of need and high Black population. After collecting this information, there was now an added element of gun violence to the thesis claim of there is a lack of community investment in Black communities.
 
-After gathering these datasets, I used SQLite to run queries on the data and draw linkages that would be useful for my arguments. Within the queries, I was noticing a notable difference between the community data of predominantly Black and white communities.
-For instance, I ran queries to highlight certain characteristics of two Pittsburgh neighborhoods—one with a high Black population and the other with a high white population. The communities will be Homewood (North and South) and Upper St. Clair Township.
+![Shots Table](images/conclude3.png)
+
+The "Shots.csv" file's variables are all represented in this image utilizing Sqlite3.
+
+After gathering these datasets, I used SQLite to run queries on the data and draw linkages that would be useful for my arguments. Within the queries, I was noticing a notable difference between the community data of predominantly Black and white communities. For instance, I ran queries to highlight certain characteristics of two Pittsburgh neighborhoods—one with a high Black population and the other with a high white population. The communities will be Homewood (North and South) and Upper St. Clair Township.
 
 ![Homewood Query](images/wood.png)
 
@@ -673,33 +689,57 @@ For instance, I ran queries to highlight certain characteristics of two Pittsbur
 
 There is a result from the query that was used for the particular community that was selected in the condition in both of these photos. The variables that were considered for the query were the white and Black population rates, the average dispatches for shots fired per five hundred, the median home value in the neighborhood, and the level of need of that current neighborhood. Aspects of community development and excessive policing are made up of these several components. These two communities have clear differences when it pertains to how often there are police dispatches and how high their degree of need is. When it comes to having modern infrastructure and frequent appearances by the police, it appears that largely Black areas struggle more than white communities.  
 
+In conclusion, the information gathered from the three comma-separated values files coincided with one another to produce the primary argument. The data from the aforementioned files was then used to create a visual component that supported this parameter.
+
 ## Future Work
 
-Regarding the aesthetics of the interactive map and the constraints of the study undertaken, there are still a number of improvements that need to be made to the project **CriticalJustice**. The initiative does, in my opinion, a good job of illustrating the role that crime prevention plays in the growth of a community. However, there are other aspects that could have been implementated to make the argument even stronger. For instance, one of the biggest barriers to success that a specific person encounters is their level of schooling. Because there isn't as much investment in the local educational system in some regions, there are less opportunities for residents to pursue higher education. 
+Regarding the aesthetics of the interactive map and the constraints of the study undertaken, there are still a number of improvements that need to be made to the project **CriticalJustice**.
 
-### Map Criteria 
+### Argument Improvements
 
-After analyzing the **CriticalJustice** interactive map, there was criteria that the map did not pass for it be considered a well-constructed map. More specifically, it was criteria that was focal to the map's identity.
+The initiative does, in my opinion, a good job of illustrating the role that crime prevention plays in the growth of a community. However, there are other aspects that could have been implementated to make the argument even stronger. The components that might potentially lead to crime include many others in addition to the determinants of crime I discussed in my thesis. For instance, one of the biggest barriers to success that a specific person encounters is their level of schooling. Because there isn't as much investment in the local educational system in some regions, there are less opportunities for residents to pursue higher education.
 
-- following map criteria more specifically
-- other cities to demonstrate tactic
-- still have more work to do (be open)
+The city of Pittsburgh served as the primary focus of this study in order to examine the claim that crime prevention affects neighborhood development. Because I have spent more than half my life in Pittsburgh and have personally witnessed neighborhood disinvestment, it was a major factor in my decision. Nevertheless, now that I am aware that I can support this claim with data from only one city, I'm curious to see how it would hold up when applied to other American cities. For instance, I believe that Philadelphia would be an excellent topic to use to support my claim. Pittsburgh and Philadelphia have certain commonalities, yet they diverge when it comes to overzealous enforcement. In comparison to Pittsburgh, Philadelphia has a higher police presence due to the degree of gun violence that exists there. Moreover, community development enforcement initiatives are also being fought for in Philadelphia. For example, The Phildelphia Housing Development Corporation is a full-service community development agency serving Philadelphia's communities and residents. Through housing alternatives, repurposed abandoned land, and community resources, the program assists the citizens of Philadelphia. [@philadelphia_2023]
 
+Furthermore, I think the methodology of the adopted approach may be utilized in a number of other well-known US cities. While my belief that my argument is understandable to individuals without prior knowledge of the subject of community development, I do think that more work can be done to further expand the case. Without making the case more difficult, I think there is a way to add more factors that influence criminality to it.
+
+### Map Improvements  
+
+After analyzing the **CriticalJustice** interactive map, there was criteria that the map did not pass for it be considered a well-constructed map. More specifically, it was criteria that was focal to the map's identity. For example, there was no indication of map credits on the interactive map. Map credits would include basic details of the map and the creator of map such as the cartographer's name and the date and time the map was created. Even though the interactive map met the requirements for good graphics design, I would like to improve the map's aesthetic appeal. In order to create a high-quality map, I would start by researching maps that meet all the requirements. I could then apply it to the interactive map for **CriticalJustice** since I would have a clear understanding of what a vibrant and informative map looks like.
+
+Even though I was able to design and display a visually appealing and detailed map, I think much more work has to be done before the map can be deemed excellent. This would include me adding more features that enhance the map's visual attractiveness. Some of these options could include redesigning certain map components. For instance, the title and map legend could both need some updating to make them appear more attractive. These features do not appear to fit on the map since they were developed using only basic HTML; instead, they appear more general and very much created in. In addition, I want to make sure that users can correctly interpret the interactive map based on the data points and shading that correlate to the indicator of the amount of need a community requires on the map.
+
+To conclude, I think the **CriticalJustice** interactive map's finished output is effective given the requirements for maps that it meets. I believe the interactive map effectively illustrated the idea I was attempting to convey to those that visit this map, even though there may be more improvements to be made in the future.
 
 ## Future Ethical Implications and Recommendations
 
-Especially as pertains to the public release or use of your software or methods, what
-unresolved or special issues remain? What recommendations might you make?
+While developing a project that concentrates on social justice concerns, there are a number of ethical implications to take into account. This applies particularly to initiatives that use data to support the thesis they are seeking to prove.
 
-- interpretation of race and class
+## Interpretation of Race and Class
+
+In my primary argument, I discuss how certain communities suffer from community dis-investment and excessive policing. Additionally, I added the element of race and emphasized how predominantly Black communities  suffer from this more than predominatly white communities. Despite the fact that this idea can be supported by statistics, making an argument of this nature is nonetheless risky.
+
+As there are no accepted scientific definitions of race or ethnicity, these factors are challenging to quantify. Many wonder if significant comparison research can be conducted without a common scientific definition when there is so much room for categorization error. Several scientists have chosen to disregard race and ethnicity as valid scientific factors, seeing them instead as social constructs. With that in mind, it may be less justified to introduce a racial component to a discussion.
+
+This also holds true when introducing a class component into an argument, although the ramifications are different from those of racial inclusion. The class component could add multiple layers to an argument. For instance, the idea of infrastructure development can be enhanced with the component of class being included. Those who reside in low-income housing experience deteriorated housing conditions and receive no government assistance to enhance their quality of life.
+
+In conclusion, attempting to apply a race- and class-interpretation framework may have some ethical repercussions for the **CriticalJustice** initiative in the future. The easiest method to deal with this possible issue is to keep the issue of race in my research while providing strong evidence to support my assertions. My claim that mostly Black neighborhoods experience community disinvestment and overpolicing more than their white counterparts does, for the time being, have reliable statistics to support it. To properly persuade people that race is a factor in a circumstance like this, an argument like this would require further supporting data.
+
+## Metholodgy Concerns
+
+I said earlier in this chapter that I hoped to maybe apply the same methodology to other American cities as part of the work I would be doing for the **CriticalJustice** project in the future. The question of whether the same methodology will work the same way in other places has ethical ramifications, though.
+
+For instance, compared to Pittsburgh, the outcomes of the research may differ for the city of Chicago. Chicago and Pittsburgh
+
 - talk about how Chicago and Pittsburgh may not work with the same metholodgy I utilized
- 
-
 
 ## Conclusions
 
-- what i did and derived from that
+I am really appreciative of the chance I was given to develop a senior thesis project that showcases one of the topics I am passionate about. I was able to construct an interactive map that analyzes the effect of crime prevention on community development as part of the project **CriticalJustice**.
 
+This research was initially intended to focus mostly on the concept of criminal incidents and how they vary from state to state in the United States of America. Additionally, I wanted to add the element that though Nevertheless, I became aware of how wide that study is and how challenging it would be to develop a tale using the information on crime incidents across the US. That's why I made the decision to look for a city that would serve as my main focus. After some thought, I made the decision to focus my study on the city of Pittsburgh.
+
+With that, I made the decision to alter the subject of my defense and concentrate more on the elements of crime prevention and community investment. Hence, the emphasis shifts from considering crime as a concept and criminal incidents as a phenomenon to figuring out the causes of these certain incidents. I believe shifting to this topic helped motivate me to ensure that I was able to prove the argument of predominantly Black communities suffering 
 
 # References
 
