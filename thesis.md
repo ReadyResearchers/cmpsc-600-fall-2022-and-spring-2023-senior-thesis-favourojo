@@ -24,9 +24,9 @@ Initiatives like these create hope for individuals living in low-income Black co
 
 On top of the lack of resources that could be a catalyst for  neighborhood development, the aspect of "Hot Spot" policing could potentially damage the community it targets because of the overly aggressive and indiscriminating police. There are certain unfavorable outcomes, including increasing hostility against and fear of the police and, more significantly, a failure to adequately address the roots of crime.
 
-A method of lowering crime is called "Hot Spot" policing. In this method, resources and activities in hot spots are targeted. "Hot spots" are defined as places where crime and chaos are persistently high. Usually, these hot spots tend to have a high population of Black residents. The plan with "hot spot" policing is predicted on the nation that in communities, crime and disorder are often concentrated in a few small areas rather than being distributed uniformly and crime issues can be resolved more effectively by focusing resources on areas with a persistently high crime rate. [@collegeofpolicing]
+A method of lowering crime is called "Hot Spot" policing. In this method, resources and activities in hot spots are targeted. "Hot spots" are defined as places where crime and chaos are persistently high. Usually, these hot spots tend to have a high population of Black residents. The plan with "hot spot" policing is predicted on the nation that in communities, crime and disorder are often concentrated in a few small areas rather than being distributed uniformly and crime issues can be resolved more effectively by focusing resources on areas with a persistently high crime rate. [@collegeofpolicing2022]
 
-A mechanism that has been used for "Hot Spot" policing has been the gunshot detection system ShotSpotter. ShotSpotter consistently detects and precisely locates gunshots using a set of acoustic sensors that are wirelessly linked to a centralized, cloud-based application. According to the ShotSpotter data collected, the equipment had a 97% accuracy rate and a 0.5 false positive rate.
+A mechanism that has been used for "Hot Spot" policing has been the gunshot detection system ShotSpotter. ShotSpotter consistently detects and precisely locates gunshots using a set of acoustic sensors that are wirelessly linked to a centralized, cloud-based application. According to the ShotSpotter data collected, the equipment had a 97% accuracy rate and a 0.5 false positive rate. [@shotspotter2023]
 
 Even with the reported positive results, several individuals still question the gunshot detection company and its technology. For instance, the city of Chicago's Inspector General issued a critical report on the ShotSpotter gunshot detection company which indicated there are deep problems with ShotSpotter and its technology and how it impacts communities of color and their relationship with law enforcement. Inside the critical report, it questions the technology's "operational value" and discovered that it makes police officers use stop and frisk procedures more frequently in specific neighborhoods. The Northwestern School of Law's MacArthur Justice Center also made a similar critical report and legal filing that addresses how Shot Spotter is "deployed overwhelmingly in communities of color, which already disproportionately bear the brunt of a heavy police presence". There are various issues with the police's claim that they choose neighborhoods for deployment depending on where shootings occur. For example, the MacArthur Justice Center highlights that because sensors are placed in some neighborhoods but not others, the police will be able to identify more incidents—real or fake—in those areas. This could skew data on gunfire and produce a statistical basis for excessive policing in neighborhoods of color. [@stanley2021]
 
@@ -36,7 +36,7 @@ Pittsburgh has unfortunately seen several infrastructure fails in the past coupl
 
 Fortunately, Carnegie Mellon University conducted a Metro21 research project that assesses fire risk prediction models to decide which property fire inspections to prioritize. Their motivation for this research project address the issue with the approach towards fire inspections and how they could be significantly advanced in the city of Pittsburgh. The argument made here is that the use of risk-based data-driven systems for the identification, selection, and prioritization of new properties to check could greatly improve current approaches to fire inspection. [@carneige]
 
-In order to develop their model, researchers make use of information from past fire incidents from 2009 to 2017, data on property assessments and valuations from Allegheny County, and information on non-fire inspections and violations (such as noise and sanitation) from the Department of Permits, Licenses, and Inspections of the City of Pittsburgh. They combine this data at the address level, and by "training" the model on the first 7.5 years worth of historical fire incidence data and assessing the model on a test set that was not used for training, researchers are able to estimate the chance of a fire for a particular address over a 6-month span.
+In order to develop their model, researchers make use of information from past fire incidents from 2009 to 2017, data on property assessments and valuations from Allegheny County, and information on non-fire inspections and violations (such as noise and sanitation) from the Department of Permits, Licenses, and Inspections of the City of Pittsburgh. They combine this data at the address level, and by "training" the model on the first 7.5 years worth of historical fire incidence data and assessing the model on a test set that was not used for training, researchers are able to estimate the chance of a fire for a particular address over a 6-month span. [@carneige]
 
 As this model can anticipate property fires that take place in various communities, it may prove valuable for the city of Pittsburgh. Whether an alarm or smoke detector was activated at the address in question before the fire incident was one significant predictive characteristic that our model was able to identify. This enables the researchers to determine whether fire incidents were a regular occurrence in this specific location. Measures of the lot area, assessed value, and sale price at the address were additional significant predictive variables. The age of the building might be inferred from these data, which may indicate that there hasn't been much infrastructural development.
 
@@ -51,9 +51,9 @@ The most high-risk property kinds are shown in the aforementioned graphic. Accor
 
 Pittsburgh's recent city operating budget has created an uproar among their citizens due to the large amount of money allocated to the Pittsburgh Police Department. Andrew Bankson and Brian Gonnella in their article titled, "Pittsburgh's city budget works for the police but not for the people", discuss the specifics of the budget and display which  organizations suffered when it pertains to funding. Pittsburgh's city operating budget for 2021 increased spending more than $30 million from the previous year. That totals a staggering $608 million, including a 5.45 percent rise in the budget for police personnel, which rose to over $68 million. [@banksongonnella2021]
 
-Because of this diversion of money, public-sector workers must bear the burden and government positions must "stay unfilled". This creates even more fracture to communities because for EMS personnel, firefighters, laborers, truck drivers, and several other city employees who have put their lives in danger to keep the city operating during the crises our community has experienced, the budget asks for a general cut in pay. These cuts to city employees severely affects almost all city employees, with the exception of the pay and benefits of the uninformed police officers who intimidate the Black population of the city. The city budget is still managing to slash salaries for the Office of Public Works staff by am astounding 23.64 percent, while also reducing the number of truck drivers from 44 to 38 and laborers from 118 to 106. This is in a city known for its deteriorating infrastructure, potholes, and lead-tainted pipes.
+Because of this diversion of money, public-sector workers must bear the burden and government positions must "stay unfilled". This creates even more fracture to communities because for EMS personnel, firefighters, laborers, truck drivers, and several other city employees who have put their lives in danger to keep the city operating during the crises our community has experienced, the budget asks for a general cut in pay. These cuts to city employees severely affects almost all city employees, with the exception of the pay and benefits of the uninformed police officers who intimidate the Black population of the city. The city budget is still managing to slash salaries for the Office of Public Works staff by am astounding 23.64 percent, while also reducing the number of truck drivers from 44 to 38 and laborers from 118 to 106. [@banksongonnella2021] This is in a city known for its deteriorating infrastructure, potholes, and lead-tainted pipes.
 
-Unfortunately, these are the not the only programs who have seen cuts when it pertains to staffing and funding. Environmental Services is seeing a 23.64 percent reduction in funding as well as personnel layoffs. With a 27.17 percent reduction in staff, the Bureau of Facilities will have to lay off electricians, plumbers, bricklayers, and ironworkers. The Department of Mobility and Infrastructure, which manages one of Pittsburgh's biggest issue, is down 20.42 percent, and the Department of Parks and Recreation is down 18.58 percent. Even the Citizen Police Review Board, whose power was recently approved by 78 percent of voters through referenda, suffered a 2.25 percent decrease in personnel wages and compensation.
+Unfortunately, these are the not the only programs who have seen cuts when it pertains to staffing and funding. Environmental Services is seeing a 23.64 percent reduction in funding as well as personnel layoffs. With a 27.17 percent reduction in staff, the Bureau of Facilities will have to lay off electricians, plumbers, bricklayers, and ironworkers. The Department of Mobility and Infrastructure, which manages one of Pittsburgh's biggest issue, is down 20.42 percent, and the Department of Parks and Recreation is down 18.58 percent. [@banksongonnella2021] Even the Citizen Police Review Board, whose power was recently approved by 78 percent of voters through referenda, suffered a 2.25 percent decrease in personnel wages and compensation.
 
 ## Community Violence in Pittsburgh
 
@@ -61,7 +61,9 @@ There are many factors that has been speculated that lead to violence. Research 
 
 For an individual to understand why community violence occurs so frequently, one must recognize the many elements that contribute to community violence. The Allegheny County Department of Human Services is especially interested in community violence because of how it disproportionately impacts families in communities and vulnerable population groups. In a report prepared by Erin Dalton, Michael Yonas, Latoya Warren, and Emily Sturman titled, "Violence in Allegheny County and Pittsburgh", the authors attempt to produce a profile of community violence in Allegheny County to more fully comprehend how DHS clients and consumers feel about violence. [@acanalyticswebdev] 
 
-In addition to intergroup violence, Pittsburgh has had a number of incidents of gun violence in its urban neighborhoods. Even though they frequently make the news, killings and drive-by shootings are much less common than aggravated assaults with weapons. In Pittsburgh, shootings (defined as aggravated assaults with a firearm that cause injury) are six times as prevalent as killings, while aggravated assaults with firearms are ten times more frequent than homicides. According to the report, "Pittsburgh's murder rate (4.8 per 100,000 in 2005) is lower than the national average and that of many benchmark cities like Detroit, St. Louis, Baltimore, and Richmond. However, examination of violence trends among different demographic groups shows that, in particular, Pittsburgh's young black men are at acute risk of homicide victimization; the homicide rate for this group was 284.2 per 100,00-60 times the city-wide average and more than 50 times the national average". This information exposes the demographic that actively is affected by gun violence in Pittsburgh which is the Black male community. This violence was strongly concentrated in particular Pittsburgh areas as well as in nearby but outlying communities including Penn Hills, Wilkinsburgh, West Mifflin, and Mckeesport. The report indicated that African Americans and those living in poverty are more prevalent than usual in almost all communities with high homicide rates.
+In addition to intergroup violence, Pittsburgh has had a number of incidents of gun violence in its urban neighborhoods. Even though they frequently make the news, killings and drive-by shootings are much less common than aggravated assaults with weapons. In Pittsburgh, shootings (defined as aggravated assaults with a firearm that cause injury) are six times as prevalent as killings, while aggravated assaults with firearms are ten times more frequent than homicides. According to the report, "Pittsburgh's murder rate (4.8 per 100,000 in 2005) is lower than the national average and that of many benchmark cities like Detroit, St. Louis, Baltimore, and Richmond. [@acanalyticswebdev]
+
+However, examination of violence trends among different demographic groups shows that, in particular, Pittsburgh's young black men are at acute risk of homicide victimization; the homicide rate for this group was 284.2 per 100,00-60 times the city-wide average and more than 50 times the national average". This information exposes the demographic that actively is affected by gun violence in Pittsburgh which is the Black male community. This violence was strongly concentrated in particular Pittsburgh areas as well as in nearby but outlying communities including Penn Hills, Wilkinsburgh, West Mifflin, and Mckeesport. The report indicated that African Americans and those living in poverty are more prevalent than usual in almost all communities with high homicide rates.
 
 Though there is evidence that gun violence has become assimilated into predominantly Black communities, there still exists a lack of action towards addressing the gun violence issue and lessening the homicide rate.
 
@@ -83,7 +85,7 @@ In her book, Jacobs discusses how planning for a city or a community may not alw
 
 ## Motivation
 
-The current metro area population in 2022 stands as 1,699,000. Statistically, the racial composition of Pittsburgh in the year of 2022 is 66.37% White, 24% Black or African American, 5.83% Asian, and 0.3% Latino. [@macrotrends]
+The current metro area population in 2022 stands as 1,699,000. Statistically, the racial composition of Pittsburgh in the year of 2022 is 66.37% White, 24% Black or African American, 5.83% Asian, and 0.3% Latino. [@macrotrends2010]
 
 
 ![Racial Composition of Pittsburgh](images/race.png)
@@ -92,8 +94,7 @@ The current metro area population in 2022 stands as 1,699,000. Statistically, th
 The graph illustrates the different races in Pittsburgh per the percentage in total population. The figure shows that the majority of the population in Pittsburgh identify as white compared to the other races present.
 
 
-Within the semi-diverse community of Pittsburgh, there was a clear displacement between the neighborhoods, whether one
-was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities, the Black population percentage stands as 9.8%.
+Within the semi-diverse community of Pittsburgh, there was a clear socioeconomic difference between the neighborhoods, whether one was speaking about the suburban communities or the urban communities. In both the suburban and urban communities in Pittsburgh, PA, the percentage of white people is more than 82%. Inside these primarily white communities, the Black population percentage stands as 9.8%.
 
 ![Trend in Pittsburgh's Metropolitan Population](images/population.png)
 
@@ -101,22 +102,23 @@ was speaking about the suburban communities or the urban communities. In both th
 The figure above illustrates a line plot of the city of Pittsburgh's historical population from the 1950s to the 2000s, while depicting a second plot of the annual change in Pittsburgh's population. This figure also shows the United Nation's projections of what the metro population of Pittsburgh will be in 2030. One can see how there is gradual increase around the 1950s, and then a clear decrease occurs around the 1990s. After these evident changes, the population of Pittsburgh around the 2000s stays stagnant.
 
 
-As someone who grew up in a predominantly Black and brown community in the suburbs of Pittsburgh, I have witnessed how individuals in my neighborhood suffered compared to the individuals who lived in the predominantly white neighborhoods near me who did not face the same issues. In actuality, issues within displacement represent the negative aspect of enduring poverty and segregation/exclusion. According to the Pittsburgh Neighborhood Project, due to deliberate actions taken at the federal, state, and municipal levels that deprived poor Black and Brown neighborhoods of investment, along with the consequences of white flight, out-migration, and de-industrialization, our poorest communities are as destitute as they are.
+As someone who grew up in a predominantly Black and brown community in the suburbs of Pittsburgh, I have witnessed how individuals in my neighborhood suffered compared to the individuals who lived in the predominantly white neighborhoods near me who did not face the same issues. In actuality, issues within displacement represent the negative aspect of enduring poverty and segregation/exclusion. According to the Pittsburgh Neighborhood Project, due to deliberate actions taken at the federal, state, and municipal levels that deprived poor Black and Brown neighborhoods of investment, along with the consequences of white flight, out-migration, and de-industrialization, our poorest communities are as destitute as they are. [@cotter2019]
 
 ![Economic disparties between Black and white communities](images/poverty.png)
 
 The figure here shows the percentage of poor white and black residents living in high or extreme poverty neighborhoods in Pittsburgh according to the 2017 American Community survey estimates. Evidently, there is a higher percentage of Black resident living in high or extreme poverty.
 
+To sum up, because my neighborhood serves as an illustration of how largely Black neighborhoods suffer from  underinvestment, particularly in infrastructure, I am enthusiastic about bringing attention to other communities that experience this problem.
 
 ## Current State of the Art
 
-In the city of Pittsburgh, within the Office of Management and Budget, there is a Community Development Division that manages and keeps track of the City of Pittsburgh's federal grants. These federal grant programs include the Community Development Block Grant, Emergency Solution Grant, HOME Investment Partnerships Program, and Housing Opportunities for Persons with AIDS (HOPWA).
+In the city of Pittsburgh, within the Office of Management and Budget, there is a Community Development Division that manages and keeps track of the City of Pittsburgh's federal grants. These federal grant programs include the Community Development Block Grant, Emergency Solution Grant, HOME Investment Partnerships Program, and Housing Opportunities for Persons with AIDS (HOPWA). [@cityofpittsburgh]
 
 The City of Pittsburgh government page concerning the Community Development of the city recounts each of these federal grant programs and its purpose.
 
-For example, The Urban Redevelopment is in charge of overseeing HOME, a program that encourages the creation of affordable homes. The Jewish Healthcare FOundation oversees HOPWA, which focuses on providing accommodation for people with HIV/AIDS. Any information must be reported to the Community Development Division by the groups in charge of both of these programs. In addition to this, The City of Pittsburgh utilizes the Community Development Block Grant for a variety of improvement initiatives, such as road maintenance. Nonprofit organizations may also apply to the City for Community Development Block Grant and Emergency Solution Grant funds, which they will utilize to support those with low to moderate incomes, those who are homeless, or areas in need of economic development.
+For example, The Urban Redevelopment is in charge of overseeing HOME, a program that encourages the creation of affordable homes. The Jewish Healthcare FOundation oversees HOPWA, which focuses on providing accommodation for people with HIV/AIDS. Any information must be reported to the Community Development Division by the groups in charge of both of these programs. In addition to this, The City of Pittsburgh utilizes the Community Development Block Grant for a variety of improvement initiatives, such as road maintenance. Nonprofit organizations may also apply to the City for Community Development Block Grant and Emergency Solution Grant funds, which they will utilize to support those with low to moderate incomes, those who are homeless, or areas in need of economic development. [@cityofpittsburgh]
 
-Similar to this, New York City established its Community Investment in 2002, and it continues to this day to be dedicated to meeting the critical community needs of the boroughs of Staten Island, Manhattan, The Bronx, Queens, and Brooklyn.
+Similar to this, New York City established its Community Investment in 2002. The HIT's NYC programs were launched in 2002 to assist the city in addressing its pressing demand for affordable housing in the wake of September 11th. It continues to this day to be dedicated to meeting the critical community needs of the boroughs of Staten Island, Manhattan, The Bronx, Queens, and Brooklyn. It intends to make $1 billion in investments between 2016 and 2023. [@afl]
 
 ## Goals of the Project
 
@@ -132,9 +134,11 @@ The CriticalJustice project is also attempting to demonstrate that, when it come
 
 Regarding data science, there are pre-cautions individuals should take when completing projects take require data collection. The ability to access enormous amounts of data has profound effects on society. The human population has the potential to solve more problems and do more than ever before due to technology breakthroughs. However, it is crucial to keep in mind that law, ethics, and the concepts of privacy, trust, and security are all intertwined.
 
-Data collection, in general, mandates several ethical considerations to be taken. For example, acquiring permission to use or share data, receiving clear and informed consent, and securely keeping data. Since this project relies heavily on data, there is a concern about information accuracy. To mitigate this harm, I have been carefully processing through the data sets I have acquired to ensure the data collected was not tampered with / has incorrect data.
+Data collection, in general, mandates several ethical considerations to be taken. For example, acquiring permission to use or share data, receiving clear and informed consent, and securely keeping data. Since this project relies heavily on data, there is a concern about information accuracy. To mitigate this harm, I have been carefully processing through the data sets I have acquired to ensure the data collected was not tampered with has incorrect data.
 
 It is crucial to have defined procedures for data sharing in addition to having clear processes in place for data collection. However, also it is also essential to check the researcher's bias when collecting data from research, for example, scholarly articles.
+
+Regarding how the evidence connects to the argument, there can be ethical ramifications in the context of the **CriticalJustice** project. There may be a number of situations when a town with a high percentage of white residents simultaneously has a high demand. In this situation, steps should be taken to comprehend this number and how to deal with it so that the Black communities continue to receive attention.
 
 # Related work
 
@@ -148,15 +152,15 @@ In this section, I will offer critiques of the articles that discuss the value o
 
 Critical cartography can be defined as a set of mapping techniques and analytical approaches based on critical theory, particularly the concept that maps reflect and uphold power relations, often favoring the dominant groups in society. With the help of critical cartography, people have been able to demonstrate a variety of ideologies using data and different mapping techniques. Counter-mapping which can be defined as map-making as a method of protest against established power structures also relates to the ideology of critical cartography.
 
-Critical cartography may involve the creation and transformation of knowledge. The process of mapping involves sharing knowledge and building new knowledge by combining various points of view, connecting various personal maps, or developing group maps through rotation, negotiation, or consensus. [@theoccupiedtimes]
+Critical cartography may involve the creation and transformation of knowledge. The process of mapping involves sharing knowledge and building new knowledge by combining various points of view, connecting various personal maps, or developing group maps through rotation, negotiation, or consensus. [@firth2015]
 
 ## Mapping Inequality: Redlining in New Deal America
 
-At the University of Richmond, Virginia Tech, University of Maryland, and Johns Hopkins University, three teams were able to collaborate to create ***Mapping Inequality***. In order to help the public better understand the effects of federal housing policy and local implementation in their own communities, ***Mapping Inequality*** brings a study of Home Owners' Loan Corporation into the digital sphere. This big data approach can simultaneously give a national view of the program to a neighborhood level-assessment of the 1930s real estate rescue. In this project, HOLC staff members assigned to residential neighborhood that reflected their "mortgage security", which would then be visualized on color-coded maps. The grades were based on data and evaluation compiled by local real estate professional-lenders, developers, and real estate appraisers-in each city. [@digitalscholarshiplab]
+At the University of Richmond, Virginia Tech, University of Maryland, and Johns Hopkins University, three teams were able to collaborate to create ***Mapping Inequality***. In order to help the public better understand the effects of federal housing policy and local implementation in their own communities, ***Mapping Inequality*** brings a study of Home Owners' Loan Corporation into the digital sphere. This big data approach can simultaneously give a national view of the program to a neighborhood level-assessment of the 1930s real estate rescue. In this project, HOLC staff members assigned to residential neighborhood that reflected their "mortgage security", which would then be visualized on color-coded maps. The grades were based on data and evaluation compiled by local real estate professional-lenders, developers, and real estate appraisers-in each city. [@digitalscholarshiplab2016]
 
 When banks and other mortgage lenders were assessing who should receive loans and which locations in the city were safe investments, they considered neighborhoods obtaining the highest rating of "A"-colored green on the maps-to be minimum risks. Red-colored communities with the lowest grade of "D" were labeled as "dangerous".
 
-This project utilizes shapefiles and GeoJSON to develop complex visualizations of large geographically related data, similar to CriticalJustice. Geospatial visualization emphasize the actual linkage of the data elements. In order to provide insight, these visualizations concentrate on the connection between the physical location of the data. Geospatial visualization can depict the history of humanity. [@tableau]
+This project utilizes shapefiles and GeoJSON to develop complex visualizations of large geographically related data, similar to CriticalJustice. Geospatial visualization emphasize the actual linkage of the data elements. In order to provide insight, these visualizations concentrate on the connection between the physical location of the data. Geospatial visualization can depict the history of humanity. [@tableau2003]
 
 ![Mapping Inequality](images/mapping.png)
 
@@ -174,7 +178,7 @@ This graphic displays ***Native Land Digital***'s interactive map. Compared to C
 
 ## Pittsburgh Neighborhood Project
 
-The 90 communities in the city of Pittsburgh are examined street by street in the Pittsburgh Neighborhood Project. The truth of enduring racial and economic segregation is reveled by this project as each neighborhood's beauty and individuality are also investigated. The mission of this project is to inform Pittsburgh residents about the origins, effects, and ongoing racial and economic segregation in Pittsburgh's neighborhood. The project also hopes to draw attention to the areas and the people who live there who desperately need long-term, equitable, all-encompassing investment.  
+The 90 communities in the city of Pittsburgh are examined street by street in the Pittsburgh Neighborhood Project. The truth of enduring racial and economic segregation is reveled by this project as each neighborhood's beauty and individuality are also investigated. The mission of this project is to inform Pittsburgh residents about the origins, effects, and ongoing racial and economic segregation in Pittsburgh's neighborhood. The project also hopes to draw attention to the areas and the people who live there who desperately need long-term, equitable, all-encompassing investment. [@cotter2019]
 
 Similar to the project CriticalJustice, the Pittsburgh Neighborhood Project focus on indicators of why a specific community requires a higher level of need than other communities. In contrast, the Pittsburgh Neighborhood Project focuses on how poverty affects the citizens of the community, compared to how CriticalJustice will focus on how lack of infrastructure and policing procedures affect a community. Similarly, both of the projects focus on the idea that everyone, regardless of their color or social standing, deserves to live in areas that are secure and free from violence.
 
@@ -184,7 +188,9 @@ The figure here shows the map visualization of the Pittsburgh neighborhood Proje
 
 ## Infrastructure and Policing Research  
 
-In the project CriticalJustice, the aim is to visualize how factors such as lack of infrastructure and over-policing disproportionately affect the neighborhood development. Within several aspects of infrastructure, Black communities continually face some type of disadvantage. For instance, in Jesus M. Barajas' article, "Biking where Black: Connecting transportation planning and infrastructure to disproportionate policing", he examines whether excessive policing is related to transit limitations while using the example of cycling in Chicago. He would then report his findings, "Tickets were issued 8 times more often per capita in majority Black tracts and 3 times more often in majority Latino tracts compared to majority white tracts. More tickets were issued on major streets, but up to 85% fewer were issued when those streets had bike facilities, which was less prevalent in Black and Latino neighborhoods." [@BARAJAS2021103027]. From these statistics, one can conclude that the impacts of racially biased policing are exacerbated in the context of transportation safety tactics by infrastructure imbalances.
+In the project CriticalJustice, the aim is to visualize how factors such as lack of infrastructure and over-policing disproportionately affect the neighborhood development. Within several aspects of infrastructure, Black communities continually face some type of disadvantage.
+
+For instance, in Jesus M. Barajas' article, "Biking where Black: Connecting transportation planning and infrastructure to disproportionate policing", he examines whether excessive policing is related to transit limitations while using the example of cycling in Chicago. He would then report his findings, "Tickets were issued 8 times more often per capita in majority Black tracts and 3 times more often in majority Latino tracts compared to majority white tracts. More tickets were issued on major streets, but up to 85% fewer were issued when those streets had bike facilities, which was less prevalent in Black and Latino neighborhoods." [@BARAJAS2021103027]. From these statistics, one can conclude that the impacts of racially biased policing are exacerbated in the context of transportation safety tactics by infrastructure imbalances.
 
 Barajas' brings a different aspect when it pertains to infrastructure that individuals usually do not think about. Inside this article, a connecting thread exists between the harm caused by racially biased police and the compounding injustices of poor bike infrastructure and disproportionately high levels of policing in Chicago's Black neighborhoods.
 
@@ -192,26 +198,32 @@ According to the article's findings, Black, Latino, and low-income neighborhoods
 
 Vision Zero has similar technology to ShotSpotter when it relates to predictive policing, which is the practice of using computational models to predict where crime will occur before it happens.
 
-Since there is a present racial bias in policing, validated through documentation, infrastructure alone cannot eliminate racial prejudice in law enforcement, and discrepancies are likely to persist even after taking infrastructure into consideration. There is evidence of discrepancies at the neighborhood level in addition to racially biased enforcement at the person level. The patterns of traffic stops frequently reveal a policing approach that aims to impose order on "disorganized" communities. According to the article, researchers discovered that in an unnamed city in the Southwest of the United States, more traffic citations were issued in areas with lower residential stability, higher poverty rates, and higher proportions of Black and Latino residents, regardless of the race, gender, or resident status of the drivers. This re-occurring discrimination start to effect Black and brown communities more mentally and emotionally, rather than physically.
+Since there is a present racial bias in policing, validated through documentation, infrastructure alone cannot eliminate racial prejudice in law enforcement, and discrepancies are likely to persist even after taking infrastructure into consideration. There is evidence of discrepancies at the neighborhood level in addition to racially biased enforcement at the person level. The patterns of traffic stops frequently reveal a policing approach that aims to impose order on "disorganized" communities. According to the article, researchers discovered that in an unnamed city in the Southwest of the United States, more traffic citations were issued in areas with lower residential stability, higher poverty rates, and higher proportions of Black and Latino residents, regardless of the race, gender, or resident status of the drivers. This re-occurring discrimination start to effect Black and brown communities more mentally and emotionally, rather than physically. [@BARAJAS2021103027]
 
 Throughout history, several scholars have suggested that a zero-tolerance policing policy degraded quality of life and constrained the mobility of people of color while being linked to a decrease in violent crime. Though you can see the advantage of a strict policing strategy, the mental and emotional health of people of color consequently decreases because of the prevalent racial bias police will always have. It raises the question of the effectiveness of
-strict policing when it pertains to the happiness of the community's population of people of color.
+strict policing when it pertains to the happiness of the community's population of people of color. 
 
 ## Neighborhood Investment and Crime
 
-With the aim of enhancing community conditions, service access, and ultimately the wellbeing of people, there is growing interest in rejuvenating urban neighborhoods that have historically experienced disinvestment. However, place-based affordable housing is frequently opposed by locals who claim that it will increase crime and drive down poverty values. In the article, "Do investments in low-income neighborhoods produce objective change in health-related neighborhood conditions", the authors have noticed that there is a necessity to evaluate to what extent may the revival of troubled, low-income urban-districts be triggered by strategic allocation or processes associated to development implementation. In other words, there is not enough evidence to declare that community investment really affect characteristics that may have a direct impact on inhabitants' capacity to live comfortably, such as crime incidence reports and walkability that has been objectively analyzed. [@BROOKSHOLLIDAY2020102361]
+With the aim of enhancing community conditions, service access, and ultimately the wellbeing of people, there is growing interest in rejuvenating urban neighborhoods that have historically experienced disinvestment.
+
+However, place-based affordable housing is frequently opposed by locals who claim that it will increase crime and drive down poverty values. In the article, "Do investments in low-income neighborhoods produce objective change in health-related neighborhood conditions", the authors have noticed that there is a necessity to evaluate to what extent may the revival of troubled, low-income urban-districts be triggered by strategic allocation or processes associated to development implementation. In other words, there is not enough evidence to declare that community investment really affect characteristics that may have a direct impact on inhabitants' capacity to live comfortably, such as crime incidence reports and walkability that has been objectively analyzed. [@BROOKSHOLLIDAY2020102361]
 
 In addition to this article's findings, the article, "Residential crimes and neighbourhood build environment: Assessng the effectiveness of crime prevention through environmental design (CPTED)", evaluates the relationship between residential crime and the built environment that adheres to the crime prevention through environmental design principles at the neighborhood level. In this article, the author, Dong-Wook Sohn, highlights the claim that criminologists make about how demographic and socioeconomic conditions are highly linked to crime in urban neighborhoods. However, when it comes to the perspective of environmental psychology, crime is thought to be a behavior that is influenced by the physical aspects of the environment. [@SOHN201686]
 
+These two articles discuss how location and crime interact to shape perceptions of the local population. In Sohn's article, he focuses on how the four principles of territoriality, natural surveillance, activity support, and access control have traditionally been seen as fundamental concepts for changing the built environment to prevent crime. Each principle address approaches towards modifying neighborhoods that could potentially reduce crime and preserve the quality of the residents. 
+
 ## Crime and Private Investment in Urban Neighborhoods
 
-Though the task of how to best enhance neighborhoods burden policy-makers, practitioners, and academia, there still remains to be little to no change made towards the issue. Correspondingly, the most effective ways to achieve community development are still the subject of a heated dispute. In the article, "Crime and private investment in urban neighborhoods", Johanna Lacoe analyzes a study that was conducted to examine how, throughout the 2000s, while crime was dropping in both Chicago and Los Angeles cities on a city-wide level, private investment in areas varied as the incidence of neighborhood crime changed. The questions of whether criminal policy may influence the development of neighborhoods and the residents who live there is the focus of this essay.
+Though the task of how to best enhance neighborhoods burden policy-makers, practitioners, and academia, there still remains to be little to no change made towards the issue. Correspondingly, the most effective ways to achieve community development are still the subject of a heated dispute. In the article, "Crime and private investment in urban neighborhoods", Johanna Lacoe analyzes a study that was conducted to examine how, throughout the 2000s, while crime was dropping in both Chicago and Los Angeles cities on a city-wide level, private investment in areas varied as the incidence of neighborhood crime changed. The questions of whether criminal policy may influence the development of neighborhoods and the residents who live there is the focus of this essay. [@LACOE2018154]
 
 ![Chicago, Los Angeles, New York Homicide Rate](images/murder.png)
 
 For background, this figure above showcases the homicide rate diverged from three major cities, New York, Los Angeles, and Chicago from the years 1889 to 2021. All three cities starting to see an increase in their own homicide rates in the early 1990s, but both New York and Chicago began to see a rise as early as 1890. The homicide rate starting to be become noticeable in the city of Los Angeles in the year 1920. However, the city of Chicago had a much higher increase than the other two cities. That soon to become a trend all three cities had a noticeable increase in the homicide rate, Chicago's homicide rate would surpass the more populated cities. In fact, when there was massive decrease in the homicide rate from the years 2010 to 2020, the city of Chicago's homicide rated increased 10 times its counterparts.
 
-There has been research conducted already that evidently shows that a neighborhood's and its residents' quality of life is negatively impacted by high and rising crime rates. However, this does not immediately mean that the relationship between crime and neighborhoods is proportionate. More specifically, the research on crime and neighborhoods raises the questions of whether or not crime and communities have a symmetrical dynamic connection. In other words, if more crime has bad consequences, does less crime have good consequences that produce observable change? If so, it would imply that measures aimed at lowering crime might be useful and even significant instruments for economic development. After conducting research on how private investment in the cities of Chicago and Los Angeles has changed as the incidence (and rate) of crime in those neighborhoods changed, Johanna Lacoe was able to come to the conclusion that private investment, as shown by procurement of construction permits, increase on the same blocks where crime decreased the year before.
+There has been research conducted already that evidently shows that a neighborhood's and its residents' quality of life is negatively impacted by high and rising crime rates. However, this does not immediately mean that the relationship between crime and neighborhoods is proportionate.
+
+More specifically, the research on crime and neighborhoods raises the questions of whether or not crime and communities have a symmetrical dynamic connection. In other words, if more crime has bad consequences, does less crime have good consequences that produce observable change? If so, it would imply that measures aimed at lowering crime might be useful and even significant instruments for economic development. After conducting research on how private investment in the cities of Chicago and Los Angeles has changed as the incidence (and rate) of crime in those neighborhoods changed, Johanna Lacoe was able to come to the conclusion that private investment, as shown by procurement of construction permits, increase on the same blocks where crime decreased the year before. [@LACOE2018154]
 
 
 # Method of approach
@@ -227,9 +239,9 @@ Since critical cartography focuses on reflecting and maintaining power relations
 Once the idea for my thesis was definite, the next step was to collect data that related to the argument that I am attempting to portray. After much research, I was able to download several datasets whose information correlated with my research idea. I was able to download all of the datasets as CSV files. For instance, I was able to download a dataset that I named `Neighborhood.csv`. This dataset was downloaded  from the Allegheny County Analytics webpage. In this dataset, there is details about every neighborhood in Pittsburgh, Pennsylvania.  These details range from the total population and also different demographics population, but I am mostly  concerned with the Black population of each community, to the average dispatches for shots fired per five hundred which
 connects with the idea of over-policing in communities.
 
-I also was able to download a dataset from the Western Pennsylvania Regional Data Center. This data was called the Allegheny County 911 Dispatches - EMS and Fire. According to the website, this dataset contains dispatched EMS and Fire events from a computer aided dispatch system and also includes information about the nature of the emergency. [@catalog2023] I chose this dataset because I wanted to research if there was bias concerning how police were dispatched in different Pittsburgh neighborhoods. Also, this dataset also contains information about fire instances in different neighborhoods. These range from simple cooking fires to building fires. By highlighting the disproportionate number of building fires that occur in predominately Black neighborhoods, I think these statistics will demonstrate how important infrastructure investment is for some communities. 
+I also was able to download a dataset from the Western Pennsylvania Regional Data Center. This data was called the Allegheny County 911 Dispatches - EMS and Fire. According to the website, this dataset contains dispatched EMS and Fire events from a computer aided dispatch system and also includes information about the nature of the emergency. [@catalog2023] I chose the dataset `FireIncident.csv` because I wanted to research if there was bias concerning how police were dispatched in different Pittsburgh neighborhoods. Also, this dataset also contains information about fire instances in different neighborhoods. These range from simple cooking fires to building fires. By highlighting the disproportionate number of building fires that occur in predominately Black neighborhoods, I think these statistics will demonstrate how important infrastructure investment is for some communities.
 
-In relation to the subject of gun violence, I was able to download a dataset that contains information from ShotSpotter data in Pittsburgh, Pennsylvania. Each instance in this dataset contains the longitude and latitude coordinates, allowing users to determine the precise place where the shot was fired. Additionally, it specifies the incident type of the specific shot fired; these incident types include single gunshot, multiple gunshots, and probable fire, which denotes a very high probability that a shot was fired.
+In relation to the subject of gun violence, I was able to download the dataset `Shots.csv` that contains information from ShotSpotter data in Pittsburgh, Pennsylvania. Each instance in this dataset contains the longitude and latitude coordinates, allowing users to determine the precise place where the shot was fired. Additionally, it specifies the incident type of the specific shot fired; these incident types include single gunshot, multiple gunshots, and probable fire, which denotes a very high probability that a shot was fired. This dataset will enable to create more about the argument of excessive policing in predominately Black neighborhoods.
 
 ## SQL Analysis
 
@@ -239,7 +251,25 @@ With the programming language SQLite, I was able to divide each of the downloade
 
 For instance, if I wanted to see community data about the municipality of Wilkinsburg, the query would look like this:
 
-![Wilkinsburg Query](images/query.png)
+```SQL
+SELECT Municipality, Black_Pop_Rate, Average_Dispatches_for_Shots_Fired
+_per_Five_Hundred, 
+Level_of_Need 
+FROM Neighborhood 
+WHERE Municipality == 'Wilkinsburg';
+```
+
+Table: Wilkinsburg Query
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Wilkinsburg|48.45735027|4.355716878|Moderate Need
+Wilkinsburg|67.20741599|16.91772885|Extreme Need
+Wilkinsburg|72.71959459|12.9222973|Extreme Need
+Wilkinsburg|73.41389728|12.48741188|Extreme Need
+Wilkinsburg|83.71407517|8.843036109|High Need
+Wilkinsburg|71.8008376|5.956258725|Moderate Need
+Wilkinsburg|62.22532264|8.440878968|Moderate Need
 
 This approach to data analysis helped me both in formulating the claim I was attempting to support and in connecting the dots among the data that was included in the three datasets mentioned.
 
@@ -313,24 +343,7 @@ With each individual `import` statement, I will be utilizing a Python package, w
 
 This code syntax represents the creation of the Folium map and assigning it as `pitt_map`. This also creates a default Folium with no features added until the user prompts it with additional code.
 
-```python
-folium.GeoJson
-('https://raw.githubusercontent.com/datasets/geo-admin1-us/master/data/admin1-us.geojson').add_to(pitt_map)
-
-counties_gdf = gpd.read_file(r"C:\Users\favou\Documents\COMP\CriticalJustice\src\Neighborhood_SNAP.shp")
-
-base_df = pd.read_csv(r'C:\Users\favou\Documents\COMP\CriticalJustice\data\Shots.csv')
-
-neighbor = pd.read_csv(r"C:\Users\favou\Documents\COMP\CriticalJustice\data\Neighborhood.csv")
-neighbor = neighbor[["Pittsburgh_Neighborhood", "Level_of_Need_Scale"]]
-
-fire_data = pd.read_csv(r'C:\Users\favou\Documents\COMP\CriticalJustice\data\FireIncident.csv')
-
-fire_data = fire_data.dropna(subset=['latitude', 'longitude'])
-
-```
-
-For this code segment, I use the  `folium.GeoJson` plugin to change the downloaded shapefile into a `GeoJson` file . I made this choice to make the in-lines stand out sufficiently to demonstrate how Pittsburgh's communities are divided.
+For the next code segment, I use the  `folium.GeoJson` plugin to change the downloaded shape-file into a `GeoJson` file . I made this choice to make the in-lines stand out sufficiently to demonstrate how Pittsburgh's communities are divided.
 
 Each of the downloaded datasets may be read into by using the `pandas` and `geopandas` tools. The shapefile that is now in `GeoJSON` format may be used for the initial shape of teh interactive map of Pittsburgh, Pennsylvania, thanks to the `geopandas` package and `read_file` function. The `Shots.csv`, `FireIncident.csv` and `Neighborhood.csv` files were similarly given alternative values using the `pandas` package and `read_csv` function so that the data within could be used for modification.
 
@@ -371,7 +384,7 @@ for i, r in fire_data.iterrows():
 
 These two `for` loops demonstrate how data points from the `Shots.csv` file and `FireIncident.csv` are plotted. Both employ `Latitude` and `Longitude` coordinates to depict the locations of the two distinct occurrences. I was able to add creative icons to the data points and incorporate a `tooltip` that identifies the incident type thanks to several `folium` capabilities. To prevent the performance of the interactive map from being slowed down and to maintain the aesthetic appeal, these points will likewise be enclosed in a `MarkerCluster`.
 
-To conclude, the implementation shown in this chapter represent that process I went through to create the technical aspect of the project **CriticalJustice**.
+To conclude, the implementation shown in this chapter represent that process I went through to create the technical aspect of the project **CriticalJustice**, which was the visual component of an interactive map.
 
 # Experiments
 
@@ -422,9 +435,7 @@ Making meaningful distinctions between traits and depicting similarities, contra
 
 The layout of the map and other website components contributes to balance. An impression of stability and harmony is created by a well-balanced map page. The two main components of balance are visual weight and visual direction. With the help of the element of balance, the elements of the map will be positioned in a certain way, taking into account their respective size, form, and subject matter.
 
-
-These five design tenets work well together to significantly influence your map. Map readers will be attracted ot deterred depending on how you employ them. You can ensure that your maps are ones that people will want to look at by carefully considering how to build them utilizing these concepts. 
-
+These five design tenets work well together to significantly influence your map. Map readers will be attracted ot deterred depending on how you employ them. You can ensure that your maps are ones that people will want to look at by carefully considering how to build them utilizing these concepts.
 
 ## Experimental Design
 
@@ -443,7 +454,7 @@ Table: Map Validation Scoreboard
 |Visual Hierarchy |        |
 |Purpose |                 |
 
-A scoreboard for conducting adequate validation tests on each of the maps involved in this procedure is shown in the table above. By utilizing this tactic, I will effect be able to grade each map based on the map criteria shown to determine if the specific map represents a good map. 
+A scoreboard for conducting adequate validation tests on each of the maps involved in this procedure is shown in the table above. By utilizing this tactic, I will effect be able to grade each map based on the map criteria shown to determine if the specific map represents a good map.
 
 ## Evaluation
 
@@ -482,7 +493,7 @@ In a course called, ***Computer Cartography***, at Western Washington University
 
 This figure shows the interactive map that I created for the **CriticalJustice** project. This map depicts the neighborhoods of Pittsburgh, Pennsylvania utilized a CSV file that included information about each Pittsburgh community. 
 
-The first question I would ask to evaluate this map would be is there a title that describes the purpose of the map. From this figure, there is not a title at the top-middle of the interactive map that states **CriticalJustice** in clear and readable font for the users to see. So, utilizing HTML, I was able to add a title to the top of the interactive map. 
+The first question I would ask to evaluate this map would be is there a title that describes the purpose of the map. From this figure, there is not a title at the top-middle of the interactive map that states **CriticalJustice** in clear and readable font for the users to see. So, utilizing HTML, I was able to add a title to the top of the interactive map.
 
 ![CriticalJustice With Title](images/critical2.png)
 
@@ -500,13 +511,13 @@ Fifth, if the interactive map makes use of any symbols or colors, including shad
 
 Sixth, there should be map credits displayed on the interactive that shows the source of the data, name of the cartographer, the data of the map creation / publication and the data of the map data. There is no information on the **CriticalJustice** map that suggests any of the mentioned criteria.
 
-Seventh, an inset Locator map would be necessary if the map;s region is difficult to distinguish or has a vast scale. An inset **Detail** map of Pittsburgh is included on the interactive map **CriticalJustice** and displays the city in incredible depth on the same page of the map of the United States. 
+Seventh, an inset Locator map would be necessary if the map;s region is difficult to distinguish or has a vast scale. An inset **Detail** map of Pittsburgh is included on the interactive map **CriticalJustice** and displays the city in incredible depth on the same page of the map of the United States.
 
 Eighth, an effective graphical design refers to the planning and decision-making processes that go into the visual representation of geographic data. Achieving balance within the map is one method to make the design work. More specifically, a map with an effective graphical design will be produced if the map and all of its components are tidy, obvious, and symmetrically balanced. In **CriticalJustice**, each of the map elements such as the legend, the scale indicator, the layer control, and the map itself, are separated evenly on the page so there is balance. The only cluster visible would be with the data points, and that is because of the large amount of data that was collected for the interactive map.
 
 Next, the typography, line weights, and shading should follow a hierarchy of symbolism. Generally, more significant characteristics are larger and or darker, while less significant or background information should be smaller and/or lighter. The interactive map **CriticalJustice** follows a hierarchy of symbolism for the shading of the Pittsburgh community. The shading represents the level of need adn the darker the shading, the more need a neighborhood requires.
 
-Finally, all maps have a purpose, which affects every component and layout of the map. Like it was mentioned before,**CriticalJustice**'s purpose is to seek to shed light on how a neighborhood's and it residents' quality of life is impacted by a lack of infrastructure investment. This issue needs to be addressed because it is still a problem in most places today in the United States. 
+Finally, all maps have a purpose, which affects every component and layout of the map. Like it was mentioned before,**CriticalJustice**'s purpose is to seek to shed light on how a neighborhood's and it residents' quality of life is impacted by a lack of infrastructure investment. This issue needs to be addressed because it is still a problem in most places today in the United States.
 
 ### Evaluation of ***Mapping Inequality*** Map
 
@@ -518,7 +529,7 @@ Second, there should be a scale indicator that showcases a link between a unit o
 
 Third, the next question that needs to be asked concerning cartography should be if there is a way to indicate orientation on an interactive map. In the project **Mapping Inequality**, there is not a a compass rose or arrow pointing north visible on the interactive map.
 
-Fourth, a map should be able to distinctively outline the borders of the specific location that is being map. Since **Mapping Inequality** focuses on the United States as a whole, there is not prominent borders and outlines around specific areas. So, there is not visible borders present. 
+Fourth, a map should be able to distinctively outline the borders of the specific location that is being map. Since **Mapping Inequality** focuses on the United States as a whole, there is not prominent borders and outlines around specific areas. So, there is not visible borders present.
 
 Fifth, a legend is useful for individual to be able to indicate what the symbols and coloring mean according to the interactive map. The legend, which doubles as a scale indication, may be found in the lower left corner of the interactive map **Mapping Inequality**.
 
@@ -550,7 +561,7 @@ Fourth, a person will be able to clearly identify the regions that are the major
 
 Fifth, with a legend, the user has a better understanding of the coloring and symbology in the interactive map. Currently on the **Native Land** interactive map, there is not an evident legend located in this specific map. However, there is a search bar that represents the legend. This allows the user to search a specific territory, language, and treaty. The coloration in the mapping corresponds to this feature.
 
-Sixth, the source of the data, the identity of the cartographer, the information about the production and publishing of the map, and the information about the map data should all be presented on the interactive map. Specifically on the map, the interactive map **Native Land** does not have any indication of map credits present. 
+Sixth, the source of the data, the identity of the cartographer, the information about the production and publishing of the map, and the information about the map data should all be presented on the interactive map. Specifically on the map, the interactive map **Native Land** does not have any indication of map credits present.
 
 Seventh, an inset Locator map is necessary if the map's territory is large or challenging to identify. The **Native Land** interactive map depicts Indigenous culture and history in every region in the world. Despite the fact that the data is concentrated in a single area, an inset Locator map that identifies a specific location is not readily apparent.
 
@@ -562,7 +573,7 @@ Finally, a map must have a goal in mind if it is to be considered effective. Ded
 
 ### Validation Results
 
-The requirements that each interactive map meets are reported in this section using the validation scoreboard that was developed using the criteria for the maps that were investigated. 
+The requirements that each interactive map meets are reported in this section using the validation scoreboard that was developed using the criteria for the maps that were investigated.
 
 ### **CriticalJustice**
 
@@ -600,7 +611,7 @@ Table: Updated **CriticalJustice** Map Validation Scoreboard
 |Visual Hierarchy |    YES    |
 |Purpose |        YES         |
 
-From this scoreboard, individuals can see the interactive map **CriticalJustice** passes ***nine out of the 10*** parts of the map requirements. This map does not have any map credits displayed to indicate the source of the data, the name of the cartographer, the data of the map creation / publishing, and the data of the map data. 
+From this scoreboard, individuals can see the interactive map **CriticalJustice** passes ***nine out of the 10*** parts of the map requirements. This map does not have any map credits displayed to indicate the source of the data, the name of the cartographer, the data of the map creation / publishing, and the data of the map data.
 
 ### **Mapping Inequality**
 
@@ -649,8 +660,6 @@ While this may pose a threat to the project's ability to carry out its intended 
 
 Another major threat validity could be the very likely possibility that the **CriticalJustice** project does not determine the underlying cause of community under-investment. Because that is the major goal of the entire project, this could continue to be a problem.
 
-- not sure if i have determined underlying cause of community underinvestment 
-
 # Conclusion
 
 ## Summary of Results
@@ -683,9 +692,41 @@ The "Shots.csv" file's variables are all represented in this image utilizing Sql
 
 After gathering these datasets, I used SQLite to run queries on the data and draw linkages that would be useful for my arguments. Within the queries, I was noticing a notable difference between the community data of predominantly Black and white communities. For instance, I ran queries to highlight certain characteristics of two Pittsburgh neighborhoods—one with a high Black population and the other with a high white population. The communities will be Homewood (North and South) and Upper St. Clair Township.
 
-![Homewood Query](images/wood.png)
+```SQL
+SELECT Pittsburgh_Neighborhood, White_Pop_Rate, 
+Black_Pop_Rate, Average_Dispatches_for_Shots_
+Fired_per_Five_Hundred, Home_Median_value, 
+Level_of_Need, FROM Neighborhood WHERE
+Pittsburgh_Neighborhood = "Homewood"
+```
 
-![Upper St. Clair Township Query](images/upper.png)
+Table: Homewood Query
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Homewood South|2.52173913|94.08695652|30.60869565|66800|Extreme Need
+Homewood South|5.989847716|80.81218274|39.08629442|56600|Extreme Need
+Homewood North|0.98400984|93.11193112|25.95325953|38500|Extreme Need
+Homewood North|4.825737265|92.2922252|18.56568365|46700|Extreme Need
+
+
+```SQL
+SELECT Municipality, White_Pop_Rate, 
+Black_Pop_Rate, Average_Dispatches_for_Shots_
+Fired_per_Five_Hundred, Home_Median_value, 
+Level_of_Need, FROM Neighborhood WHERE
+Municipality = "Upper St. Clair Twp"
+```
+
+Table: Upper St. Clair Query
+
+|   |   |   |   |   |
+|---|---|---|---|---|
+|Upper St. Clair Twp|83.83644347|0.960482986|0|256600|Very low Need
+Upper St. Clair Twp|91.56753899|0.237906423|0|298800|Very low Need
+Upper St. Clair Twp|89.62571196|0|0|290900|Very low Need
+Upper St. Clair Twp|90.90909091|0.158102767|0|332100|Very low Need
+Upper St. Clair Twp|86.12007747|0.043038519|0|263900|Very low Need
 
 There is a result from the query that was used for the particular community that was selected in the condition in both of these photos. The variables that were considered for the query were the white and Black population rates, the average dispatches for shots fired per five hundred, the median home value in the neighborhood, and the level of need of that current neighborhood. Aspects of community development and excessive policing are made up of these several components. These two communities have clear differences when it pertains to how often there are police dispatches and how high their degree of need is. When it comes to having modern infrastructure and frequent appearances by the police, it appears that largely Black areas struggle more than white communities.  
 
@@ -698,6 +739,8 @@ Regarding the aesthetics of the interactive map and the constraints of the study
 ### Argument Improvements
 
 The initiative does, in my opinion, a good job of illustrating the role that crime prevention plays in the growth of a community. However, there are other aspects that could have been implementated to make the argument even stronger. The components that might potentially lead to crime include many others in addition to the determinants of crime I discussed in my thesis. For instance, one of the biggest barriers to success that a specific person encounters is their level of schooling. Because there isn't as much investment in the local educational system in some regions, there are less opportunities for residents to pursue higher education.
+
+Additionally, to add new components to the argument, I would need to research for more data to back up my arguments. Thankfully, in prepartion for the quantity of data I would need to make an argument, I downloaded various datasets that connected to the notions of crime, policing, and infrastructure. For example, I specifically downloaded a dataset that listed all the traffic stops made in Pittsburgh, Pennsylvania. 
 
 The city of Pittsburgh served as the primary focus of this study in order to examine the claim that crime prevention affects neighborhood development. Because I have spent more than half my life in Pittsburgh and have personally witnessed neighborhood disinvestment, it was a major factor in my decision. Nevertheless, now that I am aware that I can support this claim with data from only one city, I'm curious to see how it would hold up when applied to other American cities. For instance, I believe that Philadelphia would be an excellent topic to use to support my claim. Pittsburgh and Philadelphia have certain commonalities, yet they diverge when it comes to overzealous enforcement. In comparison to Pittsburgh, Philadelphia has a higher police presence due to the degree of gun violence that exists there. Moreover, community development enforcement initiatives are also being fought for in Philadelphia. For example, The Phildelphia Housing Development Corporation is a full-service community development agency serving Philadelphia's communities and residents. Through housing alternatives, repurposed abandoned land, and community resources, the program assists the citizens of Philadelphia. [@philadelphia_2023]
 
@@ -715,23 +758,23 @@ To conclude, I think the **CriticalJustice** interactive map's finished output i
 
 While developing a project that concentrates on social justice concerns, there are a number of ethical implications to take into account. This applies particularly to initiatives that use data to support the thesis they are seeking to prove.
 
-## Interpretation of Race and Class
+## Intersectionality of Race and Class
 
-In my primary argument, I discuss how certain communities suffer from community dis-investment and excessive policing. Additionally, I added the element of race and emphasized how predominantly Black communities  suffer from this more than predominatly white communities. Despite the fact that this idea can be supported by statistics, making an argument of this nature is nonetheless risky.
+In my primary argument, I discuss how certain communities suffer from community dis-investment and excessive policing. Additionally, I added the element of race and emphasized how predominantly Black communities suffer from this more than predominatly white communities. Despite the fact that this idea can be supported by statistics, making an argument of this nature is nonetheless risky.
 
-As there are no accepted scientific definitions of race or ethnicity, these factors are challenging to quantify. Many wonder if significant comparison research can be conducted without a common scientific definition when there is so much room for categorization error. Several scientists have chosen to disregard race and ethnicity as valid scientific factors, seeing them instead as social constructs. With that in mind, it may be less justified to introduce a racial component to a discussion.
+There are evidence from the **CriticalJustice** interactive map that there are incidents where a community has a high or extreme level of need also has high a Black population. This occurs severly in parts of East Pittsburgh. However, a possible ethical implications could be a situation where predominatly white communities suffer from lack of resources and have a high level of need. Though there are more indications of Black communities having a higher level of need according to the interactive, that data point of white communities may skew some conclusions made for individuals. However, it is important for me to continue to emphasize the argument I making concerning how Black residents' quality of life is detoriating concerning the lack of infrastructure and over-policing occuring in their neighborhoods.
 
-This also holds true when introducing a class component into an argument, although the ramifications are different from those of racial inclusion. The class component could add multiple layers to an argument. For instance, the idea of infrastructure development can be enhanced with the component of class being included. Those who reside in low-income housing experience deteriorated housing conditions and receive no government assistance to enhance their quality of life.
+In conclusion, attempting to apply a race- and class-intersectionality framework may have some ethical repercussions for the **CriticalJustice** initiative in the future. The easiest method to deal with this possible issue is to prioritizing the issue of race in my research while providing strong evidence to support my assertions. My claim that mostly Black neighborhoods experience community disinvestment and overpolicing more than their white counterparts does, for the time being, have reliable statistics to support it. To properly persuade people that race is a factor in a circumstance like this, an argument like this would require further supporting data.
 
-In conclusion, attempting to apply a race- and class-interpretation framework may have some ethical repercussions for the **CriticalJustice** initiative in the future. The easiest method to deal with this possible issue is to keep the issue of race in my research while providing strong evidence to support my assertions. My claim that mostly Black neighborhoods experience community disinvestment and overpolicing more than their white counterparts does, for the time being, have reliable statistics to support it. To properly persuade people that race is a factor in a circumstance like this, an argument like this would require further supporting data.
+## Methodology Concerns
 
-## Metholodgy Concerns
+I stated earlier in this chapter that I hoped to maybe apply the same methodology to other American cities as part of the work I would be doing for the **CriticalJustice** project in the future. The question of whether the same methodology will work the same way in other places has ethical ramifications, though.
 
-I said earlier in this chapter that I hoped to maybe apply the same methodology to other American cities as part of the work I would be doing for the **CriticalJustice** project in the future. The question of whether the same methodology will work the same way in other places has ethical ramifications, though.
+The research's findings, for Phoenix, for instance, can be different from those for Pittsburgh. Communities with a high Black population density may be found in Pittsburgh and Phoenix. Nevertheless there are neighbourhoods in Phoenix that are primarily Black and also have a high Hispanic population rate. It is feasible for the Black and Hispanic populations in these mixed neighborhoods to experience underinvestment in their neighborhoods as well as overzealous police. When faced with a circumstance like this, the approach used by the **CriticalJustice** project as a whole would find it impossible to attempt to make the same assertion that it had previously made.
 
-For instance, compared to Pittsburgh, the outcomes of the research may differ for the city of Chicago. Chicago and Pittsburgh
+Moreover, there may be cases where a neighborhood has a high Black population rate, yet these areas are not seen as suffering but rather highly affulent. In these situations, the presumption that mostly Black neighborhoods suffer from underinvestment in the community would not hold true when talking about a Black community that is affluent and prosperous. This can create an unfair assumption about a Black population who have been fortunate to not have to face these struggles because of their riches.
 
-- talk about how Chicago and Pittsburgh may not work with the same metholodgy I utilized
+In conclusion, there could be ways in which the metholodogy of the **CriticalJustice** project that could not stand as true. Both of these examples are valid to disprove the claim that predominantly Black communities suffer from community underinvesment. Even while these incidences do happen, it does not diminish the fact that a large number of predominantly Black neighborhoods continue to suffer from the negative effects of excessive policing on their ability to grow.
 
 ## Conclusions
 
@@ -739,7 +782,9 @@ I am really appreciative of the chance I was given to develop a senior thesis pr
 
 This research was initially intended to focus mostly on the concept of criminal incidents and how they vary from state to state in the United States of America. Additionally, I wanted to add the element that though Nevertheless, I became aware of how wide that study is and how challenging it would be to develop a tale using the information on crime incidents across the US. That's why I made the decision to look for a city that would serve as my main focus. After some thought, I made the decision to focus my study on the city of Pittsburgh.
 
-With that, I made the decision to alter the subject of my defense and concentrate more on the elements of crime prevention and community investment. Hence, the emphasis shifts from considering crime as a concept and criminal incidents as a phenomenon to figuring out the causes of these certain incidents. I believe shifting to this topic helped motivate me to ensure that I was able to prove the argument of predominantly Black communities suffering 
+With that, I made the decision to alter the subject of my defense and concentrate more on the elements of crime prevention and community investment. Hence, the emphasis shifts from considering crime as a concept and criminal incidents as a phenomenon to figuring out the causes of these certain incidents. I believe shifting to this topic helped motivate me to ensure that I was able to prove the argument of predominantly Black communities suffering.
+
+Furthermore, I am expecting that **CriticalJustice** will be able to clearly illustrate the difficulties that a number of mostly Black neighborhoods encounter in relation to excessive police and neighborhood development. I'm hoping that this research will be able to shed some light on the detrimental effects of crime prevention in various areas because there are still many communities that deal with concerns of this nature.
 
 # References
 
