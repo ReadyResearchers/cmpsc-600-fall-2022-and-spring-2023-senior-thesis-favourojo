@@ -126,9 +126,9 @@ Within this project, data has been collected that relate to the determinants of 
 
 Though there is a main goal of the project, there is also an argument that this project is trying to prove. The argument is from the evidence of the data collected, there is implicit bias when police are being dispatched. There has been  This argument requires a large amount of evidence that specifically shows the effect of implicit police dispatch bias existing in a community and how that affect the resident's lives.
 
-For instance, CriticalJustice utilizes the research conducted on the gunshot detection system ShotSpotter to add more to the argument that it is trying to prove. ShotSpotter is a type of technology that has caused residents in areas where it is widely used feel as though their privacy has been violated, despite claims of how accurate it has been at forecasting where the likely fire is located. Benjamin Goodman in his article, "ShotSpotter - The New Tool to Degrade What Is Left of the Fourth Amendment", explains how he feels the new technology infringes on the Fourth Amendment in the United States Constitution that, "protects people from unreasonable searches and seizures by the government".
+For instance, **CriticalJustice** utilizes the research conducted on the gunshot detection system ShotSpotter to add more to the argument that it is trying to prove. ShotSpotter is a type of technology that has caused residents in areas where it is widely used feel as though their privacy has been violated, despite claims of how accurate it has been at forecasting where the likely fire is located. Benjamin Goodman in his article, "ShotSpotter - The New Tool to Degrade What Is Left of the Fourth Amendment", explains how he feels the new technology infringes on the Fourth Amendment in the United States Constitution that, "protects people from unreasonable searches and seizures by the government".
 
-The CriticalJustice project is also attempting to demonstrate that, when it comes to elements like the proportion of families living below the poverty lines and the frequency of 911 dispatches for gunshots, neighborhood with the highest police presence are also the ones with the greatest need. A neighborhood's level of need can also be determined by the frequency of fire incidents there. The statistics on fire incidences can show how infrastructure development varies from community to community.
+The **CriticalJustice** project is also attempting to demonstrate that, when it comes to elements like the proportion of families living below the poverty lines and the frequency of 911 dispatches for gunshots, neighborhood with the highest police presence are also the ones with the greatest need. A neighborhood's level of need can also be determined by the frequency of fire incidents there. The statistics on fire incidences can show how infrastructure development varies from community to community.
 
 ## Ethical Implications
 
@@ -146,7 +146,7 @@ When it comes to neighborhood development, more funding for struggling areas is 
 
 Also, there are several examples of some sort of police surveillance that impacted the infrastructure of a certain community that exists in not just the Pittsburgh region, but other cities that are more populated than Pittsburgh. However, these cities share similar demographics to the city of Pittsburgh and face the same issues when it pertains to community investment.
 
-In this section, I will offer critiques of the articles that discuss the value of community investment and the effects of excessive police presence in various neighborhoods. In order to illustrate the many functionalities used and how they are similar to CriticalJustice, I will also be looking at critical cartography initiatives which address inequality  and marginalized communities.
+In this section, I will offer critiques of the articles that discuss the value of community investment and the effects of excessive police presence in various neighborhoods. In order to illustrate the many functionalities used and how they are similar to **CriticalJustice**, I will also be looking at critical cartography initiatives which address inequality  and marginalized communities.
 
 ## Critical Cartography
 
@@ -180,7 +180,7 @@ This graphic displays ***Native Land Digital***'s interactive map. Compared to C
 
 The 90 communities in the city of Pittsburgh are examined street by street in the Pittsburgh Neighborhood Project. The truth of enduring racial and economic segregation is reveled by this project as each neighborhood's beauty and individuality are also investigated. The mission of this project is to inform Pittsburgh residents about the origins, effects, and ongoing racial and economic segregation in Pittsburgh's neighborhood. The project also hopes to draw attention to the areas and the people who live there who desperately need long-term, equitable, all-encompassing investment. [@cotter2019]
 
-Similar to the project CriticalJustice, the Pittsburgh Neighborhood Project focus on indicators of why a specific community requires a higher level of need than other communities. In contrast, the Pittsburgh Neighborhood Project focuses on how poverty affects the citizens of the community, compared to how CriticalJustice will focus on how lack of infrastructure and policing procedures affect a community. Similarly, both of the projects focus on the idea that everyone, regardless of their color or social standing, deserves to live in areas that are secure and free from violence.
+Similar to the project **CriticalJustice**, the Pittsburgh Neighborhood Project focus on indicators of why a specific community requires a higher level of need than other communities. In contrast, the Pittsburgh Neighborhood Project focuses on how poverty affects the citizens of the community, compared to how **CriticalJustice** will focus on how lack of infrastructure and policing procedures affect a community. Similarly, both of the projects focus on the idea that everyone, regardless of their color or social standing, deserves to live in areas that are secure and free from violence.
 
 ![Pittsburgh Neighborhood Project Map](images/neigborhood.png)
 
@@ -188,7 +188,7 @@ The figure here shows the map visualization of the Pittsburgh neighborhood Proje
 
 ## Infrastructure and Policing Research  
 
-In the project CriticalJustice, the aim is to visualize how factors such as lack of infrastructure and over-policing disproportionately affect the neighborhood development. Within several aspects of infrastructure, Black communities continually face some type of disadvantage.
+In the project **CriticalJustice**, the aim is to visualize how factors such as lack of infrastructure and over-policing disproportionately affect the neighborhood development. Within several aspects of infrastructure, Black communities continually face some type of disadvantage.
 
 For instance, in Jesus M. Barajas' article, "Biking where Black: Connecting transportation planning and infrastructure to disproportionate policing", he examines whether excessive policing is related to transit limitations while using the example of cycling in Chicago. He would then report his findings, "Tickets were issued 8 times more often per capita in majority Black tracts and 3 times more often in majority Latino tracts compared to majority white tracts. More tickets were issued on major streets, but up to 85% fewer were issued when those streets had bike facilities, which was less prevalent in Black and Latino neighborhoods." [@BARAJAS2021103027]. From these statistics, one can conclude that the impacts of racially biased policing are exacerbated in the context of transportation safety tactics by infrastructure imbalances.
 
@@ -339,7 +339,9 @@ With each individual `import` statement, I will be utilizing a Python package, w
 
     - ***MarkerCluster**: The`MarkerCluster` plugin in `folium` is utilized to condense data that slows down the performance of the interactive map. I utilized this feature for the `Shots.csv` and `FireIncident.csv` datasets, so that the large points were contained in clusters.
 
-![Folium Map Creation](images/pitt.png)
+```python
+pitt_map = folium.Map(zoom_start=12)
+```
 
 This code syntax represents the creation of the Folium map and assigning it as `pitt_map`. This also creates a default Folium with no features added until the user prompts it with additional code.
 
