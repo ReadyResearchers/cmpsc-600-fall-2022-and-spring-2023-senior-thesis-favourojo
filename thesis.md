@@ -1,6 +1,6 @@
 # Introduction
 
-There are several reasons crime occurs in a certain community. These could range from the economic determinants, which as acquired greater relevance in the past couple years, such as educational attainment, wage income, income inequality, and public expenditure on police. The theory that police presence or public funding in protection actually causes more crime may seem contradictory, but there has been data that show that communities who have a higher percentage of police dispatches tend to have a higher crime rate.
+There are several reasons crime occurs in a certain community. These could range from the economic determinants such as educational attainment, wage income, income inequality, and public expenditure on police. The theory that police presence or public funding in protection actually causes more crime may seem contradictory, but there has been data that show that communities who have a higher percentage of police dispatches tend to have a higher crime rate. According to the  
 
 Additionally, lack of investment in a community can lead to a higher crime rate in a community. One must consider the long-standing connection between violence and geography in order to comprehend the causes of-and potential remedies for- violence in the United States. According to decades of study, violence is spatially concentrated in America, happening disproportionately in a small number of streets. Also, the concentration of structural disadvantage indicators (such as poverty, poor educational attainment, and high unemployment) and the greatest percentage of persons of color may be found in these areas.
 
@@ -18,7 +18,7 @@ The above factors, health, employment, income, and education, are essential for 
 
 A new initiative called **Black Pittsburgh Matters** is the City of Pittsburgh's approach to develop Black neighborhoods and enhance the quality of life for Black people. Their principles are Black Communities Matter, reviving traditional Black communities; Black Lives Matter, ensuring the health and safety of Black People; and Black Wealth Matters, fostering Black enterprise and employment. R. Daniel Lavelle and Rev. Ricky Burgess, councilmen from Pittsburgh, Pennsylvania, continue to draft laws that would improve the quality of life for the city's Black residents. [@thecityofpittsburgh]
 
-Initiatives like these create hope for individuals living in low-income Black communities in Pittsburgh, Pennsylvania following a period in which they felt abandoned by the community.
+During a period in which they felt abandoned by the community, initiatives like these provide those living in low-income Black areas in Pittsburgh, Pennsylvania hope. As a result, there could now be a greater emphasis on the quality of life for Black people if programs like this keep developing and being proposed. By concentrating on the factors that make Black people in Pittsburgh unhappy, the city may start to come up with solutions that will make housing in Pittsburgh more accessible and eliminate any cases of eviction. 
 
 ## "Hot Spot" Policing
 
@@ -44,7 +44,9 @@ The researchers next conducted study on the buildings that earned high fire risk
 
 ![Fire Model](images/model.png)
 
-The most high-risk property kinds are shown in the aforementioned graphic. According to this presentation, apartments with 40 or more units are the ones with the greatest number of high-risk addresses and apartment with 5-19 units had the second greatest number of high-risk addresses. These apartments often serve as low-income housing for individuals, and as a result, they typically have worse conditions than other apartment buildings.
+The most high-risk property kinds are shown in the aforementioned graphic. According to this presentation, apartments with 40 or more units are the ones with the greatest number of high-risk addresses and apartment with 5-19 units had the second greatest number of high-risk addresses. These apartments often serve as low-income housing for individuals, where there is a lack of community investment, and as a result, they typically have worse conditions than other apartment buildings. 
+
+Furthermore, from the graphic shown, 
 
 
 ## Relationship between Citizens and Police
@@ -185,6 +187,18 @@ Similar to the project **CriticalJustice**, the Pittsburgh Neighborhood Project 
 ![Pittsburgh Neighborhood Project Map](images/neigborhood.png)
 
 The figure here shows the map visualization of the Pittsburgh neighborhood Project. The map here shows the different communities of Pittsburgh while also depicting the relevant Pittsburgh Parks and Allegheny County Major Rivers. The legend below also highlights one of the key factors of the Pittsburgh Neighborhood Project that they have been trying to emphasize-poverty. The coloring of the map represents the percentage of the rate that falls below federal poverty line by census tract.
+
+## Allegheny County Community Need Map
+
+The **Allegheny County Community Need Map** utilizes features similar to those of **CriticalJustice** interactive map to highlight community need in the city of Pittsburgh. The two maps do, however, differ from one another despite their similarities.
+
+![Allegheny County Community Need Map](images/analy.png)
+
+This figure depicts the **Allegheny County Community Need Map**. Similar to the **CriticalJustice** interactive map, the city of Pittsburgh is being displayed and there are clear borders dividing each Pittsburgh neighborhood.
+
+The **Allegheny County Community Need Map** does provide many demographic layers, such as the percentage of internet access and the number of emergency shelters for the homeless, but there are no clear indicators as to what could be driving some regions to have a high degree of need. Instead, the interactive map highlights community need index variable of each Pittsburgh neighborhood, such as the average rate of gun shots reported per 500 people and housing value in each community. Though these are factors related to community need, 
+
+In the **CriticalJustice** interactive map, the data points that are the main focus for the argument are the amount of fire instances and also the amount of gun shots fires that occur in the neighborhood. These data points connect to the need for infrastructure development and community investment in certain neighborhoods. 
 
 ## Infrastructure and Policing Research  
 
@@ -573,6 +587,36 @@ Next, a hierarchy of symbolism must be observed in the use of line weights, shad
 
 Finally, a map must have a goal in mind if it is to be considered effective. Dedicated to provide a free online resource for those interested in learning more about the Indigenous history of the land they live on and visit, **Native Land** is an Indigenous-led initiative.
 
+### Evaluation of **Allegheny County Community Need Map**
+
+![Allegheny County Community Need Map](images/analy.png)
+
+Allegheny County, widely known as Pittsburgh, is seen on the map in the image above. The amount of community need in each Pittsburgh neighborhood is depicted on this map, along with the contributing variables that go into determining that level of need.
+
+First, In this figure above, there is a title located at the top left-hand corner that states **Allegheny County Community Need** map that is visible for viewers to see.
+
+Second, a scale indication that shows the relationship between a unit of measurement on the map and in reality is necessary. On the **Allegheny County Community Need** map, there is a scale indicator present that is similar to the one shown in the **CriticalJustice** interactive map. In the layer control titled ***Change in Need & Race Layers***, the variables **Change in Need from 2013 CNI to 2018 CNI** and **Level of Need by Census Tract** are being based off a shading scale to determine which communities have had change in need and also how high is the need in the certain neighborhood.
+
+Third, for a map to be considered appropriate, there must be some sort of orientation hint on the map. On the **Allegheny County Community Need** map, there is no indication of a orientation provided. The map does not include a compass rose for the user to distinguish all 4 different directions.
+
+Fourth, A map border may be used to clearly highlight the areas that are the main focus on an interactive map. There are intricate lines being shown in the **Allegheny County Community Need** map to showcase the unique neighborhoods in Pittsburgh.
+
+Fifth, the user's understanding of the interactive map's symbolism and color is improved by the presence of a legend. On the **Allegheny County Community Need** map, there are several types of legends present.
+
+![Allegheny County Community Need Map Legend](images/analy2.png)
+
+In this figure, by utilizing the layer control titled ***Facility & Demographic Layers***, users will be able to add significant factors that relate to the demographics of Pittsburgh and also different kinds of facilities. Each factor is represented by a unique symbol.
+
+Sixth, the interactive map should display the source of the data, the name of the cartographer, information about the creation and publication of the map, and information about the map data. The **Allegheny County Community Need** map lists this information in an informative section titled ***About This Map and How To Use It***. This is located under the search bar provided on the map.
+
+Seventh, if the territory of the map is extensive or difficult to locate, an inset Locator map is required. On the **Allegheny County Community Need** interactive map, there is not an apparent inset Locator map. There is no need for an inset Locator map because the information displayed on the interactive map highlights the key features of the map.
+
+Eighth, the planning and decision-making procedures that go into the visual presentation of geographic data are referred to as good graphical design. One way to make the design work is to achieve balance throughout the map. The **Allegheny County Community Need** interactive map is able to create balance within the map by properly displaying its elements, map, legend, layer controls, evenly on the page. 
+
+Next, it is best to employ a hierarchy of symbols for the typography, line weights, and shading. Less significant or background information should be smaller and lighter, whereas more prominent aspects are often bigger and/or darker. The shade on the interactive **Allegheny County Community Need** map denotes relevance in relation to several characteristics, such as the amount of need and also the change in need from one time period to another.
+
+Finally, there must be a reason for a map's creation in order for it to be considered efficient. The **Allegheny County Community Need** interactive utilizes community data to highlight that systemic, institutional, and interpersonal racism is the cause of the relationship between need and race. By doing this, the map is able to inform users that higher need neighborhoods are still affected by the historical consequences of disinvestment, poverty, and lack of opportunity.
+
 ### Validation Results
 
 The requirements that each interactive map meets are reported in this section using the validation scoreboard that was developed using the criteria for the maps that were investigated.
@@ -632,7 +676,7 @@ Table: **Mapping Inequality** Map Validation Scoreboard
 |Visual Hierarchy |    YES    |
 |Purpose |        YES         |
 
-This validation scoreboard indicates that the **Mapping Inequality** interactive map passes ***eight out of the 10*** elements of the map criteria. This map does have any signal of orientation present to show direction. This map also does not have any map credits displayed as well. 
+This validation scoreboard indicates that the **Mapping Inequality** interactive map passes ***eight out of the 10*** elements of the map criteria. This map does have any signal of orientation present to show direction. This map also does not have any map credits displayed as well.
 
 ### **Native Land**
 
@@ -651,8 +695,26 @@ Table: **Native Land** Map Validation Scoreboard
 |Visual Hierarchy |    YES    |
 |Purpose |        YES         |
 
-From this map validation scoreboard, users can see that the **Native Land** interactive map passes ***six out of the 10***. Because this is more of an informative map, there is no scale indicator present. There are no borders specifically shown as well. There are no map credits listed, just as the previous two maps. There is no locator map present because there is no need to show a specific region in the map. 
+From this map validation scoreboard, users can see that the **Native Land** interactive map passes ***six out of the 10***. Because this is more of an informative map, there is no scale indicator present. There are no borders specifically shown as well. There are no map credits listed, just as the previous two maps. There is no locator map present because there is no need to show a specific region in the map.
 
+### **Allegheny County Community Need Map**
+
+Table: **Allegheny County Community Need Map** Map Validation Scoreboard
+
+|Criteria   | PASS Criteria?|
+|---------- |------------ |------------- |
+|Title      |      YES      |
+|Scale Indicator |     YES    |
+|Orientation |        NO       |
+|Borders |          YES       |
+|Legend |          YES          |
+|Map Credits |      YES          |
+|Locator Map (Inset) |   NO   |
+|Effective Graphical Design |   YES    |
+|Visual Hierarchy |    YES    |
+|Purpose |        YES         |
+
+According to this scoreboard for map validation, the **Allegheny County Community Need** interactive map passes ***eight out of the 10*** criteria listed above. The map lacks orientation to indicate direction for users. A inset Locator map is also not visible for users to view.
 
 ## Threats to Validity
 
@@ -740,7 +802,7 @@ Regarding the aesthetics of the interactive map and the constraints of the study
 
 ### Argument Improvements
 
-The initiative does, in my opinion, a good job of illustrating the role that crime prevention plays in the growth of a community. However, there are other aspects that could have been implementated to make the argument even stronger. The components that might potentially lead to crime include many others in addition to the determinants of crime I discussed in my thesis. For instance, one of the biggest barriers to success that a specific person encounters is their level of schooling. Because there isn't as much investment in the local educational system in some regions, there are less opportunities for residents to pursue higher education.
+The initiative does, in my opinion, a good job of illustrating the role that crime prevention plays in the growth of a community. However, there are other aspects that could have been implemented to make the argument even stronger. The components that might potentially lead to crime include many others in addition to the determinants of crime I discussed in my thesis. For instance, one of the biggest barriers to success that a specific person encounters is their level of schooling. Because there isn't as much investment in the local educational system in some regions, there are less opportunities for residents to pursue higher education.
 
 Additionally, to add new components to the argument, I would need to research for more data to back up my arguments. Thankfully, in prepartion for the quantity of data I would need to make an argument, I downloaded various datasets that connected to the notions of crime, policing, and infrastructure. For example, I specifically downloaded a dataset that listed all the traffic stops made in Pittsburgh, Pennsylvania. 
 
