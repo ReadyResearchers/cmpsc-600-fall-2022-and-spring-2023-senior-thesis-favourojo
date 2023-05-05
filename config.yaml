@@ -75,8 +75,3 @@ header-includes:
       Dontyoueverhyphenateme
     }%
     ```
-
-
-Host github.com
-  Hostname ssh.github.com
-  Port 443
